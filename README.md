@@ -6,6 +6,8 @@ https://github.com/joyent/libuv/pull/1015
 
 https://github.com/kenwheeler/slick/issues/681
 
+https://github.com/kraih/mojo/issues/656
+
 https://github.com/Microsoft/TypeScript/pull/3622
 
 https://github.com/moment/moment/issues/1407
