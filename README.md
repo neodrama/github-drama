@@ -1,5 +1,7 @@
 # github-drama
 
+https://github.com/jashkenas/underscore/issues/1805
+
 https://github.com/joyent/libuv/pull/1015
 
 https://github.com/kenwheeler/slick/issues/681
