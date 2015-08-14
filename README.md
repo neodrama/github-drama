@@ -10,4 +10,6 @@ https://github.com/nixxquality/WebMConverter/commit/c1ac0baac06fa7175677a4a1bf65
 
 https://github.com/rails/rails/issues/9894
 
+https://github.com/tip4commit/tip4commit/issues/127
+
 https://github.com/todogroup/opencodeofconduct/issues/84
