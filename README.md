@@ -1,5 +1,7 @@
 # github-drama
 
+https://github.com/django/django/pull/2692
+
 https://github.com/jashkenas/underscore/issues/1805
 
 https://github.com/joyent/libuv/pull/1015
