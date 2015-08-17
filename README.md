@@ -1,5 +1,7 @@
 # github-drama
 
+https://github.com/chrisaljoudi/uBlock/pull/1517
+
 https://github.com/django/django/pull/2692
 
 https://github.com/jashkenas/underscore/issues/1805
