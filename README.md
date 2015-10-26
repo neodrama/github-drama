@@ -18,7 +18,7 @@ https://github.com/Microsoft/TypeScript/pull/3622
 
 https://github.com/moment/moment/issues/1407
 
-https://github.com/mozilla-jetpack/jpm/pull/357
+https://github.com/mozilla-jetpack/jpm/pull/357/commits
 
 https://github.com/nixxquality/WebMConverter/commit/c1ac0baac06fa7175677a4a1bf65860a84708d67
 
