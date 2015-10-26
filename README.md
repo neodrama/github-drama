@@ -6,6 +6,8 @@ https://github.com/chrisaljoudi/uBlock/pull/1517
 
 https://github.com/django/django/pull/2692
 
+https://github.com/erikvold/jpm/commit/c23d022d95d9a0c25cd4b7532c25d79f40b54bf5
+
 https://github.com/jashkenas/underscore/issues/1805
 
 https://github.com/joyent/libuv/pull/1015
