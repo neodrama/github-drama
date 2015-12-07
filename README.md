@@ -33,3 +33,5 @@ https://github.com/rails/rails/pull/5329
 https://github.com/tip4commit/tip4commit/issues/127
 
 https://github.com/todogroup/opencodeofconduct/issues/84
+
+https://github.com/twbs/bootstrap/issues/3057
