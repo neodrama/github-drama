@@ -8,6 +8,8 @@ https://github.com/chrisaljoudi/uBlock/pull/1517
 
 https://github.com/django/django/pull/2692
 
+https://github.com/irungentoo/toxcore/issues/1227
+
 https://github.com/jashkenas/underscore/issues/1805
 
 https://github.com/joyent/libuv/pull/1015
@@ -22,6 +24,8 @@ https://github.com/moment/moment/issues/1407
 
 https://github.com/mozilla-jetpack/jpm/pull/357/commits
 
+https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/issues/123
+
 https://github.com/nixxquality/WebMConverter/commit/c1ac0baac06fa7175677a4a1bf65860a84708d67
 
 https://github.com/nodejs/node/issues/3721
@@ -35,3 +39,5 @@ https://github.com/tip4commit/tip4commit/issues/127
 https://github.com/todogroup/opencodeofconduct/issues/84
 
 https://github.com/twbs/bootstrap/issues/3057
+
+https://github.com/ValveSoftware/steam-for-linux/issues/3671
