@@ -28,6 +28,8 @@ https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/issues/123
 
 https://github.com/nixxquality/WebMConverter/commit/c1ac0baac06fa7175677a4a1bf65860a84708d67
 
+https://github.com/nodejs/inclusivity/issues/9
+
 https://github.com/nodejs/node/issues/3721
 
 https://github.com/rails/rails/issues/9894
