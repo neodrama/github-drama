@@ -43,3 +43,5 @@ https://github.com/todogroup/opencodeofconduct/issues/84
 https://github.com/twbs/bootstrap/issues/3057
 
 https://github.com/ValveSoftware/steam-for-linux/issues/3671
+
+https://github.com/opal/opal/issues/941
