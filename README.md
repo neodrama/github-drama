@@ -34,6 +34,8 @@ https://github.com/nodejs/inclusivity/issues/9
 
 https://github.com/nodejs/node/issues/3721
 
+https://github.com/opal/opal/issues/941
+
 https://github.com/rails/rails/issues/9894
 
 https://github.com/rails/rails/pull/5329
@@ -45,5 +47,3 @@ https://github.com/todogroup/opencodeofconduct/issues/84
 https://github.com/twbs/bootstrap/issues/3057
 
 https://github.com/ValveSoftware/steam-for-linux/issues/3671
-
-https://github.com/opal/opal/issues/941
