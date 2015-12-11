@@ -14,6 +14,8 @@ https://github.com/jashkenas/underscore/issues/1805
 
 https://github.com/joyent/libuv/pull/1015
 
+https://github.com/JuliaLang/IJulia.jl/issues/398
+
 https://github.com/kenwheeler/slick/issues/681
 
 https://github.com/kraih/mojo/issues/656
