@@ -1,5 +1,7 @@
 # github-drama
 
+https://github.com/mozilla/addon-sdk/commit/169a05b9764674b6ad3fb1c6ea1cbf3c7edf8db0#commitcomment-14824459
+
 https://github.com/apple/swift/pull/165
 
 https://github.com/bower/bower/issues/1102
