@@ -1,7 +1,5 @@
 # github-drama
 
-https://github.com/mozilla/addon-sdk/commit/169a05b9764674b6ad3fb1c6ea1cbf3c7edf8db0#commitcomment-14824459
-
 https://github.com/apple/swift/pull/165
 
 https://github.com/bower/bower/issues/1102
@@ -25,6 +23,8 @@ https://github.com/kraih/mojo/issues/656
 https://github.com/Microsoft/TypeScript/pull/3622
 
 https://github.com/moment/moment/issues/1407
+
+https://github.com/mozilla/addon-sdk/commit/169a05b9764674b6ad3fb1c6ea1cbf3c7edf8db0#commitcomment-14824459
 
 https://github.com/mozilla-jetpack/jpm/pull/357/commits
 
