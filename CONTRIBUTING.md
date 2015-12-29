@@ -8,6 +8,6 @@ of "non-serious" github threads, ones where the usual github politeness
 gave way to reaction gifs and one-word replies, ultimately turning into
 something like a 4chan thread without the wit.
 
-In this repository, we'll go by the general guideline: if one or more people
-in the thread appears to be getting really worked up about something, it
-should be considered for inclusion here.
+In this repository, we'll go by the general guideline: if anyone in the thread
+appears to be getting really worked up about something, it should be considered
+for inclusion here.
