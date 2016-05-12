@@ -38,6 +38,8 @@ https://github.com/nodejs/node/issues/3721
 
 https://github.com/opal/opal/issues/941
 
+https://github.com/ptsteadman/notebook/pull/1
+
 https://github.com/rails/rails/issues/9894
 
 https://github.com/rails/rails/pull/5329
