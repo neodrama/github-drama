@@ -1,5 +1,7 @@
 # github-drama
 
+https://github.com/zenparsing/es-observable/pull/97
+
 https://github.com/bower/bower/issues/1102
 
 https://github.com/bower/bower/pull/1748
