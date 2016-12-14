@@ -10,3 +10,5 @@ a 4chan thread but less funny.
 
 This repository follows the guideline that if anyone in the thread appears to
 be getting worked up about something, it can be considered for inclusion here.
+If any of the repository's maintainers have locked conversation on a thread,
+that's also a good indicator that it could be included here.
