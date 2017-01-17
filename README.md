@@ -64,4 +64,6 @@ https://github.com/twitter/scrooge/issues/222
 
 https://github.com/PowerShell/PowerShell/pull/1901
 
+https://github.com/strongloop/loopback/issues/1079
+
 https://github.com/tc39/proposal-cancelable-promises/issues/70
