@@ -1,7 +1,5 @@
 # github-drama
 
-https://github.com/zenparsing/es-observable/pull/97
-
 https://github.com/bower/bower/issues/1102
 
 https://github.com/bower/bower/pull/1748
@@ -71,3 +69,5 @@ https://github.com/strongloop/loopback/issues/1079
 https://github.com/tc39/proposal-cancelable-promises/issues/70
 
 https://github.com/twitter/scrooge/issues/222
+
+https://github.com/zenparsing/es-observable/pull/97
