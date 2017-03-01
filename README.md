@@ -10,6 +10,8 @@ https://github.com/chrisaljoudi/uBlock/pull/1517
 
 https://github.com/django/django/pull/2692
 
+https://github.com/docker/docker/pull/31075
+
 https://github.com/irungentoo/toxcore/issues/1227
 
 https://github.com/jashkenas/underscore/issues/1805
@@ -69,5 +71,3 @@ https://github.com/strongloop/loopback/issues/1079
 https://github.com/tc39/proposal-cancelable-promises/issues/70
 
 https://github.com/twitter/scrooge/issues/222
-
-https://github.com/docker/docker/pull/31075
