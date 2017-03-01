@@ -1,5 +1,4 @@
 # Contributing to github-drama #
-This is a curated collection of "dramatic" github interactions.
 
 ## What qualifies as drama? ##
 There's no agreement on what's considered dramatic enough to be included
