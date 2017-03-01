@@ -1,5 +1,8 @@
 # github-drama
 
+This is a curated collection of "dramatic" github interactions.
+
+
 https://github.com/bower/bower/issues/1102
 
 https://github.com/bower/bower/pull/1748
