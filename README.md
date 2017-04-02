@@ -53,8 +53,6 @@ https://github.com/resque/resque/issues/1406
 
 https://github.com/tip4commit/tip4commit/issues/127
 
-https://github.com/todogroup/opencodeofconduct/issues/84
-
 https://github.com/twbs/bootstrap/issues/3057
 
 https://github.com/ValveSoftware/steam-for-linux/issues/3671
