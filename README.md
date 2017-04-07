@@ -41,6 +41,8 @@ https://github.com/nodejs/inclusivity/issues/9
 
 https://github.com/nodejs/node/issues/3721
 
+https://github.com/nodejs/TSC/issues/8
+
 https://github.com/opal/opal/issues/941
 
 https://github.com/ptsteadman/notebook/pull/1
