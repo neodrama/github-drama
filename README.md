@@ -63,6 +63,8 @@ https://github.com/ValveSoftware/steam-for-linux/issues/3671
 
 https://github.com/vimeo/player.js/issues/28
 
+https://github.com/NixOS/nixpkgs/issues/4952
+
 https://github.com/nodejs/node/pull/4765
 
 https://github.com/PowerShell/PowerShell/pull/1901
