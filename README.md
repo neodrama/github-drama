@@ -25,6 +25,8 @@ https://github.com/JuliaLang/IJulia.jl/issues/398
 
 https://github.com/kenwheeler/slick/issues/681
 
+https://github.com/kmmbvnr/django-jenkins/issues/349
+
 https://github.com/kraih/mojo/issues/656
 
 https://github.com/Microsoft/TypeScript/pull/3622
