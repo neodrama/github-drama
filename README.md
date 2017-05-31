@@ -2,6 +2,7 @@
 
 This is a curated collection of "dramatic" github interactions.
 
+https://github.com/jdm-contrib/justdelete.me/issues/86 [mirrors: [1](https://archive.fo/DNf2M)]
 
 https://github.com/aspnet/Home/issues/2022
 
