@@ -2,8 +2,6 @@
 
 This is a curated collection of "dramatic" github interactions.
 
-https://github.com/jdm-contrib/justdelete.me/issues/86 [mirrors: [1](https://archive.fo/DNf2M)]
-
 https://github.com/aspnet/Home/issues/2022
 
 https://github.com/bower/bower/issues/1102
@@ -19,6 +17,8 @@ https://github.com/docker/docker/pull/31075
 https://github.com/irungentoo/toxcore/issues/1227
 
 https://github.com/jashkenas/underscore/issues/1805
+
+https://github.com/jdm-contrib/justdelete.me/issues/86 [mirrors: [1](https://archive.fo/DNf2M)]
 
 https://github.com/joyent/libuv/pull/1015
 
