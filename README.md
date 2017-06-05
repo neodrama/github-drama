@@ -50,6 +50,8 @@ https://github.com/nodejs/TSC/issues/8
 
 https://github.com/opal/opal/issues/941
 
+https://github.com/P-H-C/phc-winner-argon2/issues/182
+
 https://github.com/ptsteadman/notebook/pull/1
 
 https://github.com/rails/rails/issues/9894
