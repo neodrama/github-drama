@@ -2,9 +2,9 @@
 
 This is a curated collection of "dramatic" github interactions.
 
-https://github.com/atom-minimap/minimap/issues/588
-
 https://github.com/aspnet/Home/issues/2022
+
+https://github.com/atom-minimap/minimap/issues/588
 
 https://github.com/bower/bower/issues/1102
 
