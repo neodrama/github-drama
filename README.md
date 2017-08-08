@@ -12,6 +12,8 @@ https://github.com/bower/bower/pull/1748
 
 https://github.com/chrisaljoudi/uBlock/pull/1517
 
+https://github.com/CVarisco/community-story/pull/1
+
 https://github.com/django/django/pull/2692
 
 https://github.com/docker/docker/pull/31075
