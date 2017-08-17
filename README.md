@@ -2,6 +2,8 @@
 
 This is a curated collection of "dramatic" github interactions.
 
+[https://github.com/Microsoft/vscode/issues/32405](https://web.archive.org/web/20170817095211/https://github.com/Microsoft/vscode/issues/32405)
+
 https://github.com/aspnet/Home/issues/2022
 
 https://github.com/atom-minimap/minimap/issues/588
