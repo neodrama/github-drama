@@ -95,5 +95,3 @@ https://github.com/tc39/proposal-cancelable-promises/issues/70
 https://github.com/twitter/scrooge/issues/222
 
 https://github.com/zenparsing/es-observable/pull/97
-
-https://github.com/atom-minimap/minimap/issues/588
