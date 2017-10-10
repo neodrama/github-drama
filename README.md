@@ -74,6 +74,8 @@ https://github.com/resque/resque/issues/1406
 
 https://github.com/syl20bnr/spacemacs/pull/3484
 
+https://github.com/telegramdesktop/tdesktop/issues/96
+
 https://github.com/tip4commit/tip4commit/issues/127
 
 https://github.com/todogroup/opencodeofconduct/pull/70
