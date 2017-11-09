@@ -111,3 +111,5 @@ https://github.com/vcflib/vcflib/issues/206
 https://github.com/zenparsing/es-observable/pull/97
 
 https://github.com/WhisperSystems/Signal-Android/issues/127
+
+https://github.com/docker/for-mac/issues/1120
