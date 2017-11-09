@@ -102,6 +102,8 @@ https://github.com/twitter/scrooge/issues/222
 
 https://github.com/vcflib/vcflib/issues/206
 
+[https://github.com/WICG/interventions/issues/18](https://github.com/WICG/interventions/issues/18)
+
 https://github.com/zenparsing/es-observable/pull/97
 
 https://github.com/WhisperSystems/Signal-Android/issues/127
