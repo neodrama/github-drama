@@ -6,9 +6,14 @@ This is a curated collection of "dramatic" github interactions.
 
 Make sure to link to the issue or pull request in your commit message. This causes
 a link to the github-drama commit to appear in the dramatic interaction, if it
-hasn't been locked yet.
+hasn't been locked yet. That way, the participants of the drama know that they're
+being dramatic. This can have a number of effects on a person:
 
-### What qualifies as drama? ##
+* They realize they're being dramatic, and take a step back from the drama. This
+  reduces their anxiety and blood pressure.
+* They're embarrassed that they've been called out as being dramatic.
+
+### What qualifies as drama?
 There's no agreement on what's considered dramatic enough to be included
 in github-drama. Everyone has a different sense of humor. There are plenty
 of "non-serious" github threads, where the usual github politeness gave
