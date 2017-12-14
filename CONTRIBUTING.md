@@ -1,5 +1,9 @@
 # Contributing to github-drama #
 
+Make sure to link to the issue or pull request in your commit message. This causes
+a link to the github-drama commit to appear in the dramatic interaction, if it
+hasn't been locked yet.
+
 ## What qualifies as drama? ##
 There's no agreement on what's considered dramatic enough to be included
 in github-drama. Everyone has a different sense of humor. There are plenty
