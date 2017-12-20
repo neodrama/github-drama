@@ -107,6 +107,8 @@ https://github.com/syl20bnr/spacemacs/pull/3484
 
 https://github.com/systemd/systemd/issues/1143
 
+https://github.com/systemd/systemd/issues/2402
+
 https://github.com/telegramdesktop/tdesktop/issues/96
 
 https://github.com/tip4commit/tip4commit/issues/127
