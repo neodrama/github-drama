@@ -51,6 +51,8 @@ https://github.com/dotnet/cli/issues/3093
 
 https://github.com/facebook/react/issues/10191
 
+https://github.com/facebookincubator/create-react-app/issues/3780
+
 https://github.com/golang/go/issues/21956
 
 https://github.com/irungentoo/toxcore/issues/1227
