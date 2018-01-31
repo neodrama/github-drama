@@ -45,6 +45,8 @@ https://github.com/django/django/pull/2692
 
 https://github.com/docker/docker/pull/31075
 
+https://github.com/docker/for-mac/issues/1120
+
 https://github.com/doktornotor/pfsense-closedsource
 
 https://github.com/dotnet/cli/issues/3093
@@ -92,6 +94,12 @@ https://github.com/nodejs/node/issues/3721
 https://github.com/nodejs/TSC/issues/8
 
 https://github.com/opal/opal/issues/941
+
+[https://github.com/opencart/opencart/issues/3834](https://web.archive.org/web/20160120051637/https://github.com/opencart/opencart/issues/3834)
+
+[https://github.com/opencart/opencart/issues/1534](https://web.archive.org/web/20160120151012/https://github.com/opencart/opencart/issues/1534)
+
+[https://github.com/opencart/opencart/issues/1269](https://web.archive.org/web/20160120150725/https://github.com/opencart/opencart/issues/1269)
 
 https://github.com/P-H-C/phc-winner-argon2/issues/182
 
@@ -144,11 +152,3 @@ https://github.com/vcflib/vcflib/issues/206
 https://github.com/zenparsing/es-observable/pull/97
 
 https://github.com/WhisperSystems/Signal-Android/issues/127
-
-https://github.com/docker/for-mac/issues/1120
-
-[https://github.com/opencart/opencart/issues/3834](https://web.archive.org/web/20160120051637/https://github.com/opencart/opencart/issues/3834)
-
-[https://github.com/opencart/opencart/issues/1534](https://web.archive.org/web/20160120151012/https://github.com/opencart/opencart/issues/1534)
-
-[https://github.com/opencart/opencart/issues/1269](https://web.archive.org/web/20160120150725/https://github.com/opencart/opencart/issues/1269)
