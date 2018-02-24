@@ -93,6 +93,8 @@ https://github.com/nodejs/node/issues/3721
 
 https://github.com/nodejs/TSC/issues/8
 
+https://github.com/npm/npm/issues/19883
+
 https://github.com/opal/opal/issues/941
 
 [https://github.com/opencart/opencart/issues/3834](https://web.archive.org/web/20160120051637/https://github.com/opencart/opencart/issues/3834)
