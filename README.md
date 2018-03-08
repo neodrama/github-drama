@@ -162,3 +162,5 @@ https://github.com/zenparsing/es-observable/pull/97
 https://github.com/WhisperSystems/Signal-Android/issues/127
 
 https://github.com/npm/npm/issues/19883
+
+https://github.com/jasperla/openbsd-wip/issues/86
