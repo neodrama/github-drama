@@ -61,6 +61,8 @@ https://github.com/Homebrew/homebrew-core/issues/24654 (archived: https://web.ar
 
 https://github.com/Homebrew/homebrew-services/issues/151
 
+https://github.com/Homebrew/legacy-homebrew/issues/50683
+
 https://github.com/irungentoo/toxcore/issues/1227
 
 https://github.com/jashkenas/underscore/issues/1805
