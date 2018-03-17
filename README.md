@@ -13,6 +13,9 @@ being dramatic. This can have a number of effects on a person:
   reduces their anxiety and blood pressure.
 * They're embarrassed that they've been called out as being dramatic.
 
+### How do I find drama?
+Go into a GitHub project's issues, and sort by "Most commented" or "Most reactions".
+
 ### What qualifies as drama?
 There's no agreement on what's considered dramatic enough to be included
 in github-drama. Everyone has a different sense of humor. There are plenty
