@@ -36,11 +36,11 @@ a good indicator that it could be included here.
 
 [https://github.com/atom-minimap/minimap/issues/588](https://github.com/atom-minimap/minimap/issues/588)
 
-https://github.com/bower/bower/issues/1102
+[https://github.com/bower/bower/issues/1102](https://github.com/bower/bower/issues/1102)
 
-https://github.com/bower/bower/pull/1748
+[https://github.com/bower/bower/pull/1748](https://github.com/bower/bower/pull/1748)
 
-https://github.com/chrisaljoudi/uBlock/pull/1517
+[https://github.com/chrisaljoudi/uBlock/pull/1517](https://github.com/chrisaljoudi/uBlock/pull/1517)
 
 https://github.com/CVarisco/community-story/pull/1
 
