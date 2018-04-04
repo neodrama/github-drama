@@ -72,7 +72,7 @@ a good indicator that it could be included here.
 
 [jasperla/openbsd-wip/issues/86](https://github.com/jasperla/openbsd-wip/issues/86)
 
-[jdm-contrib/justdelete.me/issues/86](https://github.com/jdm-contrib/justdelete.me/issues/86) (mirrors: [1](https://archive.fo/DNf2M)
+[jdm-contrib/justdelete.me/issues/86](https://github.com/jdm-contrib/justdelete.me/issues/86) (mirrors: [1](https://archive.fo/DNf2M))
 
 [joyent/libuv/pull/1015](https://github.com/joyent/libuv/pull/1015)
 
