@@ -70,6 +70,8 @@ a good indicator that it could be included here.
 
 [jashkenas/underscore/issues/1805](https://github.com/jashkenas/underscore/issues/1805)
 
+[jasperla/openbsd-wip/issues/86](https://github.com/jasperla/openbsd-wip/issues/86)
+
 [jdm-contrib/justdelete.me/issues/86](https://github.com/jdm-contrib/justdelete.me/issues/86) (mirrors: [1](https://archive.fo/DNf2M)
 
 [joyent/libuv/pull/1015](https://github.com/joyent/libuv/pull/1015)
@@ -169,7 +171,3 @@ a good indicator that it could be included here.
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
 
 [WhisperSystems/Signal-Android/issues/127](https://github.com/WhisperSystems/Signal-Android/issues/127)
-
-[npm/npm/issues/19883](https://github.com/npm/npm/issues/19883)
-
-[jasperla/openbsd-wip/issues/86](https://github.com/jasperla/openbsd-wip/issues/86)
