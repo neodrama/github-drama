@@ -34,6 +34,8 @@ a good indicator that it could be included here.
 
 [aspnet/Home/issues/2022](https://github.com/aspnet/Home/issues/2022)
 
+[atom/tree-view/pull/804](https://github.com/atom/tree-view/pull/804)
+
 [atom-minimap/minimap/issues/588](https://github.com/atom-minimap/minimap/issues/588)
 
 [bower/bower/issues/1102](https://github.com/bower/bower/issues/1102)
