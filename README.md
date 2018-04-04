@@ -64,100 +64,99 @@ a good indicator that it could be included here.
 
 [Homebrew/homebrew-services/issues/151](https://github.com/Homebrew/homebrew-services/issues/151)
 
-https://github.com/Homebrew/legacy-homebrew/issues/50683
+[Homebrew/legacy-homebrew/issues/50683](https://github.com/Homebrew/legacy-homebrew/issues/50683)
 
-https://github.com/irungentoo/toxcore/issues/1227
+[irungentoo/toxcore/issues/1227](https://github.com/irungentoo/toxcore/issues/1227)
 
-https://github.com/jashkenas/underscore/issues/1805
+[jashkenas/underscore/issues/1805](https://github.com/jashkenas/underscore/issues/1805)
 
-https://github.com/jdm-contrib/justdelete.me/issues/86 [mirrors: [1](https://archive.fo/DNf2M)]
+[jdm-contrib/justdelete.me/issues/86](https://github.com/jdm-contrib/justdelete.me/issues/86) (mirrors: [1](https://archive.fo/DNf2M)
 
-https://github.com/joyent/libuv/pull/1015
+[joyent/libuv/pull/1015](https://github.com/joyent/libuv/pull/1015)
 
-https://github.com/JuliaLang/IJulia.jl/issues/398
+[JuliaLang/IJulia.jl/issues/398](https://github.com/JuliaLang/IJulia.jl/issues/398)
 
-https://github.com/kenwheeler/slick/issues/681
+[kenwheeler/slick/issues/681](https://github.com/kenwheeler/slick/issues/681)
 
-https://github.com/kmmbvnr/django-jenkins/issues/349
+[kmmbvnr/django-jenkins/issues/349](https://github.com/kmmbvnr/django-jenkins/issues/349)
 
-https://github.com/kraih/mojo/issues/656
+[kraih/mojo/issues/656](https://github.com/kraih/mojo/issues/656)
 
-https://github.com/Microsoft/TypeScript/pull/3622
+[Microsoft/TypeScript/pull/3622](https://github.com/Microsoft/TypeScript/pull/3622)
 
-https://github.com/mishoo/UglifyJS2/issues/2054
+[mishoo/UglifyJS2/issues/2054](https://github.com/mishoo/UglifyJS2/issues/2054)
 
-https://github.com/moment/moment/issues/1407
+[moment/moment/issues/1407](https://github.com/moment/moment/issues/1407)
 
-https://github.com/mozilla/addon-sdk/commit/169a05b9764674b6ad3fb1c6ea1cbf3c7edf8db0#commitcomment-14824459
+[mozilla/addon-sdk/commit/169a05b9764674b6ad3fb1c6ea1cbf3c7edf8db0#commitcomment-14824459](https://github.com/mozilla/addon-sdk/commit/169a05b9764674b6ad3fb1c6ea1cbf3c7edf8db0#commitcomment-14824459)
 
-https://github.com/mozilla-jetpack/jpm/pull/357/commits
+[mozilla-jetpack/jpm/pull/357/commits](https://github.com/mozilla-jetpack/jpm/pull/357/commits)
 
-https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/issues/123
+[MrMEEE/bumblebee-Old-and-abbandoned/issues/123](https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/issues/123)
 
-https://github.com/nixxquality/WebMConverter/commit/c1ac0baac06fa7175677a4a1bf65860a84708d67
+[nixxquality/WebMConverter/commit/c1ac0baac06fa7175677a4a1bf65860a84708d67](https://github.com/nixxquality/WebMConverter/commit/c1ac0baac06fa7175677a4a1bf65860a84708d67)
 
-https://github.com/nodejs/inclusivity/issues/9
+[nodejs/inclusivity/issues/9](https://github.com/nodejs/inclusivity/issues/9)
 
-https://github.com/nodejs/node/issues/3721
+[nodejs/node/issues/3721](https://github.com/nodejs/node/issues/3721)
 
-https://github.com/nodejs/TSC/issues/8
+[nodejs/TSC/issues/8](https://github.com/nodejs/TSC/issues/8)
 
-https://github.com/npm/npm/issues/19883
+[npm/npm/issues/19883](https://github.com/npm/npm/issues/19883)
 
-https://github.com/opal/opal/issues/941
+[opal/opal/issues/941](https://github.com/opal/opal/issues/941)
 
+[opencart/opencart/issues/1269](https://web.archive.org/web/20160120150725/https://github.com/opencart/opencart/issues/1269)
 
-[https://github.com/opencart/opencart/issues/1269](https://web.archive.org/web/20160120150725/https://github.com/opencart/opencart/issues/1269)
+[opencart/opencart/issues/3834](https://web.archive.org/web/20160120051637/https://github.com/opencart/opencart/issues/3834)
 
-[https://github.com/opencart/opencart/issues/3834](https://web.archive.org/web/20160120051637/https://github.com/opencart/opencart/issues/3834)
+[opencart/opencart/issues/1534](https://web.archive.org/web/20160120151012/https://github.com/opencart/opencart/issues/1534)
 
-[https://github.com/opencart/opencart/issues/1534](https://web.archive.org/web/20160120151012/https://github.com/opencart/opencart/issues/1534)
+[opencart/opencart/pull/219](https://github.com/opencart/opencart/pull/219)
 
-https://github.com/opencart/opencart/pull/219
+[opencart/opencart/pull/1594](https://github.com/opencart/opencart/pull/1594)
 
-https://github.com/opencart/opencart/pull/1594
+[ariya/phantomjs/issues/15345](https://github.com/ariya/phantomjs/issues/15345)
 
-https://github.com/ariya/phantomjs/issues/15345
+[P-H-C/phc-winner-argon2/issues/182](https://github.com/P-H-C/phc-winner-argon2/issues/182)
 
-https://github.com/P-H-C/phc-winner-argon2/issues/182
+[ptsteadman/notebook/pull/1](https://github.com/ptsteadman/notebook/pull/1)
 
-https://github.com/ptsteadman/notebook/pull/1
+[rails/rails/issues/9894](https://github.com/rails/rails/issues/9894)
 
-https://github.com/rails/rails/issues/9894
+[rails/rails/pull/5329](https://github.com/rails/rails/pull/5329)
 
-https://github.com/rails/rails/pull/5329
+[rails/rails/pull/31434](https://github.com/rails/rails/pull/31434)
 
-https://github.com/rails/rails/pull/31434
+[resque/resque/issues/1406](https://github.com/resque/resque/issues/1406)
 
-https://github.com/resque/resque/issues/1406
+[syl20bnr/spacemacs/pull/3484](https://github.com/syl20bnr/spacemacs/pull/3484)
 
-https://github.com/syl20bnr/spacemacs/pull/3484
+[systemd/systemd/issues/1143](https://github.com/systemd/systemd/issues/1143)
 
-https://github.com/systemd/systemd/issues/1143
+[systemd/systemd/issues/2402](https://github.com/systemd/systemd/issues/2402)
 
-https://github.com/systemd/systemd/issues/2402
+[telegramdesktop/tdesktop/issues/96](https://github.com/telegramdesktop/tdesktop/issues/96)
 
-https://github.com/telegramdesktop/tdesktop/issues/96
+[tip4commit/tip4commit/issues/127](https://github.com/tip4commit/tip4commit/issues/127)
 
-https://github.com/tip4commit/tip4commit/issues/127
+[todogroup/opencodeofconduct/pull/70](https://github.com/todogroup/opencodeofconduct/pull/70)
 
-https://github.com/todogroup/opencodeofconduct/pull/70
+[twbs/bootstrap/issues/3057](https://github.com/twbs/bootstrap/issues/3057)
 
-https://github.com/twbs/bootstrap/issues/3057
+[ValveSoftware/steam-for-linux/issues/3671](https://github.com/ValveSoftware/steam-for-linux/issues/3671)
 
-https://github.com/ValveSoftware/steam-for-linux/issues/3671
+[vimeo/player.js/issues/28](https://github.com/vimeo/player.js/issues/28)
 
-https://github.com/vimeo/player.js/issues/28
+[NixOS/nixpkgs/issues/4952](https://github.com/NixOS/nixpkgs/issues/4952)
 
-https://github.com/NixOS/nixpkgs/issues/4952
+[nodejs/node/pull/4765](https://github.com/nodejs/node/pull/4765)
 
-https://github.com/nodejs/node/pull/4765
+[PowerShell/PowerShell/pull/1901](https://github.com/PowerShell/PowerShell/pull/1901)
 
-https://github.com/PowerShell/PowerShell/pull/1901
+[stevemao/left-pad/issues/4](https://github.com/stevemao/left-pad/issues/4)
 
-https://github.com/stevemao/left-pad/issues/4
-
-https://github.com/strongloop/loopback/issues/1079
+[strongloop/loopback/issues/1079](https://github.com/strongloop/loopback/issues/1079)
 
 [tc39/proposal-cancelable-promises/issues/70](https://github.com/tc39/proposal-cancelable-promises/issues/70)
 
@@ -173,4 +172,4 @@ https://github.com/strongloop/loopback/issues/1079
 
 [npm/npm/issues/19883](https://github.com/npm/npm/issues/19883)
 
-[https://github.com/jasperla/openbsd-wip/issues/86](https://github.com/jasperla/openbsd-wip/issues/86)
+[jasperla/openbsd-wip/issues/86](https://github.com/jasperla/openbsd-wip/issues/86)
