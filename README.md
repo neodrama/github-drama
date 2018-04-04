@@ -30,8 +30,6 @@ a good indicator that it could be included here.
 
 --
 
-[Microsoft/vscode/issues/32405](https://web.archive.org/web/20170817095211/https://github.com/Microsoft/vscode/issues/32405)
-
 [aspnet/Home/issues/2022](https://github.com/aspnet/Home/issues/2022)
 
 [atom/tree-view/pull/804](https://github.com/atom/tree-view/pull/804)
@@ -87,6 +85,8 @@ a good indicator that it could be included here.
 [kraih/mojo/issues/656](https://github.com/kraih/mojo/issues/656)
 
 [Microsoft/TypeScript/pull/3622](https://github.com/Microsoft/TypeScript/pull/3622)
+
+[Microsoft/vscode/issues/32405](https://web.archive.org/web/20170817095211/https://github.com/Microsoft/vscode/issues/32405)
 
 [mishoo/UglifyJS2/issues/2054](https://github.com/mishoo/UglifyJS2/issues/2054)
 
