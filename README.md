@@ -1,4 +1,4 @@
-# github-drama
+# [github-drama](https://github.com/nikolas/github-drama)
 
 This is a curated collection of "dramatic" github interactions.
 
