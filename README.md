@@ -30,6 +30,8 @@ a good indicator that it could be included here.
 
 --
 
+[ariya/phantomjs/issues/15345](https://github.com/ariya/phantomjs/issues/15345)
+
 [aspnet/Home/issues/2022](https://github.com/aspnet/Home/issues/2022)
 
 [atom/tree-view/pull/804](https://github.com/atom/tree-view/pull/804)
@@ -119,8 +121,6 @@ a good indicator that it could be included here.
 [opencart/opencart/pull/219](https://github.com/opencart/opencart/pull/219)
 
 [opencart/opencart/pull/1594](https://github.com/opencart/opencart/pull/1594)
-
-[ariya/phantomjs/issues/15345](https://github.com/ariya/phantomjs/issues/15345)
 
 [P-H-C/phc-winner-argon2/issues/182](https://github.com/P-H-C/phc-winner-argon2/issues/182)
 
