@@ -30,39 +30,39 @@ a good indicator that it could be included here.
 
 --
 
-[https://github.com/Microsoft/vscode/issues/32405](https://web.archive.org/web/20170817095211/https://github.com/Microsoft/vscode/issues/32405)
+[Microsoft/vscode/issues/32405](https://web.archive.org/web/20170817095211/https://github.com/Microsoft/vscode/issues/32405)
 
-[https://github.com/aspnet/Home/issues/2022](https://github.com/aspnet/Home/issues/2022)
+[aspnet/Home/issues/2022](https://github.com/aspnet/Home/issues/2022)
 
-[https://github.com/atom-minimap/minimap/issues/588](https://github.com/atom-minimap/minimap/issues/588)
+[atom-minimap/minimap/issues/588](https://github.com/atom-minimap/minimap/issues/588)
 
-[https://github.com/bower/bower/issues/1102](https://github.com/bower/bower/issues/1102)
+[bower/bower/issues/1102](https://github.com/bower/bower/issues/1102)
 
-[https://github.com/bower/bower/pull/1748](https://github.com/bower/bower/pull/1748)
+[bower/bower/pull/1748](https://github.com/bower/bower/pull/1748)
 
-[https://github.com/chrisaljoudi/uBlock/pull/1517](https://github.com/chrisaljoudi/uBlock/pull/1517)
+[chrisaljoudi/uBlock/pull/1517](https://github.com/chrisaljoudi/uBlock/pull/1517)
 
-https://github.com/CVarisco/community-story/pull/1
+[CVarisco/community-story/pull/1](https://github.com/CVarisco/community-story/pull/1)
 
-https://github.com/django/django/pull/2692
+[django/django/pull/2692](https://github.com/django/django/pull/2692)
 
-https://github.com/docker/docker/pull/31075
+[docker/docker/pull/31075](https://github.com/docker/docker/pull/31075)
 
-https://github.com/docker/for-mac/issues/1120
+[docker/for-mac/issues/1120](https://github.com/docker/for-mac/issues/1120)
 
-https://github.com/doktornotor/pfsense-closedsource
+[doktornotor/pfsense-closedsource](https://github.com/doktornotor/pfsense-closedsource)
 
-https://github.com/dotnet/cli/issues/3093
+[dotnet/cli/issues/3093](https://github.com/dotnet/cli/issues/3093)
 
-https://github.com/facebook/react/issues/10191
+[facebook/react/issues/10191](https://github.com/facebook/react/issues/10191)
 
-https://github.com/facebookincubator/create-react-app/issues/3780
+[facebookincubator/create-react-app/issues/3780](https://github.com/facebookincubator/create-react-app/issues/3780)
 
-https://github.com/golang/go/issues/21956
+[golang/go/issues/21956](https://github.com/golang/go/issues/21956)
 
-https://github.com/Homebrew/homebrew-core/issues/24654 (archived: https://web.archive.org/web/20180305121204/http://cc.bingj.com/cache.aspx?q=https%3a%2f%2fgithub.com%2fHomebrew%2fhomebrew-core%2fissues%2f24654&d=695653734807&mkt=en-WW&setlang=en-US&w=Pu9hVlBoNKrKONMP0ZEtZ0J600Qly9xB)
+[Homebrew/homebrew-core/issues/24654](https://github.com/Homebrew/homebrew-core/issues/24654) (archived: [https://web.archive.org/web/20180305121204/http://cc.bingj.com/cache.aspx?q=https%3a%2f%2fgithub.com%2fHomebrew%2fhomebrew-core%2fissues%2f24654&d=695653734807&mkt=en-WW&setlang=en-US&w=Pu9hVlBoNKrKONMP0ZEtZ0J600Qly9xB](https://web.archive.org/web/20180305121204/http://cc.bingj.com/cache.aspx?q=https%3a%2f%2fgithub.com%2fHomebrew%2fhomebrew-core%2fissues%2f24654&d=695653734807&mkt=en-WW&setlang=en-US&w=Pu9hVlBoNKrKONMP0ZEtZ0J600Qly9xB)
 
-https://github.com/Homebrew/homebrew-services/issues/151
+[Homebrew/homebrew-services/issues/151](https://github.com/Homebrew/homebrew-services/issues/151)
 
 https://github.com/Homebrew/legacy-homebrew/issues/50683
 
@@ -159,18 +159,18 @@ https://github.com/stevemao/left-pad/issues/4
 
 https://github.com/strongloop/loopback/issues/1079
 
-https://github.com/tc39/proposal-cancelable-promises/issues/70
+[tc39/proposal-cancelable-promises/issues/70](https://github.com/tc39/proposal-cancelable-promises/issues/70)
 
-https://github.com/twitter/scrooge/issues/222
+[twitter/scrooge/issues/222](https://github.com/twitter/scrooge/issues/222)
 
-https://github.com/vcflib/vcflib/issues/206
+[vcflib/vcflib/issues/206](https://github.com/vcflib/vcflib/issues/206)
 
-[https://github.com/WICG/interventions/issues/18](https://github.com/WICG/interventions/issues/18)
+[WICG/interventions/issues/18](https://github.com/WICG/interventions/issues/18)
 
-https://github.com/zenparsing/es-observable/pull/97
+[zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
 
-https://github.com/WhisperSystems/Signal-Android/issues/127
+[WhisperSystems/Signal-Android/issues/127](https://github.com/WhisperSystems/Signal-Android/issues/127)
 
-https://github.com/npm/npm/issues/19883
+[npm/npm/issues/19883](https://github.com/npm/npm/issues/19883)
 
-https://github.com/jasperla/openbsd-wip/issues/86
+[https://github.com/jasperla/openbsd-wip/issues/86](https://github.com/jasperla/openbsd-wip/issues/86)
