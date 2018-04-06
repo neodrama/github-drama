@@ -58,8 +58,6 @@ a good indicator that it could be included here.
 
 [facebook/react/issues/10191](https://github.com/facebook/react/issues/10191)
 
-[facebookincubator/create-react-app/issues/3780](https://github.com/facebookincubator/create-react-app/issues/3780)
-
 [golang/go/issues/21956](https://github.com/golang/go/issues/21956)
 
 [Homebrew/homebrew-core/issues/24654](https://github.com/Homebrew/homebrew-core/issues/24654) (archived: [https://web.archive.org/web/20180305121204/http://cc.bingj.com/cache.aspx?q=https%3a%2f%2fgithub.com%2fHomebrew%2fhomebrew-core%2fissues%2f24654&d=695653734807&mkt=en-WW&setlang=en-US&w=Pu9hVlBoNKrKONMP0ZEtZ0J600Qly9xB](https://web.archive.org/web/20180305121204/http://cc.bingj.com/cache.aspx?q=https%3a%2f%2fgithub.com%2fHomebrew%2fhomebrew-core%2fissues%2f24654&d=695653734807&mkt=en-WW&setlang=en-US&w=Pu9hVlBoNKrKONMP0ZEtZ0J600Qly9xB))
