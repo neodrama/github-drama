@@ -46,6 +46,8 @@ a good indicator that it could be included here.
 
 [CVarisco/community-story/pull/1](https://github.com/CVarisco/community-story/pull/1)
 
+[dear-github/dear-github/issues/107](https://github.com/dear-github/dear-github/issues/107)
+
 [django/django/pull/2692](https://github.com/django/django/pull/2692)
 
 [docker/docker/pull/31075](https://github.com/docker/docker/pull/31075)
@@ -57,8 +59,6 @@ a good indicator that it could be included here.
 [dotnet/cli/issues/3093](https://github.com/dotnet/cli/issues/3093)
 
 [facebook/react/issues/10191](https://github.com/facebook/react/issues/10191)
-
-[facebookincubator/create-react-app/issues/3780](https://github.com/facebookincubator/create-react-app/issues/3780)
 
 [golang/go/issues/21956](https://github.com/golang/go/issues/21956)
 
@@ -174,4 +174,6 @@ a good indicator that it could be included here.
 
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
 
-[dear-github/dear-github/issues/107](https://github.com/dear-github/dear-github/issues/107)
+
+[@githubdrama](https://twitter.com/githubdrama) on Twitter
+
