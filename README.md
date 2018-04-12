@@ -6,8 +6,8 @@ This is a curated collection of "dramatic" github interactions.
 
 This repo is intended to point out comical interactions that come up in the world of
 software development, and not to harass anyone or hurt their feelings. Sometimes
-feelings get hurt in online interactions, and the intention of github-drama is to
-allow participants to take a step back from the "drama" and say to themselves, "phew,
+tensions build up in online interactions, and the intention of github-drama is to allow
+participants to take a step back from the "drama" and say to themselves, "phew,
 I need to chill".
 
 ### How do I find drama?
