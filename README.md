@@ -4,14 +4,11 @@ This is a curated collection of "dramatic" github interactions.
 
 ## Contributing to github-drama
 
-Make sure to link to the issue or pull request in your commit message. This causes
-a link to the github-drama commit to appear in the dramatic interaction, if it
-hasn't been locked yet. That way, the participants of the drama know that they're
-being dramatic. This can have a number of effects on a person:
-
-* They realize they're being dramatic, and take a step back from the drama. This
-  reduces their anxiety and blood pressure.
-* They're embarrassed that they've been called out as being dramatic.
+This repo is intended to point out comical interactions that come up in the world of
+software development, and not to harass anyone or hurt their feelings. Sometimes
+feelings get hurt in an online interactions, and the intention of github-drama is to
+allow participants to take a step back from the "drama" and say to themselves, "phew,
+I need to chill".
 
 ### How do I find drama?
 Go into a GitHub project's issues, and sort by "Most commented" or "Most reactions".
