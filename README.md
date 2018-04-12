@@ -172,5 +172,5 @@ a good indicator that it could be included here.
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
 
 
-[@githubdrama](https://twitter.com/githubdrama) on Twitter
+[@webdevdrama](https://twitter.com/webdevdrama) on Twitter
 
