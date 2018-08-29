@@ -85,6 +85,8 @@ a good indicator that it could be included here.
 
 [kraih/mojo/issues/656](https://github.com/kraih/mojo/issues/656)
 
+[lerna/lerna/pull/1616](https://github.com/lerna/lerna/pull/1616) (follow-up: [lerna/lerna/pull/1631](https://github.com/lerna/lerna/pull/1631))
+
 [Microsoft/TypeScript/pull/3622](https://github.com/Microsoft/TypeScript/pull/3622)
 
 [Microsoft/vscode/issues/32405](https://web.archive.org/web/20170817095211/https://github.com/Microsoft/vscode/issues/32405)
