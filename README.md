@@ -98,6 +98,8 @@ lerna/lerna
 
 [Microsoft/TypeScript/pull/3622](https://github.com/Microsoft/TypeScript/pull/3622)
 
+[Microsoft/web-build-tools/issues/673](https://github.com/Microsoft/web-build-tools/issues/673)
+
 [Microsoft/vscode/issues/32405](https://web.archive.org/web/20170817095211/https://github.com/Microsoft/vscode/issues/32405)
 
 [mishoo/UglifyJS2/issues/2054](https://github.com/mishoo/UglifyJS2/issues/2054)
