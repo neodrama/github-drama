@@ -85,7 +85,16 @@ a good indicator that it could be included here.
 
 [kraih/mojo/issues/656](https://github.com/kraih/mojo/issues/656)
 
-[lerna/lerna/pull/1616](https://github.com/lerna/lerna/pull/1616) (follow-up: [lerna/lerna/pull/1631](https://github.com/lerna/lerna/pull/1631))
+lerna/lerna
+* [/pull/1616](https://github.com/lerna/lerna/pull/1616)
+* [/pull/1619](https://github.com/lerna/lerna/pull/1619)
+* [/issues/1622](https://github.com/lerna/lerna/issues/1622)
+* [/issues/1625](https://github.com/lerna/lerna/issues/1625)
+* [/issues/1628](https://github.com/lerna/lerna/issues/1628)
+* [/issues/1630](https://github.com/lerna/lerna/issues/1630)
+* [/pull/1631](https://github.com/lerna/lerna/pull/1631)
+* [/issues/1632](https://github.com/lerna/lerna/issues/1632)
+* [/pull/1633](https://github.com/lerna/lerna/pull/1633)
 
 [Microsoft/TypeScript/pull/3622](https://github.com/Microsoft/TypeScript/pull/3622)
 
