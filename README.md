@@ -134,6 +134,11 @@ lerna/lerna
 
 [opencart/opencart/pull/1594](https://github.com/opencart/opencart/pull/1594)
 
+palantir/tslint
+* [/issues/4132](https://github.com/palantir/tslint/issues/4132)
+* [/issues/4140](https://github.com/palantir/tslint/issues/4140)
+* [/issues/4141](https://github.com/palantir/tslint/issues/4141)
+
 [P-H-C/phc-winner-argon2/issues/182](https://github.com/P-H-C/phc-winner-argon2/issues/182)
 
 [promises-aplus/promises-spec/issues/94](https://github.com/promises-aplus/promises-spec/issues/94)
