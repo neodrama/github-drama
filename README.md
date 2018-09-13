@@ -61,6 +61,8 @@ a good indicator that it could be included here.
 
 [golang/go/issues/21956](https://github.com/golang/go/issues/21956)
 
+[GoogleCloudPlatform/click-to-deploy/pull/209](https://github.com/GoogleCloudPlatform/click-to-deploy/pull/209)
+
 [Homebrew/homebrew-core/issues/24654](https://github.com/Homebrew/homebrew-core/issues/24654) (archived: [https://web.archive.org/web/20180305121204/http://cc.bingj.com/cache.aspx?q=https%3a%2f%2fgithub.com%2fHomebrew%2fhomebrew-core%2fissues%2f24654&d=695653734807&mkt=en-WW&setlang=en-US&w=Pu9hVlBoNKrKONMP0ZEtZ0J600Qly9xB](https://web.archive.org/web/20180305121204/http://cc.bingj.com/cache.aspx?q=https%3a%2f%2fgithub.com%2fHomebrew%2fhomebrew-core%2fissues%2f24654&d=695653734807&mkt=en-WW&setlang=en-US&w=Pu9hVlBoNKrKONMP0ZEtZ0J600Qly9xB))
 
 [Homebrew/homebrew-services/issues/151](https://github.com/Homebrew/homebrew-services/issues/151)
@@ -85,7 +87,20 @@ a good indicator that it could be included here.
 
 [kraih/mojo/issues/656](https://github.com/kraih/mojo/issues/656)
 
+lerna/lerna
+* [/pull/1616](https://github.com/lerna/lerna/pull/1616)
+* [/pull/1619](https://github.com/lerna/lerna/pull/1619)
+* [/issues/1622](https://github.com/lerna/lerna/issues/1622)
+* [/issues/1625](https://github.com/lerna/lerna/issues/1625)
+* [/issues/1628](https://github.com/lerna/lerna/issues/1628)
+* [/issues/1630](https://github.com/lerna/lerna/issues/1630)
+* [/pull/1631](https://github.com/lerna/lerna/pull/1631)
+* [/issues/1632](https://github.com/lerna/lerna/issues/1632)
+* [/pull/1633](https://github.com/lerna/lerna/pull/1633)
+
 [Microsoft/TypeScript/pull/3622](https://github.com/Microsoft/TypeScript/pull/3622)
+
+[Microsoft/web-build-tools/issues/673](https://github.com/Microsoft/web-build-tools/issues/673)
 
 [Microsoft/vscode/issues/32405](https://web.archive.org/web/20170817095211/https://github.com/Microsoft/vscode/issues/32405)
 
@@ -120,6 +135,11 @@ a good indicator that it could be included here.
 [opencart/opencart/pull/219](https://github.com/opencart/opencart/pull/219)
 
 [opencart/opencart/pull/1594](https://github.com/opencart/opencart/pull/1594)
+
+palantir/tslint
+* [/issues/4132](https://github.com/palantir/tslint/issues/4132)
+* [/issues/4140](https://github.com/palantir/tslint/issues/4140)
+* [/issues/4141](https://github.com/palantir/tslint/issues/4141)
 
 [P-H-C/phc-winner-argon2/issues/182](https://github.com/P-H-C/phc-winner-argon2/issues/182)
 
