@@ -1,6 +1,7 @@
 # [github-drama](https://github.com/nikolas/github-drama)
 
-This is a curated collection of "dramatic" github interactions.
+This is a curated collection of "dramatic" github interactions. Click on the
+Commits button to look at the latest drama.
 
 ## Contributing to github-drama
 
