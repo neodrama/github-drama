@@ -54,7 +54,7 @@ a good indicator that it could be included here.
 
 [docker/for-mac/issues/1120](https://github.com/docker/for-mac/issues/1120)
 
-[doktornotor/pfsense-closedsource](https://github.com/doktornotor/pfsense-closedsource)
+[doktornotor/pfsense-still-closedsource](https://github.com/doktornotor/pfsense-still-closedsource)
 
 [dominictarr/event-stream/issues/116](https://github.com/dominictarr/event-stream/issues/116)
 
