@@ -55,6 +55,8 @@ a good indicator that it could be included here.
 
 [doktornotor/pfsense-closedsource](https://github.com/doktornotor/pfsense-closedsource)
 
+[dominictarr/event-stream/issues/116](https://github.com/dominictarr/event-stream/issues/116)
+
 [dotnet/cli/issues/3093](https://github.com/dotnet/cli/issues/3093)
 
 [dotnet/roslyn/pull/3507](https://github.com/dotnet/roslyn/pull/3507)
