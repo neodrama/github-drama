@@ -28,6 +28,8 @@ a good indicator that it could be included here.
 
 --
 
+[ambv/black/issues/118](https://github.com/ambv/black/issues/118)
+
 [ariya/phantomjs/issues/15345](https://github.com/ariya/phantomjs/issues/15345)
 
 [aspnet/Home/issues/2022](https://github.com/aspnet/Home/issues/2022)
@@ -206,4 +208,3 @@ palantir/tslint
 
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
-
