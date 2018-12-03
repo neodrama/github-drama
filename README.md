@@ -184,6 +184,8 @@ palantir/tslint
 
 [ValveSoftware/steam-for-linux/issues/3671](https://github.com/ValveSoftware/steam-for-linux/issues/3671)
 
+[ValveSoftware/Source-1-Games/issues/2475](https://github.com/ValveSoftware/Source-1-Games/issues/2475)
+
 [vimeo/player.js/issues/28](https://github.com/vimeo/player.js/issues/28)
 
 [NixOS/nixpkgs/issues/4952](https://github.com/NixOS/nixpkgs/issues/4952)
