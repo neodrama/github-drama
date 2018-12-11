@@ -68,6 +68,8 @@ a good indicator that it could be included here.
 
 [facebook/react/issues/10191](https://github.com/facebook/react/issues/10191)
 
+[flutter/flutter/issues/11609](https://github.com/flutter/flutter/issues/11609)
+
 [golang/go/issues/21956](https://github.com/golang/go/issues/21956)
 
 [GoogleCloudPlatform/click-to-deploy/pull/209](https://github.com/GoogleCloudPlatform/click-to-deploy/pull/209)
