@@ -62,6 +62,8 @@ a good indicator that it could be included here.
 
 [dotnet/cli/issues/3093](https://github.com/dotnet/cli/issues/3093)
 
+[dotnet/csharplang/issues/993](https://github.com/dotnet/csharplang/issues/993)
+
 [dotnet/roslyn/pull/3507](https://github.com/dotnet/roslyn/pull/3507)
 
 [facebook/react/issues/10191](https://github.com/facebook/react/issues/10191)
