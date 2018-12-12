@@ -160,6 +160,8 @@ palantir/tslint
 
 [ptsteadman/notebook/pull/1](https://github.com/ptsteadman/notebook/pull/1)
 
+[pypa/pipenv/issues/1050](https://github.com/pypa/pipenv/issues/1050)
+
 [rails/rails/issues/9894](https://github.com/rails/rails/issues/9894)
 
 [rails/rails/pull/5329](https://github.com/rails/rails/pull/5329)
