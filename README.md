@@ -139,6 +139,8 @@ lerna/lerna
 
 [npm/npm/issues/19883](https://github.com/npm/npm/issues/19883)
 
+[numpy/numpy/issues/12673](https://github.com/numpy/numpy/issues/12673)
+
 [opal/opal/issues/941](https://github.com/opal/opal/issues/941)
 
 [opencart/opencart/issues/1269](https://web.archive.org/web/20160120150725/https://github.com/opencart/opencart/issues/1269)
