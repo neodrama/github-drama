@@ -220,5 +220,7 @@ palantir/tslint
 
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
 
+[PiotrGrochowski/Consolas/issues/1](https://github.com/PiotrGrochowski/Consolas/issues/1)
+
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
