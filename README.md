@@ -224,5 +224,7 @@ palantir/tslint
 
 [nodejs/readable-stream/pull/238](https://github.com/nodejs/readable-stream/pull/238)
 
+[tootsuite/mastodon/pull/9898](https://github.com/tootsuite/mastodon/pull/9898)
+
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
