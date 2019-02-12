@@ -131,13 +131,19 @@ lerna/lerna
 
 [MrMEEE/bumblebee-Old-and-abbandoned/issues/123](https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/issues/123)
 
+[NixOS/nixpkgs/issues/4952](https://github.com/NixOS/nixpkgs/issues/4952)
+
 [nixxquality/WebMConverter/commit/c1ac0baac06fa7175677a4a1bf65860a84708d67](https://github.com/nixxquality/WebMConverter/commit/c1ac0baac06fa7175677a4a1bf65860a84708d67)
 
 [nodejs/inclusivity/issues/9](https://github.com/nodejs/inclusivity/issues/9)
 
 [nodejs/node/issues/3721](https://github.com/nodejs/node/issues/3721)
 
+[nodejs/node/pull/4765](https://github.com/nodejs/node/pull/4765)
+
 [nodejs/TSC/issues/8](https://github.com/nodejs/TSC/issues/8)
+
+[nodejs/readable-stream/pull/238](https://github.com/nodejs/readable-stream/pull/238)
 
 [npm/npm/issues/19883](https://github.com/npm/npm/issues/19883)
 
@@ -160,6 +166,10 @@ palantir/tslint
 
 [P-H-C/phc-winner-argon2/issues/182](https://github.com/P-H-C/phc-winner-argon2/issues/182)
 
+[PiotrGrochowski/Consolas/issues/1](https://github.com/PiotrGrochowski/Consolas/issues/1)
+
+[PowerShell/PowerShell/pull/1901](https://github.com/PowerShell/PowerShell/pull/1901)
+
 [promises-aplus/promises-spec/issues/94](https://github.com/promises-aplus/promises-spec/issues/94)
 
 [ptsteadman/notebook/pull/1](https://github.com/ptsteadman/notebook/pull/1)
@@ -174,6 +184,10 @@ palantir/tslint
 
 [resque/resque/issues/1406](https://github.com/resque/resque/issues/1406)
 
+[stevemao/left-pad/issues/4](https://github.com/stevemao/left-pad/issues/4)
+
+[strongloop/loopback/issues/1079](https://github.com/strongloop/loopback/issues/1079)
+
 [syl20bnr/spacemacs/pull/3484](https://github.com/syl20bnr/spacemacs/pull/3484)
 
 [systemd/systemd/issues/1143](https://github.com/systemd/systemd/issues/1143)
@@ -184,47 +198,33 @@ palantir/tslint
 
 [systemd/systemd/issues/6237](https://github.com/systemd/systemd/issues/6237)
 
+[tc39/proposal-cancelable-promises/issues/70](https://github.com/tc39/proposal-cancelable-promises/issues/70)
+
 [telegramdesktop/tdesktop/issues/96](https://github.com/telegramdesktop/tdesktop/issues/96)
 
 [tip4commit/tip4commit/issues/127](https://github.com/tip4commit/tip4commit/issues/127)
 
 [todogroup/opencodeofconduct/pull/70](https://github.com/todogroup/opencodeofconduct/pull/70)
 
+[tootsuite/mastodon/pull/9898](https://github.com/tootsuite/mastodon/pull/9898)
+
 [twbs/bootstrap/issues/3057](https://github.com/twbs/bootstrap/issues/3057)
+
+[twitter/scrooge/issues/222](https://github.com/twitter/scrooge/issues/222)
 
 [ValveSoftware/steam-for-linux/issues/3671](https://github.com/ValveSoftware/steam-for-linux/issues/3671)
 
 [ValveSoftware/Source-1-Games/issues/2475](https://github.com/ValveSoftware/Source-1-Games/issues/2475)
 
-[vimeo/player.js/issues/28](https://github.com/vimeo/player.js/issues/28)
-
-[NixOS/nixpkgs/issues/4952](https://github.com/NixOS/nixpkgs/issues/4952)
-
-[nodejs/node/pull/4765](https://github.com/nodejs/node/pull/4765)
-
-[PowerShell/PowerShell/pull/1901](https://github.com/PowerShell/PowerShell/pull/1901)
-
-[stevemao/left-pad/issues/4](https://github.com/stevemao/left-pad/issues/4)
-
-[strongloop/loopback/issues/1079](https://github.com/strongloop/loopback/issues/1079)
-
-[tc39/proposal-cancelable-promises/issues/70](https://github.com/tc39/proposal-cancelable-promises/issues/70)
-
-[twitter/scrooge/issues/222](https://github.com/twitter/scrooge/issues/222)
-
 [vcflib/vcflib/issues/206](https://github.com/vcflib/vcflib/issues/206)
+
+[vimeo/player.js/issues/28](https://github.com/vimeo/player.js/issues/28)
 
 [WhisperSystems/Signal-Android/issues/127](https://github.com/WhisperSystems/Signal-Android/issues/127)
 
 [WICG/interventions/issues/18](https://github.com/WICG/interventions/issues/18)
 
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
-
-[PiotrGrochowski/Consolas/issues/1](https://github.com/PiotrGrochowski/Consolas/issues/1)
-
-[nodejs/readable-stream/pull/238](https://github.com/nodejs/readable-stream/pull/238)
-
-[tootsuite/mastodon/pull/9898](https://github.com/tootsuite/mastodon/pull/9898)
 
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
