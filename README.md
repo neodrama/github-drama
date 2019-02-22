@@ -74,7 +74,9 @@ a good indicator that it could be included here.
 
 [golang/go/issues/21956](https://github.com/golang/go/issues/21956)
 
-[google/googletest/issues/1666](https://github.com/google/googletest/issues/1666)
+[google/googletest/issues/1660](https://github.com/google/googletest/issues/1660) Horrible Documentation
+
+[google/googletest/issues/1666](https://github.com/google/googletest/issues/1666) Absolutely a Waste of Time
 
 [GoogleCloudPlatform/click-to-deploy/pull/209](https://github.com/GoogleCloudPlatform/click-to-deploy/pull/209)
 
