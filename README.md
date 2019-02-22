@@ -74,6 +74,8 @@ a good indicator that it could be included here.
 
 [golang/go/issues/21956](https://github.com/golang/go/issues/21956)
 
+[google/googletest/issues/1666](https://github.com/google/googletest/issues/1666)
+
 [GoogleCloudPlatform/click-to-deploy/pull/209](https://github.com/GoogleCloudPlatform/click-to-deploy/pull/209)
 
 [grimfang4/sdl-gpu/issues/2](https://github.com/grimfang4/sdl-gpu/issues/2)
