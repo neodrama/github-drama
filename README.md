@@ -180,6 +180,9 @@ palantir/tslint
 
 [pypa/pipenv/issues/1050](https://github.com/pypa/pipenv/issues/1050)
 
+[rails/rails/issues/5228](https://github.com/rails/rails/issues/5228)
+* [rails/rails/commit/b83965785db1eec019edf1fc272b1aa393e6dc57](https://github.com/rails/rails/commit/b83965785db1eec019edf1fc272b1aa393e6dc57)
+
 [rails/rails/issues/9894](https://github.com/rails/rails/issues/9894)
 
 [rails/rails/pull/5329](https://github.com/rails/rails/pull/5329)
