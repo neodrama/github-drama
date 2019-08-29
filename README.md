@@ -193,6 +193,8 @@ palantir/tslint
 
 [resque/resque/issues/1406](https://github.com/resque/resque/issues/1406)
 
+[standard/standard/issues/1381](https://github.com/standard/standard/issues/1381)
+
 [stevemao/left-pad/issues/4](https://github.com/stevemao/left-pad/issues/4)
 
 [strongloop/loopback/issues/1079](https://github.com/strongloop/loopback/issues/1079)
