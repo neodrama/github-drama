@@ -28,6 +28,8 @@ a good indicator that it could be included here.
 
 --
 
+[albertodemichelis/squirrel/pull/67](https://github.com/albertodemichelis/squirrel/pull/67)
+
 [ambv/black/issues/118](https://github.com/ambv/black/issues/118)
 
 [ant-design/ant-design/issues/13098](https://github.com/ant-design/ant-design/issues/13098)
