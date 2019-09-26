@@ -165,6 +165,8 @@ lerna/lerna
 
 [opencart/opencart/pull/1594](https://github.com/opencart/opencart/pull/1594)
 
+[OpenTTD/OpenTTD/issues/7731](https://github.com/OpenTTD/OpenTTD/issues/7731)
+
 palantir/tslint
 * [/issues/4132](https://github.com/palantir/tslint/issues/4132)
 * [/issues/4140](https://github.com/palantir/tslint/issues/4140)
