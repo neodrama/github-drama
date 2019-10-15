@@ -209,7 +209,13 @@ palantir/tslint
 
 [systemd/systemd/issues/5644](https://github.com/systemd/systemd/issues/5644)
 
+[systemd/systemd/issues/5755](https://github.com/systemd/systemd/issues/5755)
+
 [systemd/systemd/issues/6237](https://github.com/systemd/systemd/issues/6237)
+
+[systemd/systemd/issues/6259](https://github.com/systemd/systemd/issues/6259)
+
+[systemd/systemd/issues/6369](https://github.com/systemd/systemd/issues/6369)
 
 [tc39/proposal-cancelable-promises/issues/70](https://github.com/tc39/proposal-cancelable-promises/issues/70)
 
