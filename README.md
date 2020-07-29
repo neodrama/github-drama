@@ -104,6 +104,8 @@ a good indicator that it could be included here.
 
 [jquery/download.jqueryui.com/issues/359](https://github.com/jquery/download.jqueryui.com/issues/359)
 
+[jquery/download.jqueryui.com/issues/390](https://github.com/jquery/download.jqueryui.com/issues/390)
+
 [kenwheeler/slick/issues/681](https://github.com/kenwheeler/slick/issues/681)
 
 [kmmbvnr/django-jenkins/issues/349](https://github.com/kmmbvnr/django-jenkins/issues/349)
