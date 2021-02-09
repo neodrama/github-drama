@@ -186,6 +186,8 @@ palantir/tslint
 
 [ptsteadman/notebook/pull/1](https://github.com/ptsteadman/notebook/pull/1)
 
+[pyca/cryptography/issues/5771](https://github.com/pyca/cryptography/issues/5771)
+
 [pypa/pipenv/issues/1050](https://github.com/pypa/pipenv/issues/1050)
 
 [rails/rails/issues/5228](https://github.com/rails/rails/issues/5228)
