@@ -125,6 +125,8 @@ lerna/lerna
 * [/issues/1632](https://github.com/lerna/lerna/issues/1632)
 * [/pull/1633](https://github.com/lerna/lerna/pull/1633)
 
+[spatie/laravel-newsletter/pull/228](https://github.com/spatie/laravel-newsletter/pull/228)
+
 [Microsoft/TypeScript/pull/3622](https://github.com/Microsoft/TypeScript/pull/3622)
 
 [Microsoft/web-build-tools/issues/673](https://github.com/Microsoft/web-build-tools/issues/673)
