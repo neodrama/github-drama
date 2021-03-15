@@ -92,7 +92,7 @@ a good indicator that it could be included here.
 
 [Homebrew/homebrew-services/issues/151](https://github.com/Homebrew/homebrew-services/issues/151) (deleted, [archive](https://web.archive.org/web/20190512053827/https://github.com/Homebrew/homebrew-services/issues/151))
 
-[Homebrew/legacy-homebrew/issues/50683](https://github.com/Homebrew/legacy-homebrew/issues/50683)
+[Homebrew/legacy-homebrew/issues/50683](https://github.com/Homebrew/legacy-homebrew/issues/50683) (deleted, [archive](https://web.archive.org/web/20190629075855/https://github.com/Homebrew/legacy-homebrew/issues/50683))
 
 [irungentoo/toxcore/issues/1227](https://github.com/irungentoo/toxcore/issues/1227)
 
