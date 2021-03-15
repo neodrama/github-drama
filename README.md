@@ -190,6 +190,8 @@ palantir/tslint
 
 [PowerShell/PowerShell/pull/1901](https://github.com/PowerShell/PowerShell/pull/1901)
 
+[projecthamster/hamster/issues/574](https://github.com/projecthamster/hamster/issues/574)
+
 [promises-aplus/promises-spec/issues/94](https://github.com/promises-aplus/promises-spec/issues/94)
 
 [ptsteadman/notebook/pull/1](https://github.com/ptsteadman/notebook/pull/1)
