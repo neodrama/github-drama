@@ -209,6 +209,8 @@ palantir/tslint
 
 [resque/resque/issues/1406](https://github.com/resque/resque/issues/1406)
 
+[rms-open-letter](https://rms-open-letter.github.io/)
+
 [standard/standard/issues/1381](https://github.com/standard/standard/issues/1381)
 
 [stevemao/left-pad/issues/4](https://github.com/stevemao/left-pad/issues/4)
