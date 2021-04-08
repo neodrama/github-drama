@@ -90,9 +90,9 @@ a good indicator that it could be included here.
 
 [Homebrew/homebrew-core/issues/24654](https://github.com/Homebrew/homebrew-core/issues/24654) (archived: [https://web.archive.org/web/20180305121204/http://cc.bingj.com/cache.aspx?q=https%3a%2f%2fgithub.com%2fHomebrew%2fhomebrew-core%2fissues%2f24654&d=695653734807&mkt=en-WW&setlang=en-US&w=Pu9hVlBoNKrKONMP0ZEtZ0J600Qly9xB](https://web.archive.org/web/20180305121204/http://cc.bingj.com/cache.aspx?q=https%3a%2f%2fgithub.com%2fHomebrew%2fhomebrew-core%2fissues%2f24654&d=695653734807&mkt=en-WW&setlang=en-US&w=Pu9hVlBoNKrKONMP0ZEtZ0J600Qly9xB))
 
-[Homebrew/homebrew-services/issues/151](https://github.com/Homebrew/homebrew-services/issues/151)
+[Homebrew/homebrew-services/issues/151](https://github.com/Homebrew/homebrew-services/issues/151) (deleted, [archive](https://web.archive.org/web/20190512053827/https://github.com/Homebrew/homebrew-services/issues/151))
 
-[Homebrew/legacy-homebrew/issues/50683](https://github.com/Homebrew/legacy-homebrew/issues/50683)
+[Homebrew/legacy-homebrew/issues/50683](https://github.com/Homebrew/legacy-homebrew/issues/50683) (deleted, [archive](https://web.archive.org/web/20190629075855/https://github.com/Homebrew/legacy-homebrew/issues/50683))
 
 [irungentoo/toxcore/issues/1227](https://github.com/irungentoo/toxcore/issues/1227)
 
@@ -189,6 +189,8 @@ palantir/tslint
 [PiotrGrochowski/Consolas/issues/1](https://github.com/PiotrGrochowski/Consolas/issues/1)
 
 [PowerShell/PowerShell/pull/1901](https://github.com/PowerShell/PowerShell/pull/1901)
+
+[projecthamster/hamster/issues/574](https://github.com/projecthamster/hamster/issues/574)
 
 [promises-aplus/promises-spec/issues/94](https://github.com/promises-aplus/promises-spec/issues/94)
 
