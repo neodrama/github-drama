@@ -263,6 +263,8 @@ palantir/tslint
 
 [WICG/interventions/issues/18](https://github.com/WICG/interventions/issues/18)
 
+[Jguer/yay/issues/496](https://github.com/Jguer/yay/issues/496)
+
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
 
 
