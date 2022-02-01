@@ -267,5 +267,7 @@ palantir/tslint
 
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
 
+[Delgan/loguru/issues/563](https://github.com/Delgan/loguru/issues/563)
+
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
