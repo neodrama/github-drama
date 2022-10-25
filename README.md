@@ -50,6 +50,8 @@ a good indicator that it could be included here.
 
 [chrisaljoudi/uBlock/pull/1517](https://github.com/chrisaljoudi/uBlock/pull/1517)
 
+[CleverRaven/Cataclysm-DDA/pull/51079](https://github.com/CleverRaven/Cataclysm-DDA/pull/51079)
+
 [CVarisco/community-story/pull/1](https://github.com/CVarisco/community-story/pull/1)
 
 [dear-github/dear-github/issues/107](https://github.com/dear-github/dear-github/issues/107)
