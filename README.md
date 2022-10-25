@@ -192,7 +192,11 @@ palantir/tslint
 
 [PiotrGrochowski/Consolas/issues/1](https://github.com/PiotrGrochowski/Consolas/issues/1)
 
+
+[PolyMC/PolyMC/commit/ccf2825](https://github.com/PolyMC/PolyMC/commit/ccf282593dcdbe189c99b81b8bc90cb203aed3ee)
+
 [PolyMC/PolyMC/issues/656](https://github.com/PolyMC/PolyMC/issues/656)
+
 
 [PowerShell/PowerShell/pull/1901](https://github.com/PowerShell/PowerShell/pull/1901)
 
