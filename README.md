@@ -192,6 +192,8 @@ palantir/tslint
 
 [PiotrGrochowski/Consolas/issues/1](https://github.com/PiotrGrochowski/Consolas/issues/1)
 
+[PolyMC/PolyMC/issues/656](https://github.com/PolyMC/PolyMC/issues/656)
+
 [PowerShell/PowerShell/pull/1901](https://github.com/PowerShell/PowerShell/pull/1901)
 
 [projecthamster/hamster/issues/574](https://github.com/projecthamster/hamster/issues/574)
