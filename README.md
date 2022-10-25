@@ -50,6 +50,8 @@ a good indicator that it could be included here.
 
 [chrisaljoudi/uBlock/pull/1517](https://github.com/chrisaljoudi/uBlock/pull/1517)
 
+[CleverRaven/Cataclysm-DDA/pull/51079](https://github.com/CleverRaven/Cataclysm-DDA/pull/51079)
+
 [CVarisco/community-story/pull/1](https://github.com/CVarisco/community-story/pull/1)
 
 [dear-github/dear-github/issues/107](https://github.com/dear-github/dear-github/issues/107)
@@ -190,7 +192,11 @@ palantir/tslint
 
 [PiotrGrochowski/Consolas/issues/1](https://github.com/PiotrGrochowski/Consolas/issues/1)
 
+
 [PolyMC/PolyMC/commit/ccf2825](https://github.com/PolyMC/PolyMC/commit/ccf282593dcdbe189c99b81b8bc90cb203aed3ee)
+
+[PolyMC/PolyMC/issues/656](https://github.com/PolyMC/PolyMC/issues/656)
+
 
 [PowerShell/PowerShell/pull/1901](https://github.com/PowerShell/PowerShell/pull/1901)
 
