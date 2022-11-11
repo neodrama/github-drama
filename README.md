@@ -227,6 +227,8 @@ palantir/tslint
 
 [rollup/rollup/issues/2716](https://github.com/rollup/rollup/issues/2716)
 
+[spring-projects/spring-hateoas/issues/66](https://github.com/spring-projects/spring-hateoas/issues/66)
+
 [standard/standard/issues/1381](https://github.com/standard/standard/issues/1381)
 
 [stevemao/left-pad/issues/4](https://github.com/stevemao/left-pad/issues/4)
