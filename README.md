@@ -1,13 +1,14 @@
 # [github-drama](https://github.com/nikolas/github-drama)
 
-This is a curated collection of "dramatic" github interactions.
+This is a curated collection of "dramatic" github interactions. Click on the
+[Commits](https://github.com/nikolas/github-drama/commits/master) button to look at the latest drama.
 
 ## Contributing to github-drama
 
 This repo is intended to point out comical interactions that come up in the world of
-software development, and not to harass anyone or hurt their feelings. Sometimes
-tensions build up in online interactions, and the intention of github-drama is to allow
-participants to take a step back from the "drama" and say to themselves, "phew,
+software development, and not to harass anyone. Sometimes tensions build up in
+online interactions, and the intention of github-drama is to allow
+participants to take a step back from the drama and say to themselves, "damn,
 I need to chill".
 
 ### How do I find drama?
@@ -16,7 +17,7 @@ Go into a GitHub project's issues, and sort by "Most commented" or "Most reactio
 ### What qualifies as drama?
 There's no agreement on what's considered dramatic enough to be included
 in github-drama. Everyone has a different sense of humor. There are plenty
-of "non-serious" github threads, where the usual github politeness gave
+of "non-serious" github threads, where the usual github politeness gives
 way to reaction gifs and one-word replies, turning into something like a
 4chan thread but less funny.
 
@@ -26,6 +27,14 @@ If a repository's maintainer has locked conversation on a thread, that's also
 a good indicator that it could be included here.
 
 --
+
+[albertodemichelis/squirrel/pull/67](https://github.com/albertodemichelis/squirrel/pull/67)
+
+[ambv/black/issues/118](https://github.com/ambv/black/issues/118)
+
+[audacity/audacity/pull/835](https://github.com/audacity/audacity/pull/835)
+
+[ant-design/ant-design/issues/13098](https://github.com/ant-design/ant-design/issues/13098)
 
 [ariya/phantomjs/issues/15345](https://github.com/ariya/phantomjs/issues/15345)
 
@@ -41,6 +50,8 @@ a good indicator that it could be included here.
 
 [chrisaljoudi/uBlock/pull/1517](https://github.com/chrisaljoudi/uBlock/pull/1517)
 
+[CleverRaven/Cataclysm-DDA/pull/51079](https://github.com/CleverRaven/Cataclysm-DDA/pull/51079)
+
 [CVarisco/community-story/pull/1](https://github.com/CVarisco/community-story/pull/1)
 
 [dear-github/dear-github/issues/107](https://github.com/dear-github/dear-github/issues/107)
@@ -49,21 +60,43 @@ a good indicator that it could be included here.
 
 [docker/docker/pull/31075](https://github.com/docker/docker/pull/31075)
 
+[docker/docker.github.io/issues/6910](https://github.com/docker/docker.github.io/issues/6910)
+
 [docker/for-mac/issues/1120](https://github.com/docker/for-mac/issues/1120)
 
-[doktornotor/pfsense-closedsource](https://github.com/doktornotor/pfsense-closedsource)
+[doktornotor/pfsense-still-closedsource](https://github.com/doktornotor/pfsense-still-closedsource)
+
+[dominictarr/event-stream/issues/116](https://github.com/dominictarr/event-stream/issues/116)
 
 [dotnet/cli/issues/3093](https://github.com/dotnet/cli/issues/3093)
 
+[dotnet/csharplang/issues/993](https://github.com/dotnet/csharplang/issues/993)
+
+[dotnet/roslyn/pull/3507](https://github.com/dotnet/roslyn/pull/3507)
+
 [facebook/react/issues/10191](https://github.com/facebook/react/issues/10191)
+
+[flathub/flathub/pull/1978](https://github.com/flathub/flathub/pull/1978)
+
+[flutter/flutter/issues/11609](https://github.com/flutter/flutter/issues/11609)
 
 [golang/go/issues/21956](https://github.com/golang/go/issues/21956)
 
+[google/googletest/issues/1660](https://github.com/google/googletest/issues/1660) Horrible Documentation
+
+[google/googletest/issues/1666](https://github.com/google/googletest/issues/1666) Absolutely a Waste of Time
+
+[GoogleCloudPlatform/click-to-deploy/pull/209](https://github.com/GoogleCloudPlatform/click-to-deploy/pull/209)
+
+[greatsuspender/thegreatsuspender/issues/1175](https://github.com/greatsuspender/thegreatsuspender/issues/1175)
+
+[grimfang4/sdl-gpu/issues/2](https://github.com/grimfang4/sdl-gpu/issues/2)
+
 [Homebrew/homebrew-core/issues/24654](https://github.com/Homebrew/homebrew-core/issues/24654) (archived: [https://web.archive.org/web/20180305121204/http://cc.bingj.com/cache.aspx?q=https%3a%2f%2fgithub.com%2fHomebrew%2fhomebrew-core%2fissues%2f24654&d=695653734807&mkt=en-WW&setlang=en-US&w=Pu9hVlBoNKrKONMP0ZEtZ0J600Qly9xB](https://web.archive.org/web/20180305121204/http://cc.bingj.com/cache.aspx?q=https%3a%2f%2fgithub.com%2fHomebrew%2fhomebrew-core%2fissues%2f24654&d=695653734807&mkt=en-WW&setlang=en-US&w=Pu9hVlBoNKrKONMP0ZEtZ0J600Qly9xB))
 
-[Homebrew/homebrew-services/issues/151](https://github.com/Homebrew/homebrew-services/issues/151)
+[Homebrew/homebrew-services/issues/151](https://github.com/Homebrew/homebrew-services/issues/151) (deleted, [archive](https://web.archive.org/web/20190512053827/https://github.com/Homebrew/homebrew-services/issues/151))
 
-[Homebrew/legacy-homebrew/issues/50683](https://github.com/Homebrew/legacy-homebrew/issues/50683)
+[Homebrew/legacy-homebrew/issues/50683](https://github.com/Homebrew/legacy-homebrew/issues/50683) (deleted, [archive](https://web.archive.org/web/20190629075855/https://github.com/Homebrew/legacy-homebrew/issues/50683))
 
 [irungentoo/toxcore/issues/1227](https://github.com/irungentoo/toxcore/issues/1227)
 
@@ -77,19 +110,42 @@ a good indicator that it could be included here.
 
 [JuliaLang/IJulia.jl/issues/398](https://github.com/JuliaLang/IJulia.jl/issues/398)
 
+[jquery/download.jqueryui.com/issues/359](https://github.com/jquery/download.jqueryui.com/issues/359)
+
+[jquery/download.jqueryui.com/issues/390](https://github.com/jquery/download.jqueryui.com/issues/390)
+
 [kenwheeler/slick/issues/681](https://github.com/kenwheeler/slick/issues/681)
 
 [kmmbvnr/django-jenkins/issues/349](https://github.com/kmmbvnr/django-jenkins/issues/349)
 
 [kraih/mojo/issues/656](https://github.com/kraih/mojo/issues/656)
 
+lerna/lerna
+* [/pull/1616](https://github.com/lerna/lerna/pull/1616)
+* [/pull/1619](https://github.com/lerna/lerna/pull/1619)
+* [/issues/1622](https://github.com/lerna/lerna/issues/1622)
+* [/issues/1625](https://github.com/lerna/lerna/issues/1625)
+* [/issues/1628](https://github.com/lerna/lerna/issues/1628)
+* [/issues/1630](https://github.com/lerna/lerna/issues/1630)
+* [/pull/1631](https://github.com/lerna/lerna/pull/1631)
+* [/issues/1632](https://github.com/lerna/lerna/issues/1632)
+* [/pull/1633](https://github.com/lerna/lerna/pull/1633)
+
+[spatie/laravel-newsletter/pull/228](https://github.com/spatie/laravel-newsletter/pull/228)
+
 [Microsoft/TypeScript/pull/3622](https://github.com/Microsoft/TypeScript/pull/3622)
 
+[Microsoft/web-build-tools/issues/673](https://github.com/Microsoft/web-build-tools/issues/673)
+
 [Microsoft/vscode/issues/32405](https://web.archive.org/web/20170817095211/https://github.com/Microsoft/vscode/issues/32405)
+
+[Microsoft/vscode/issues/54261](https://github.com/Microsoft/vscode/issues/54261)
 
 [mishoo/UglifyJS2/issues/2054](https://github.com/mishoo/UglifyJS2/issues/2054)
 
 [moment/moment/issues/1407](https://github.com/moment/moment/issues/1407)
+
+[moxystudio/node-cross-spawn/pull/102](https://github.com/moxystudio/node-cross-spawn/pull/102)
 
 [mozilla/addon-sdk/commit/169a05b9764674b6ad3fb1c6ea1cbf3c7edf8db0#commitcomment-14824459](https://github.com/mozilla/addon-sdk/commit/169a05b9764674b6ad3fb1c6ea1cbf3c7edf8db0#commitcomment-14824459)
 
@@ -97,13 +153,19 @@ a good indicator that it could be included here.
 
 [MrMEEE/bumblebee-Old-and-abbandoned/issues/123](https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/issues/123)
 
+[NixOS/nixpkgs/issues/4952](https://github.com/NixOS/nixpkgs/issues/4952)
+
 [nixxquality/WebMConverter/commit/c1ac0baac06fa7175677a4a1bf65860a84708d67](https://github.com/nixxquality/WebMConverter/commit/c1ac0baac06fa7175677a4a1bf65860a84708d67)
 
 [nodejs/inclusivity/issues/9](https://github.com/nodejs/inclusivity/issues/9)
 
 [nodejs/node/issues/3721](https://github.com/nodejs/node/issues/3721)
 
+[nodejs/node/pull/4765](https://github.com/nodejs/node/pull/4765)
+
 [nodejs/TSC/issues/8](https://github.com/nodejs/TSC/issues/8)
+
+[nodejs/readable-stream/pull/238](https://github.com/nodejs/readable-stream/pull/238)
 
 [npm/npm/issues/19883](https://github.com/npm/npm/issues/19883)
 
@@ -119,11 +181,39 @@ a good indicator that it could be included here.
 
 [opencart/opencart/pull/1594](https://github.com/opencart/opencart/pull/1594)
 
+[OpenTTD/OpenTTD/issues/7731](https://github.com/OpenTTD/OpenTTD/issues/7731)
+
+palantir/tslint
+* [/issues/4132](https://github.com/palantir/tslint/issues/4132)
+* [/issues/4140](https://github.com/palantir/tslint/issues/4140)
+* [/issues/4141](https://github.com/palantir/tslint/issues/4141)
+
 [P-H-C/phc-winner-argon2/issues/182](https://github.com/P-H-C/phc-winner-argon2/issues/182)
+
+[PiotrGrochowski/Consolas/issues/1](https://github.com/PiotrGrochowski/Consolas/issues/1)
+
+
+[PolyMC/PolyMC/commit/ccf2825](https://github.com/PolyMC/PolyMC/commit/ccf282593dcdbe189c99b81b8bc90cb203aed3ee)
+
+[PolyMC/PolyMC/issues/656](https://github.com/PolyMC/PolyMC/issues/656)
+
+
+[PowerShell/PowerShell/pull/1901](https://github.com/PowerShell/PowerShell/pull/1901)
+
+[projecthamster/hamster/issues/574](https://github.com/projecthamster/hamster/issues/574)
 
 [promises-aplus/promises-spec/issues/94](https://github.com/promises-aplus/promises-spec/issues/94)
 
 [ptsteadman/notebook/pull/1](https://github.com/ptsteadman/notebook/pull/1)
+
+[pyca/cryptography/issues/5771](https://github.com/pyca/cryptography/issues/5771)
+
+[pypa/pipenv/issues/1050](https://github.com/pypa/pipenv/issues/1050)
+
+[python/mypy/issues/11492](https://github.com/python/mypy/issues/11492)
+
+[rails/rails/issues/5228](https://github.com/rails/rails/issues/5228)
+* [rails/rails/commit/b83965785db1eec019edf1fc272b1aa393e6dc57](https://github.com/rails/rails/commit/b83965785db1eec019edf1fc272b1aa393e6dc57)
 
 [rails/rails/issues/9894](https://github.com/rails/rails/issues/9894)
 
@@ -133,7 +223,17 @@ a good indicator that it could be included here.
 
 [resque/resque/issues/1406](https://github.com/resque/resque/issues/1406)
 
+[rms-open-letter](https://rms-open-letter.github.io/)
+
+[rollup/rollup/issues/2716](https://github.com/rollup/rollup/issues/2716)
+
 [spring-projects/spring-hateoas/issues/66](https://github.com/spring-projects/spring-hateoas/issues/66)
+
+[standard/standard/issues/1381](https://github.com/standard/standard/issues/1381)
+
+[stevemao/left-pad/issues/4](https://github.com/stevemao/left-pad/issues/4)
+
+[strongloop/loopback/issues/1079](https://github.com/strongloop/loopback/issues/1079)
 
 [syl20bnr/spacemacs/pull/3484](https://github.com/syl20bnr/spacemacs/pull/3484)
 
@@ -141,7 +241,17 @@ a good indicator that it could be included here.
 
 [systemd/systemd/issues/2402](https://github.com/systemd/systemd/issues/2402)
 
+[systemd/systemd/issues/5644](https://github.com/systemd/systemd/issues/5644)
+
+[systemd/systemd/issues/5755](https://github.com/systemd/systemd/issues/5755)
+
 [systemd/systemd/issues/6237](https://github.com/systemd/systemd/issues/6237)
+
+[systemd/systemd/issues/6259](https://github.com/systemd/systemd/issues/6259)
+
+[systemd/systemd/issues/6369](https://github.com/systemd/systemd/issues/6369)
+
+[tc39/proposal-cancelable-promises/issues/70](https://github.com/tc39/proposal-cancelable-promises/issues/70)
 
 [telegramdesktop/tdesktop/issues/96](https://github.com/telegramdesktop/tdesktop/issues/96)
 
@@ -149,34 +259,29 @@ a good indicator that it could be included here.
 
 [todogroup/opencodeofconduct/pull/70](https://github.com/todogroup/opencodeofconduct/pull/70)
 
+[tootsuite/mastodon/pull/9898](https://github.com/tootsuite/mastodon/pull/9898)
+
 [twbs/bootstrap/issues/3057](https://github.com/twbs/bootstrap/issues/3057)
-
-[ValveSoftware/steam-for-linux/issues/3671](https://github.com/ValveSoftware/steam-for-linux/issues/3671)
-
-[vimeo/player.js/issues/28](https://github.com/vimeo/player.js/issues/28)
-
-[NixOS/nixpkgs/issues/4952](https://github.com/NixOS/nixpkgs/issues/4952)
-
-[nodejs/node/pull/4765](https://github.com/nodejs/node/pull/4765)
-
-[PowerShell/PowerShell/pull/1901](https://github.com/PowerShell/PowerShell/pull/1901)
-
-[stevemao/left-pad/issues/4](https://github.com/stevemao/left-pad/issues/4)
-
-[strongloop/loopback/issues/1079](https://github.com/strongloop/loopback/issues/1079)
-
-[tc39/proposal-cancelable-promises/issues/70](https://github.com/tc39/proposal-cancelable-promises/issues/70)
 
 [twitter/scrooge/issues/222](https://github.com/twitter/scrooge/issues/222)
 
+[ValveSoftware/steam-for-linux/issues/3671](https://github.com/ValveSoftware/steam-for-linux/issues/3671)
+
+[ValveSoftware/Source-1-Games/issues/2475](https://github.com/ValveSoftware/Source-1-Games/issues/2475)
+
 [vcflib/vcflib/issues/206](https://github.com/vcflib/vcflib/issues/206)
+
+[vimeo/player.js/issues/28](https://github.com/vimeo/player.js/issues/28)
 
 [WhisperSystems/Signal-Android/issues/127](https://github.com/WhisperSystems/Signal-Android/issues/127)
 
 [WICG/interventions/issues/18](https://github.com/WICG/interventions/issues/18)
 
+[Jguer/yay/issues/496](https://github.com/Jguer/yay/issues/496)
+
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
+
+[Delgan/loguru/issues/563](https://github.com/Delgan/loguru/issues/563)
 
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
-
