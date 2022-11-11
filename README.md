@@ -225,6 +225,8 @@ palantir/tslint
 
 [rms-open-letter](https://rms-open-letter.github.io/)
 
+[rollup/rollup/issues/2716](https://github.com/rollup/rollup/issues/2716)
+
 [standard/standard/issues/1381](https://github.com/standard/standard/issues/1381)
 
 [stevemao/left-pad/issues/4](https://github.com/stevemao/left-pad/issues/4)
