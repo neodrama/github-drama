@@ -353,6 +353,10 @@ systemd/systemd
 [archive.org](https://web.archive.org/web/20230221163813/https://github.com/zloirock/core-js),
 [ghostarchive.org](https://ghostarchive.org/archive/xDt8V)
 * New core-js drama: Denis Pushkarev (Zloirock, console spammer, Russian pedestrian homicider)
+* Denis Pushkarev, known as Zloirock on GitHub, maintains the core-js library on millions of websites and has spammed the console of the millions of developers who indirectly import core-js. (source: [issues/635](https://github.com/zloirock/core-js/issues/635))
+* Pushkarev is a Russian who served about ten months in prison in 2020 for colliding with two pedestrians on his motorcycle, killing one of them. (source: [theregister 2020](https://www.theregister.com/2020/03/26/corejs_maintainer_jailed_code_release))
+* Pushkarev said he's ready to give up open-source development because few people pay for the software.
+* Pushkarev posted a 70000-character, 10000-word screed and opened an issue on GitHub titled "So, what's next?" in February 2023.
 * Read Pushkarev's
   [10000-word screed](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md),
   [archive.ph](https://archive.ph/miwZk),
