@@ -55,6 +55,9 @@ a good indicator that it could be included here.
 
 [atom-minimap/minimap/issues/588](https://github.com/atom-minimap/minimap/issues/588)
 
+AUTOMATIC1111/stable-diffusion-webui
+- [issues/6359](https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/6359) ([archive.vn](https://archive.vn/Whu1Z)) ([archive.org](https://web.archive.org/web/20230105161436/https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/6359))
+
 [ayojs/ayo/issues/36](https://github.com/ayojs/ayo/issues/36) ([archive.ph](https://archive.ph/FvsR6)) ([archive.org](https://web.archive.org/web/20230120102451/https://github.com/ayojs/ayo/issues/36))
 
 [bower/bower/issues/1102](https://github.com/bower/bower/issues/1102)
