@@ -214,6 +214,8 @@ nodejs/node
 
 [npm/npm/issues/19883](https://github.com/npm/npm/issues/19883)
 
+[nvbn/thefuck/pull/1167](https://github.com/nvbn/thefuck/pull/1167)
+
 oerdnj/deb.sury.org
 * [archive.ph](https://archive.ph/ylh6j)
 * [archive.org](https://web.archive.org/web/20220928005729/https://github.com/oerdnj/deb.sury.org/issues/1768)
