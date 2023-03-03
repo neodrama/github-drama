@@ -254,6 +254,8 @@ palantir/tslint
 
 [rollup/rollup/issues/2716](https://github.com/rollup/rollup/issues/2716)
 
+[rubocop/rubocop/issues/8091](https://github.com/rubocop/rubocop/issues/8091) ([archive.org](https://web.archive.org/web/20230129101026/https://github.com/rubocop/rubocop/issues/8091), [archive.ph](https://archive.ph/3JwN5))
+
 [spring-projects/spring-hateoas/issues/66](https://github.com/spring-projects/spring-hateoas/issues/66)
 
 [standard/standard/issues/1381](https://github.com/standard/standard/issues/1381)
