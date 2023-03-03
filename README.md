@@ -92,7 +92,11 @@ bower/bower
 
 [doktornotor/pfsense-still-closedsource](https://github.com/doktornotor/pfsense-still-closedsource)
 
-[dominictarr/event-stream/issues/116](https://github.com/dominictarr/event-stream/issues/116)
+[dominictarr/event-stream/issues/116](https://github.com/dominictarr/event-stream/issues/116),
+[archive.ph](https://archive.ph/EnRyk),
+[archive.org](https://web.archive.org/web/20230303222557/https://github.com/dominictarr/event-stream/issues/116),
+[ghostarchive.org](https://ghostarchive.org/archive/zzdod)
+* Malicious owner takeover of npm package (@right9ctrl)
 
 [dotnet/cli/issues/3093](https://github.com/dotnet/cli/issues/3093)
 
