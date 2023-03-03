@@ -263,7 +263,9 @@ PolyMC/PolyMC
 
 [promises-aplus/promises-spec/issues/94](https://github.com/promises-aplus/promises-spec/issues/94)
 
-[ptsteadman/notebook/pull/1](https://github.com/ptsteadman/notebook/pull/1)
+[ptsteadman/notebook/pull/1](https://github.com/ptsteadman/notebook/pull/1),
+[archive.org](https://web.archive.org/web/20230303201922/https://github.com/ptsteadman/notebook/pull/1),
+[archive.ph](https://archive.ph/H96PM)
 
 [pyca/cryptography/issues/5771](https://github.com/pyca/cryptography/issues/5771)
 
