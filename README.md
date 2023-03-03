@@ -1,7 +1,18 @@
-# [github-drama](https://github.com/nikolas/github-drama)
+**Important:**
 
-This is a curated collection of "dramatic" github interactions. Click on the
-[Commits](https://github.com/nikolas/github-drama/commits/master) button to look at the latest drama.
+To edit, open a pull request. **We will merge it as soon as we see the notification.**
+
+To edit a large amount of content, open an issue saying so. **We will grant you write access.**
+
+# github-drama (community fork)
+
+The GitHub drama community forked and created this repository in 2022 because the original maintainer is inactive.
+
+All community members edit collaboratively and enjoy a liberal editing policy similar to Wikipedia.
+
+Old repository: https://github.com/nikolas/github-drama
+
+This is a curated collection of "dramatic" github interactions.
 
 ## Contributing to github-drama
 
