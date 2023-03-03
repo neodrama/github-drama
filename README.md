@@ -218,6 +218,8 @@ nodejs/node
 
 [nvbn/thefuck/pull/1167](https://github.com/nvbn/thefuck/pull/1167)
 
+[obsproject/obs-studio/pull/2868](https://github.com/obsproject/obs-studio/pull/2868#issuecomment-1134053984)
+
 oerdnj/deb.sury.org
 * [archive.ph](https://archive.ph/ylh6j)
 * [archive.org](https://web.archive.org/web/20220928005729/https://github.com/oerdnj/deb.sury.org/issues/1768)
