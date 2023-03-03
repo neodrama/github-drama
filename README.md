@@ -12,7 +12,7 @@ All community members edit collaboratively and enjoy a liberal editing policy si
 
 Old repository: https://github.com/nikolas/github-drama
 
-This is a curated collection of "dramatic" github interactions.
+This is a curated collection of "dramatic" GitHub interactions.
 
 ## Contributing to github-drama
 
@@ -23,21 +23,23 @@ participants to take a step back from the drama and say to themselves, "damn,
 I need to chill".
 
 ### How do I find drama?
+
 Go into a GitHub project's issues, and sort by "Most commented" or "Most reactions".
 
 ### What qualifies as drama?
+
 There's no agreement on what's considered dramatic enough to be included
 in github-drama. Everyone has a different sense of humor. There are plenty
-of "non-serious" github threads, where the usual github politeness gives
-way to reaction gifs and one-word replies, turning into something like a
-4chan thread but less funny.
+of "non-serious" GitHub threads, where the usual GitHub politeness gives
+way to reaction GIFs and one-word replies, turning into something like a
+4chan thread, but less funny.
 
 This repository follows the guideline that if anyone in the thread appears to
 be getting worked up about something, it can be considered for inclusion here.
 If a repository's maintainer has locked conversation on a thread, that's also
 a good indicator that it could be included here.
 
---
+---
 
 [albertodemichelis/squirrel/pull/67](https://github.com/albertodemichelis/squirrel/pull/67)
 
@@ -53,14 +55,18 @@ a good indicator that it could be included here.
 
 [atom/tree-view/pull/804](https://github.com/atom/tree-view/pull/804)
 
-[atom-minimap/minimap/issues/588](https://github.com/atom-minimap/minimap/issues/588)
+[atom-minimap/minimap/issues/588](https://github.com/atom-minimap/minimap/issues/588) (archive: [1](https://web.archive.org/web/20201109041745/https://github.com/atom-minimap/minimap/issues/588), [2](https://archive.today/wJZTV))
+
+[audacity/audacity/pull/835](https://github.com/audacity/audacity/pull/835)
 
 AUTOMATIC1111/stable-diffusion-webui
 - [issues/6359](https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/6359) ([archive.vn](https://archive.vn/Whu1Z)) ([archive.org](https://web.archive.org/web/20230105161436/https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/6359))
 
 [ayojs/ayo/issues/36](https://github.com/ayojs/ayo/issues/36) ([archive.ph](https://archive.ph/FvsR6)) ([archive.org](https://web.archive.org/web/20230120102451/https://github.com/ayojs/ayo/issues/36))
 
-[bower/bower/issues/1102](https://github.com/bower/bower/issues/1102)
+bower/bower
+* [/issues/1102](https://github.com/bower/bower/issues/1102)
+* [/pull/1748](https://github.com/bower/bower/pull/1748)
 
 [bower/bower/pull/1748](https://github.com/bower/bower/pull/1748)
 
@@ -71,6 +77,8 @@ AUTOMATIC1111/stable-diffusion-webui
 [CVarisco/community-story/pull/1](https://github.com/CVarisco/community-story/pull/1)
 
 [dear-github/dear-github/issues/107](https://github.com/dear-github/dear-github/issues/107)
+
+[Delgan/loguru/issues/563](https://github.com/Delgan/loguru/issues/563)
 
 [django/django/pull/2692](https://github.com/django/django/pull/2692)
 
@@ -105,25 +113,25 @@ github/dmca
 ), [archive.ph](https://archive.ph/l1oh6))
 * [pull/8140](https://github.com/github/dmca/pull/8140) ([archive.org](https://web.archive.org/web/20230129084629/https://github.com/github/dmca/pull/8140), [archive.ph](https://archive.ph/GrpDZ))
 
-[golang/go/issues/21956](https://github.com/golang/go/issues/21956)
+golang/go
+* [/issues/21956](https://github.com/golang/go/issues/21956)
+* [/issues/33021](https://github.com/golang/go/issues/33021)
 
-[golang/go/issues/33021](https://github.com/golang/go/issues/33021)
-
-[google/googletest/issues/1660](https://github.com/google/googletest/issues/1660) Horrible Documentation
-
-[google/googletest/issues/1666](https://github.com/google/googletest/issues/1666) Absolutely a Waste of Time
-
+google/googletest
+* [/issues/1660](https://github.com/google/googletest/issues/1660)
+* [/issues/1666](https://github.com/google/googletest/issues/1666)
+* 
 [GoogleCloudPlatform/click-to-deploy/pull/209](https://github.com/GoogleCloudPlatform/click-to-deploy/pull/209)
 
 [greatsuspender/thegreatsuspender/issues/1175](https://github.com/greatsuspender/thegreatsuspender/issues/1175)
 
 [grimfang4/sdl-gpu/issues/2](https://github.com/grimfang4/sdl-gpu/issues/2)
 
-[Homebrew/homebrew-core/issues/24654](https://github.com/Homebrew/homebrew-core/issues/24654) (archived: [https://web.archive.org/web/20180305121204/http://cc.bingj.com/cache.aspx?q=https%3a%2f%2fgithub.com%2fHomebrew%2fhomebrew-core%2fissues%2f24654&d=695653734807&mkt=en-WW&setlang=en-US&w=Pu9hVlBoNKrKONMP0ZEtZ0J600Qly9xB](https://web.archive.org/web/20180305121204/http://cc.bingj.com/cache.aspx?q=https%3a%2f%2fgithub.com%2fHomebrew%2fhomebrew-core%2fissues%2f24654&d=695653734807&mkt=en-WW&setlang=en-US&w=Pu9hVlBoNKrKONMP0ZEtZ0J600Qly9xB))
+[Homebrew/homebrew-core/issues/24654](https://github.com/Homebrew/homebrew-core/issues/24654) (archive: [1](https://web.archive.org/web/20190117063442/https://github.com/Homebrew/homebrew-core/issues/24654), [2](https://archive.today/JiS6i))
 
-[Homebrew/homebrew-services/issues/151](https://github.com/Homebrew/homebrew-services/issues/151) (deleted, [archive](https://web.archive.org/web/20190512053827/https://github.com/Homebrew/homebrew-services/issues/151))
+[Homebrew/homebrew-services/issues/151](https://github.com/Homebrew/homebrew-services/issues/151) (archive: [1](https://web.archive.org/web/20190512053827/https://github.com/Homebrew/homebrew-services/issues/151))
 
-[Homebrew/legacy-homebrew/issues/50683](https://github.com/Homebrew/legacy-homebrew/issues/50683) (deleted, [archive](https://web.archive.org/web/20190629075855/https://github.com/Homebrew/legacy-homebrew/issues/50683))
+[Homebrew/legacy-homebrew/issues/50683](https://github.com/Homebrew/legacy-homebrew/issues/50683) (archive: [1](https://web.archive.org/web/20190629075855/https://github.com/Homebrew/legacy-homebrew/issues/50683))
 
 [irungentoo/toxcore/issues/1227](https://github.com/irungentoo/toxcore/issues/1227)
 
@@ -131,9 +139,15 @@ github/dmca
 
 [jasperla/openbsd-wip/issues/86](https://github.com/jasperla/openbsd-wip/issues/86)
 
-[jdm-contrib/justdelete.me/issues/86](https://github.com/jdm-contrib/justdelete.me/issues/86) (mirrors: [1](https://archive.fo/DNf2M))
+[jdm-contrib/justdelete.me/issues/86](https://github.com/jdm-contrib/justdelete.me/issues/86) (archive: [1](https://archive.today/DNf2M))
+
+[Jguer/yay/issues/496](https://github.com/Jguer/yay/issues/496)
 
 [joyent/libuv/pull/1015](https://github.com/joyent/libuv/pull/1015)
+
+jquery/download.jqueryui.com
+* [/issues/359](https://github.com/jquery/download.jqueryui.com/issues/359)
+* [/issues/390](https://github.com/jquery/download.jqueryui.com/issues/390)
 
 [JuliaLang/IJulia.jl/issues/398](https://github.com/JuliaLang/IJulia.jl/issues/398)
 
@@ -162,11 +176,11 @@ lerna/lerna
 
 [Microsoft/TypeScript/pull/3622](https://github.com/Microsoft/TypeScript/pull/3622)
 
+Microsoft/vscode
+* [/issues/32405](https://github.com/Microsoft/vscode/issues/32405)
+* [/issues/54261](https://github.com/Microsoft/vscode/issues/54261)
+
 [Microsoft/web-build-tools/issues/673](https://github.com/Microsoft/web-build-tools/issues/673)
-
-[Microsoft/vscode/issues/32405](https://web.archive.org/web/20170817095211/https://github.com/Microsoft/vscode/issues/32405)
-
-[Microsoft/vscode/issues/54261](https://github.com/Microsoft/vscode/issues/54261)
 
 [mishoo/UglifyJS2/issues/2054](https://github.com/mishoo/UglifyJS2/issues/2054)
 
@@ -174,9 +188,9 @@ lerna/lerna
 
 [moxystudio/node-cross-spawn/pull/102](https://github.com/moxystudio/node-cross-spawn/pull/102)
 
-[mozilla/addon-sdk/commit/169a05b9764674b6ad3fb1c6ea1cbf3c7edf8db0#commitcomment-14824459](https://github.com/mozilla/addon-sdk/commit/169a05b9764674b6ad3fb1c6ea1cbf3c7edf8db0#commitcomment-14824459)
+[mozilla/addon-sdk/commit/169a05b9764674b6ad3fb1c6ea1cbf3c7edf8db0](https://github.com/mozilla/addon-sdk/commit/169a05b9764674b6ad3fb1c6ea1cbf3c7edf8db0)
 
-[mozilla-jetpack/jpm/pull/357/commits](https://github.com/mozilla-jetpack/jpm/pull/357/commits)
+[mozilla-jetpack/jpm/pull/357/commits](https://github.com/mozilla-jetpack/jpm/pull/357)
 
 [MrMEEE/bumblebee-Old-and-abbandoned/issues/123](https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/issues/123)
 
@@ -188,14 +202,11 @@ lerna/lerna
 
 [nodejs/inclusivity/issues/9](https://github.com/nodejs/inclusivity/issues/9)
 
-[nodejs/node/issues/3721](https://github.com/nodejs/node/issues/3721)
+nodejs/node
+* [/issues/3721](https://github.com/nodejs/node/issues/3721)
+* [/pull/4765](https://github.com/nodejs/node/pull/4765)
 
-[nodejs/node/issues/14644](https://github.com/nodejs/node/issues/14644)
-* [archive.ph](https://archive.ph/eotpR)
-* [archive.org](https://web.archive.org/web/20230215122632/https://github.com/nodejs/node/issues/14644)
-* [ghostarchive.org](https://ghostarchive.org/archive/8T6wK)
-
-[nodejs/node/pull/4765](https://github.com/nodejs/node/pull/4765)
+[nodejs/readable-stream/pull/238](https://github.com/nodejs/readable-stream/pull/238)
 
 [nodejs/TSC/issues/8](https://github.com/nodejs/TSC/issues/8)
 
@@ -205,16 +216,13 @@ lerna/lerna
 
 [opal/opal/issues/941](https://github.com/opal/opal/issues/941)
 
-[opencart/opencart/issues/1269](https://web.archive.org/web/20160120150725/https://github.com/opencart/opencart/issues/1269)
-
-[opencart/opencart/issues/3834](https://web.archive.org/web/20160120051637/https://github.com/opencart/opencart/issues/3834)
-
-[opencart/opencart/issues/1534](https://web.archive.org/web/20160120151012/https://github.com/opencart/opencart/issues/1534)
-
-[opencart/opencart/pull/219](https://github.com/opencart/opencart/pull/219)
-
-[opencart/opencart/pull/1594](https://github.com/opencart/opencart/pull/1594)
-
+opencart/opencart
+* [/pull/219](https://github.com/opencart/opencart/pull/219)
+* [/issues/1269](https://github.com/opencart/opencart/issues/1269)
+* [/issues/1534](https://github.com/opencart/opencart/issues/1534)
+* [/pull/1594](https://github.com/opencart/opencart/pull/1594)
+* [/issues/3834](https://github.com/opencart/opencart/issues/3834) (archive: [1](https://web.archive.org/web/20160120051637/https://github.com/opencart/opencart/issues/3834), [2](https://archive.today/6qiNv))
+* 
 [OpenTTD/OpenTTD/issues/7731](https://github.com/OpenTTD/OpenTTD/issues/7731)
 
 palantir/tslint
@@ -224,13 +232,11 @@ palantir/tslint
 
 [P-H-C/phc-winner-argon2/issues/182](https://github.com/P-H-C/phc-winner-argon2/issues/182)
 
-[PiotrGrochowski/Consolas/issues/1](https://github.com/PiotrGrochowski/Consolas/issues/1)
+[PiotrGrochowski/Consolas/issues/1](https://github.com/PiotrGrochowski/Consolas/issues/1) (archive: [1](https://web.archive.org/web/20190203231407/https://github.com/PiotrGrochowski/Consolas/issues/1))
 
-
-[PolyMC/PolyMC/commit/ccf2825](https://github.com/PolyMC/PolyMC/commit/ccf282593dcdbe189c99b81b8bc90cb203aed3ee)
-
-[PolyMC/PolyMC/issues/656](https://github.com/PolyMC/PolyMC/issues/656)
-
+PolyMC/PolyMC
+* [/commit/ccf2825](https://github.com/PolyMC/PolyMC/commit/ccf282593dcdbe189c99b81b8bc90cb203aed3ee)
+* [/issues/656](https://github.com/PolyMC/PolyMC/issues/656)
 
 [PowerShell/PowerShell/pull/1901](https://github.com/PowerShell/PowerShell/pull/1901)
 
@@ -251,12 +257,11 @@ palantir/tslint
 
 [python/mypy/issues/11492](https://github.com/python/mypy/issues/11492)
 
-[rails/rails/issues/5228](https://github.com/rails/rails/issues/5228)
-* [rails/rails/commit/b83965785db1eec019edf1fc272b1aa393e6dc57](https://github.com/rails/rails/commit/b83965785db1eec019edf1fc272b1aa393e6dc57)
-
-[rails/rails/issues/9894](https://github.com/rails/rails/issues/9894)
-
-[rails/rails/pull/5329](https://github.com/rails/rails/pull/5329)
+rails/rails
+* [/commit/b83965785db1eec019edf1fc272b1aa393e6dc57](https://github.com/rails/rails/commit/b83965785db1eec019edf1fc272b1aa393e6dc57)
+* [/issues/5228](https://github.com/rails/rails/issues/5228)
+* [/pull/5329](https://github.com/rails/rails/pull/5329)
+* [/issues/9894](https://github.com/rails/rails/issues/9894)
 
 [resque/resque/issues/1406](https://github.com/resque/resque/issues/1406)
 
@@ -265,6 +270,8 @@ palantir/tslint
 [rollup/rollup/issues/2716](https://github.com/rollup/rollup/issues/2716)
 
 [rubocop/rubocop/issues/8091](https://github.com/rubocop/rubocop/issues/8091) ([archive.org](https://web.archive.org/web/20230129101026/https://github.com/rubocop/rubocop/issues/8091), [archive.ph](https://archive.ph/3JwN5))
+
+[spatie/laravel-newsletter/pull/228](https://github.com/spatie/laravel-newsletter/pull/228)
 
 [spring-projects/spring-hateoas/issues/66](https://github.com/spring-projects/spring-hateoas/issues/66)
 
@@ -276,19 +283,14 @@ palantir/tslint
 
 [syl20bnr/spacemacs/pull/3484](https://github.com/syl20bnr/spacemacs/pull/3484)
 
-[systemd/systemd/issues/1143](https://github.com/systemd/systemd/issues/1143)
-
-[systemd/systemd/issues/2402](https://github.com/systemd/systemd/issues/2402)
-
-[systemd/systemd/issues/5644](https://github.com/systemd/systemd/issues/5644)
-
-[systemd/systemd/issues/5755](https://github.com/systemd/systemd/issues/5755)
-
-[systemd/systemd/issues/6237](https://github.com/systemd/systemd/issues/6237)
-
-[systemd/systemd/issues/6259](https://github.com/systemd/systemd/issues/6259)
-
-[systemd/systemd/issues/6369](https://github.com/systemd/systemd/issues/6369)
+systemd/systemd
+* [/issues/1143](https://github.com/systemd/systemd/issues/1143)
+* [/issues/2402](https://github.com/systemd/systemd/issues/2402)
+* [/issues/5644](https://github.com/systemd/systemd/issues/5644)
+* [/issues/5755](https://github.com/systemd/systemd/issues/5755)
+* [/issues/6237](https://github.com/systemd/systemd/issues/6237)
+* [/issues/6259](https://github.com/systemd/systemd/issues/6259)
+* [/issues/6369](https://github.com/systemd/systemd/issues/6369)
 
 [tc39/proposal-cancelable-promises/issues/70](https://github.com/tc39/proposal-cancelable-promises/issues/70)
 
@@ -306,9 +308,9 @@ palantir/tslint
 
 [twitter/scrooge/issues/222](https://github.com/twitter/scrooge/issues/222)
 
-[ValveSoftware/steam-for-linux/issues/3671](https://github.com/ValveSoftware/steam-for-linux/issues/3671)
-
 [ValveSoftware/Source-1-Games/issues/2475](https://github.com/ValveSoftware/Source-1-Games/issues/2475)
+
+[ValveSoftware/steam-for-linux/issues/3671](https://github.com/ValveSoftware/steam-for-linux/issues/3671)
 
 [vcflib/vcflib/issues/206](https://github.com/vcflib/vcflib/issues/206)
 
@@ -381,4 +383,6 @@ palantir/tslint
     [archive.org](https://web.archive.org/web/20230221164800/https://kiwifarms.net/threads/open-source-software-community.38130/post-5930885),
     [ghostarchive.org](https://ghostarchive.org/archive/bBaY2)
     
+---
+
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
