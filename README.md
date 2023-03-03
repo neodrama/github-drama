@@ -101,6 +101,8 @@ bower/bower
 [dotnet/roslyn/pull/3507](https://github.com/dotnet/roslyn/pull/3507)
 
 [EpicGames/Signup/pull/24](https://github.com/EpicGames/Signup/pull/24)
+* Notification spam of 400k GitHub users due to tagging @EpicGames/developers on GitHub
+* [ycombinator](https://news.ycombinator.com/item?id=31627061)
 
 [facebook/react/issues/10191](https://github.com/facebook/react/issues/10191)
 
