@@ -282,6 +282,8 @@ palantir/tslint
 
 [telegramdesktop/tdesktop/issues/96](https://github.com/telegramdesktop/tdesktop/issues/96)
 
+[tenacityteam/tenacity/issues/99](https://github.com/tenacityteam/tenacity/issues/99) ([archive.org](https://web.archive.org/web/20221012221409/github.com/tenacityteam/tenacity/issues/99), [archive.is](https://archive.is/GhhKi))
+
 [tip4commit/tip4commit/issues/127](https://github.com/tip4commit/tip4commit/issues/127)
 
 [todogroup/opencodeofconduct/pull/70](https://github.com/todogroup/opencodeofconduct/pull/70)
