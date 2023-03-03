@@ -277,6 +277,8 @@ rails/rails
 
 [resque/resque/issues/1406](https://github.com/resque/resque/issues/1406)
 
+[restic/issues/1786](https://github.com/restic/restic/issues/1786)
+
 [RIAEvangelist/node-ipc/issues/233](https://github.com/RIAEvangelist/node-ipc/issues/233) (archived: <https://archive.ph/WGHMt>)
 
 [rms-open-letter](https://rms-open-letter.github.io/)
