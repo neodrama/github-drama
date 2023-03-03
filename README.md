@@ -281,6 +281,8 @@ rails/rails
 
 [rms-open-letter](https://rms-open-letter.github.io/)
 
+[robertdavidgraham/masscan/issues/482](https://github.com/robertdavidgraham/masscan/issues/482)
+
 [rollup/rollup/issues/2716](https://github.com/rollup/rollup/issues/2716)
 
 [rubocop/rubocop/issues/8091](https://github.com/rubocop/rubocop/issues/8091) ([archive.org](https://web.archive.org/web/20230129101026/https://github.com/rubocop/rubocop/issues/8091), [archive.ph](https://archive.ph/3JwN5))
