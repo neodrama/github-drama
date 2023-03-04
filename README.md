@@ -111,6 +111,19 @@ bower/bower
 
 [facebook/react/issues/10191](https://github.com/facebook/react/issues/10191)
 
+[facebookresearch/llama/pull/73](https://github.com/facebookresearch/llama/pull/73)
+* New drama: PR containing a magnet link of Facebook LLAMA originated from 4chan /g/. Facebook LLaMA is a 65-billion-parameter large language model.
+* Someone on 4chan /g/ leaked the magnet link of Facebook LLAMA in march 2023. (source: [4channel](https://boards.4channel.org/g/thread/91848262#p91850335), [desuarchive](https://desuarchive.org/g/thread/91848262/#91850335))
+* @ChristopherKing42 had the brilliant idea of advertising the magnet link through a GitHub pull request.
+* journalism:
+  * [4channel 91850335](https://boards.4channel.org/g/thread/91848262#p91850335)
+  * [4channel 91870752](https://boards.4channel.org/g/thread/91870752)
+  * [desuarchive 91850335](https://desuarchive.org/g/thread/91848262/#91850335)
+  * [desuarchive 91870752](https://desuarchive.org/g/thread/91870752/)
+  * [ycombinator](https://news.ycombinator.com/item?id=35007978)
+  * [reddit](https://www.reddit.com/r/MachineLearning/comments/11h3p2x/d_facebooks_llama_leaks_via_torrent_file_in_pr/)
+
+
 [fish-shell/fish-shell/pull/9512](https://github.com/fish-shell/fish-shell/pull/9512) Rust Evangelism and Fish Carcinisation - The Inevitable Evolution
 * Archives: [archive.org](https://web.archive.org/web/20230131091922/https://github.com/fish-shell/fish-shell/pull/9512), [archive.ph](https://archive.ph/j5Y3q)
 * Journalism: [Hacker News](https://news.ycombinator.com/item?id=34588340), [Lobste.rs](https://lobste.rs/s/fdcpy3), [4chan](https://boards.4channel.org/g/thread/91238463), [Desuarchive](https://desuarchive.org/g/thread/91238463)
