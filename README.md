@@ -125,10 +125,28 @@ bower/bower
   * [ycombinator](https://news.ycombinator.com/item?id=35007978)
   * [reddit](https://www.reddit.com/r/MachineLearning/comments/11h3p2x/d_facebooks_llama_leaks_via_torrent_file_in_pr/)
 
-
-[fish-shell/fish-shell/pull/9512](https://github.com/fish-shell/fish-shell/pull/9512) Rust Evangelism and Fish Carcinisation - The Inevitable Evolution
-* Archives: [archive.org](https://web.archive.org/web/20230131091922/https://github.com/fish-shell/fish-shell/pull/9512), [archive.ph](https://archive.ph/j5Y3q)
-* Journalism: [Hacker News](https://news.ycombinator.com/item?id=34588340), [Lobste.rs](https://lobste.rs/s/fdcpy3), [4chan](https://boards.4channel.org/g/thread/91238463), [Desuarchive](https://desuarchive.org/g/thread/91238463)
+[fish-shell/fish-shell/pull/9512](https://github.com/fish-shell/fish-shell/pull/9512),
+[archive.ph](https://archive.ph/Nl8E7),
+[archive.org](https://web.archive.org/web/20230304112455/https://github.com/fish-shell/fish-shell/pull/9512),
+[ghostarchive](https://ghostarchive.org/archive/1r86p)
+* Rust Evangelism and Fish Carcinisation - The Inevitable Evolution
+* Fish-shell is an easy-to-use command line shell for Linux distributions and MacOS. A GitHub user named Ridiculousfish is a member of the Fish-shell organization and an Apple software engineer.
+* Ridiculousfish opened a pull request titled "Rewrite it in Rust" in January 2023, the URL of which was shared on Y Combinator Hacker News and 4chan /g/, prompting numerous off-topic comments from Rust evangelists.
+* Journalism:
+  * [Hacker News](https://news.ycombinator.com/item?id=34588340),
+    [archive.ph](https://archive.ph/IGKOa),
+    [archive.org](https://web.archive.org/web/20230304113507/https://news.ycombinator.com/item?id=34588340),
+    [ghostarchive](https://ghostarchive.org/archive/BGWfi)
+  * [Lobste.rs](https://lobste.rs/s/fdcpy3),
+    [archive.ph](https://archive.ph/T91VN),
+    [archive.org](https://web.archive.org/web/20230304113603/https://lobste.rs/s/fdcpy3),
+    [ghostarchive](https://ghostarchive.org/archive/Dm22c)
+  * [4chan](https://boards.4channel.org/g/thread/91238463),
+    [archive.is](https://archive.is/ldFs2)
+  * [Desuarchive](https://desuarchive.org/g/thread/91238463),
+    [archive.ph](https://archive.ph/6o0sR),
+    [archive.org](https://web.archive.org/web/20230304113115/https://desuarchive.org/g/thread/91238463),
+    [ghostarchive](https://ghostarchive.org/archive/3gvmY)
 
 [flathub/flathub/pull/1978](https://github.com/flathub/flathub/pull/1978)
 
