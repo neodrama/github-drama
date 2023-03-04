@@ -1,8 +1,10 @@
 **Important:**
 
-To edit, open a pull request. **We will merge it as soon as we see the notification.**
+- To edit, open a pull request. **We will merge it as soon as we see the notification.**
 
-To edit a large amount of content, open an issue saying so. **We will grant you write access.**
+- To edit a large amount of content, open an issue saying so. **We will grant you write access.**
+
+- To receive notifications about the latest drama, subscribe to the [Community-Driven Happenings Feed](https://github.com/github-drama/github-drama/issues/28).
 
 # github-drama (community fork)
 
