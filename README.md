@@ -79,6 +79,13 @@ bower/bower
 
 [CleverRaven/Cataclysm-DDA/pull/51079](https://github.com/CleverRaven/Cataclysm-DDA/pull/51079)
 
+[cloudflare/wildebeest/issues/303](https://github.com/cloudflare/wildebeest/issues/303),
+[archive.ph](https://archive.ph/OwDRn),
+[archive.org](https://web.archive.org/web/20230304173523/https://github.com/cloudflare/wildebeest/issues/303),
+[ghostarchive](https://ghostarchive.org/archive/Rytch),
+[freezepage](https://www.freezepage.com/1677951328OBCAJPFFEM)
+* Cloudflare's embrace-and-extend Fediverse software posts private messages to the local public timeline. Cloudflare maintainers have flagged several comments that go into technical detail about the bug as spam.
+
 [CVarisco/community-story/pull/1](https://github.com/CVarisco/community-story/pull/1)
 
 [dear-github/dear-github/issues/107](https://github.com/dear-github/dear-github/issues/107)
