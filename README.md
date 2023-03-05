@@ -132,6 +132,110 @@ bower/bower
   * [ycombinator](https://news.ycombinator.com/item?id=35007978)
   * [reddit](https://www.reddit.com/r/MachineLearning/comments/11h3p2x/d_facebooks_llama_leaks_via_torrent_file_in_pr/)
 
+[Feodor2/Mypal/issues/3](https://github.com/Feodor2/Mypal/issues/3),
+[archive.ph](https://archive.ph/wip/3HQk6),
+[archive.org](https://web.archive.org/web/20230305151116/https://github.com/Feodor2/Mypal/issues/3),
+[ghostarchive](https://ghostarchive.org/archive/bO3lx)
+* Dramatis Personae on GitHub:
+  * Matt A. Tobin,
+    New Tobin Paradigm,
+    @mattatobin,
+    [github](https://github.com/mattatobin),
+    [archive.ph](https://archive.ph/CWT3C),
+    [archive.org](https://web.archive.org/web/20230305150148/https://github.com/mattatobin),
+    [ghostarchive](https://ghostarchive.org/archive/HdkeA)
+  * M. C. Straver,
+    Moonchild,
+    @wolfbeast,
+    [github](https://github.com/wolfbeast),
+    [archive.ph](https://archive.ph/2lpCu),
+    [archive.org](https://web.archive.org/web/20230305164007/https://github.com/wolfbeast),
+    [ghostarchive](https://ghostarchive.org/archive/MgRB1)
+  * OpenBSD volunteers
+  * Mypal volunteers
+* Summary:
+  * Moonchild, Tobin, and other Pale Moon developers have a history of harassing other developers for petty reasons.
+  * OpenBSD volunteers were trying to port Pale Moon Web Browser to OpenBSD. Moonchild and Tobin
+  * Mypal volunteers were trying to port Pale Moon Web Browser to Windows XP.
+  * Pale Moon developers filed fraudulent DMCA takedown notices against the forks. See the list of DMCA takedown notices for more victims.
+* DMCA takedown notices on GitHub:
+  * [2021-10-14-pale-moon.md](https://github.com/github/dmca/blob/master/2021/10/2021-10-14-pale-moon.md),
+    [archive.ph](https://archive.ph/V4IIN),
+    [archive.org](https://web.archive.org/web/20230305155937/github.com/github/dmca/blob/master/2021/10/2021-10-14-pale-moon.md),
+    [ghostarchive](https://ghostarchive.org/archive/pumx1)
+  * [2021-10-27-pale-moon.md](https://github.com/github/dmca/blob/master/2021/10/2021-10-27-pale-moon.md),
+    [archive.ph](https://archive.ph/Jf3v7),
+    [archive.org](https://web.archive.org/web/20230305151800/https://github.com/github/dmca/blob/master/2021/10/2021-10-27-pale-moon.md),
+    [ghostarchive](https://ghostarchive.org/archive/K3SLW)
+  * [2021-10-28-binoc-central-mirror.md](https://github.com/github/dmca/blob/master/2021/10/2021-10-28-binoc-central-mirror.md),
+    [archive.ph](https://archive.ph/ydZgt),
+    [archive.org](https://web.archive.org/web/20230305160127/https://github.com/github/dmca/blob/master/2021/10/2021-10-28-binoc-central-mirror.md),
+    [ghostarchive](https://ghostarchive.org/archive/DLPci)
+  * [2021-10-12-boc-uxp.md](https://github.com/github/dmca/blob/master/2021/10/2021-10-12-boc-uxp.md),
+    [archive.ph](https://archive.ph/dvgz3),
+    [archive.org](https://web.archive.org/web/20230305174538/https://github.com/github/dmca/blob/master/2021/10/2021-10-12-boc-uxp.md),
+    [ghostarchive](https://ghostarchive.org/archive/fzbql)
+* GitHub issues:
+  * [jasperla/openbsd-wip/issues/86](https://github.com/jasperla/openbsd-wip/issues/86),
+    [archive.ph](https://archive.ph/eBqM7),
+    [archive.org](https://web.archive.org/web/20230305151111/https://github.com/jasperla/openbsd-wip/issues/86),
+    [ghostarchive](https://ghostarchive.org/archive/tvvOI)
+  * [Feodor2/Mypal/issues/3](https://github.com/Feodor2/Mypal/issues/3),
+    [archive.ph](https://archive.ph/wip/3HQk6),
+    [archive.org](https://web.archive.org/web/20230305151116/https://github.com/Feodor2/Mypal/issues/3),
+    [ghostarchive](https://ghostarchive.org/archive/bO3lx)
+  * [Feodor2/Centaury/issues/39](https://github.com/Feodor2/Centaury/issues/39),
+    [archive.ph](https://archive.ph/ftQw5),
+    [archive.org](https://web.archive.org/web/20230305151142/https://github.com/Feodor2/Centaury/issues/39),
+    [ghostarchive](https://ghostarchive.org/archive/EnH8V)
+  * [Feodor2/Centaury/issues/40](https://github.com/Feodor2/Centaury/issues/40),
+    [archive.ph](https://archive.ph/C1QU3),
+    [archive.org](https://web.archive.org/web/20230305151246/https://github.com/Feodor2/Centaury/issues/40),
+    [ghostarchive](https://ghostarchive.org/archive/ZlSuv)
+* Journalism on Kiwifarms:
+  * [kiwifarms 99665](https://kiwifarms.net/threads/mypal-browser-is-dead.99665/),
+    [archive.ph](https://archive.ph/UF9fp),
+    [archive.org](https://web.archive.org/web/20230305150310/https://kiwifarms.net/threads/mypal-browser-is-dead.99665),
+    [ghostarchive](https://ghostarchive.org/archive/UM9eW)
+  * [kiwifarms 114903](https://kiwifarms.net/threads/palemoon-dev-tobin-ntp-new-tobin-paradigm-leaves-the-project.114903/),
+    [archive.ph](https://archive.ph/N5GDN),
+    [archive.org](https://web.archive.org/web/20230305150832/https://kiwifarms.net/threads/palemoon-dev-tobin-ntp-new-tobin-paradigm-leaves-the-project.114903),
+    [ghostarchive](https://ghostarchive.org/archive/E65VY)
+* Journalism on Rdrama:
+  * [rdrama 13548](https://rdrama.net/h/slackernews/post/13548/effortpost-niche-drama-landwhale-goes-on)
+  * [rdrama 22033](https://rdrama.net/h/slackernews/post/22033/effortpost-niche-drama-moonchild-and-tobin)
+* Journalism on Reddit:
+  * [reddit r/palemoon](https://www.reddit.com/r/palemoon/comments/pexate/pale_moon_developers_abuse_mozilla_public_license/),
+    [archive.ph](https://archive.ph/WQp8e),
+    [archive.org](https://web.archive.org/web/20230305151428/https://www.reddit.com/r/palemoon/comments/pexate),
+    [ghostarchive](https://ghostarchive.org/archive/WhKqR)
+  * [reddit r/opensource](https://www.reddit.com/r/opensource/comments/pf6hyd/pale_moon_developers_abuse_mozilla_public_license/),
+    [archive.ph](https://archive.ph/FynOq),
+    [archive.org](https://web.archive.org/web/20230305155320/https://www.reddit.com/r/opensource/comments/pf6hyd),
+    [ghostarchive](https://ghostarchive.org/archive/yIzZU)
+  * [reddit r/programming](https://www.reddit.com/r/programming/comments/ph2v8n/pale_moon_developers_abuse_mozilla_public_license/),
+    [archive.ph](https://archive.ph/FfEJ4),
+    [archive.org](https://web.archive.org/web/20230305155331/https://www.reddit.com/r/programming/comments/ph2v8n),
+    [ghostarchive](https://ghostarchive.org/archive/nubYY)
+* Journalism on 4chan /g/:
+  * [4chan /g/ 83929918](https://boards.4channel.org/g/thread/83929918)
+  * [desuarchive 83929918](https://desuarchive.org/g/thread/83929918/),
+    [archive.ph](https://archive.ph/7MuSS),
+    [archive.org](https://web.archive.org/web/20230305162642/https://desuarchive.org/g/thread/83929918),
+    [ghostarchive](https://ghostarchive.org/archive/kkx9H)
+  * [4chan /g/ 85518484](https://boards.4channel.org/g/thread/85518484),
+    [archive.is](https://archive.is/DQ81t)
+  * [desuarchive 85518484](https://desuarchive.org/g/thread/85518484),
+    [archive.ph](https://archive.ph/09xYD),
+    [archive.org](https://web.archive.org/web/20230305151819/https://desuarchive.org/g/thread/85518484),
+    [ghostarchive](https://ghostarchive.org/archive/U4wFq)
+  * [4chan /g/ 86124256](https://boards.4channel.org/g/thread/86124256),
+    [archive.is](https://archive.is/NSx00)
+  * [desuarchive 86124256](https://desuarchive.org/g/thread/86124256),
+    [archive.ph](https://archive.ph/p6tnQ),
+    [archive.org](https://web.archive.org/web/20230305150614/https://desuarchive.org/g/thread/86124256),
+    [ghostarchive](https://ghostarchive.org/archive/AHFsK)
+
 [fish-shell/fish-shell/pull/9512](https://github.com/fish-shell/fish-shell/pull/9512),
 [archive.ph](https://archive.ph/Nl8E7),
 [archive.org](https://web.archive.org/web/20230304112455/https://github.com/fish-shell/fish-shell/pull/9512),
