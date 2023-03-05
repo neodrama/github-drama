@@ -263,8 +263,6 @@ nodejs/node
 
 [nodejs/TSC/issues/8](https://github.com/nodejs/TSC/issues/8)
 
-[nodejs/readable-stream/pull/238](https://github.com/nodejs/readable-stream/pull/238)
-
 [npm/npm/issues/19883](https://github.com/npm/npm/issues/19883)
 
 [nvbn/thefuck/pull/1167](https://github.com/nvbn/thefuck/pull/1167)
