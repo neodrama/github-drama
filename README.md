@@ -227,6 +227,8 @@ lerna/lerna
 
 [spatie/laravel-newsletter/pull/228](https://github.com/spatie/laravel-newsletter/pull/228)
 
+[Microsoft/Terminal/issues/10362](https://github.com/microsoft/terminal/issues/10362)
+
 [Microsoft/TypeScript/pull/3622](https://github.com/Microsoft/TypeScript/pull/3622)
 
 Microsoft/vscode
@@ -340,6 +342,8 @@ rails/rails
 
 [rubocop/rubocop/issues/8091](https://github.com/rubocop/rubocop/issues/8091) ([archive.org](https://web.archive.org/web/20230129101026/https://github.com/rubocop/rubocop/issues/8091), [archive.ph](https://archive.ph/3JwN5))
 
+[Slackadays/Clipboard/issues/14](https://github.com/Slackadays/Clipboard/issues/14)
+
 [spatie/laravel-newsletter/pull/228](https://github.com/spatie/laravel-newsletter/pull/228)
 
 [spring-projects/spring-hateoas/issues/66](https://github.com/spring-projects/spring-hateoas/issues/66)
@@ -369,6 +373,8 @@ systemd/systemd
 * Tenacity, an Audacity fork, is an easy-to-use multi-track audio editor and recorder. A GitHub user named Cookiengineer was the leader and one of the developers of Tenacity.
 * Some 4chan users doxxed and attempted to murder Cookiengineer in a coordinated attack campaign in July 2021. (source: [theregister 2021](https://www.theregister.com/2021/07/07/tenacity_maintainer_quits_4chan_harassment))
 * Cookiengineer quit after the harassment and stabbing from the 4chan users. (source: [issues/99](https://web.archive.org/web/20221012221409/github.com/tenacityteam/tenacity/issues/99))
+
+[tiangolo/fastapi/issues/3273](https://github.com/tiangolo/fastapi/issues/3273)
 
 [tip4commit/tip4commit/issues/127](https://github.com/tip4commit/tip4commit/issues/127)
 
