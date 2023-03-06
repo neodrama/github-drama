@@ -350,6 +350,8 @@ Microsoft/vscode
 
 [mozilla-jetpack/jpm/pull/357/commits](https://github.com/mozilla-jetpack/jpm/pull/357)
 
+[MrGlockenspiel/activate-linux/issues/138](https://github.com/MrGlockenspiel/activate-linux/issues/138)
+
 [MrMEEE/bumblebee-Old-and-abbandoned/issues/123](https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/issues/123)
 
 [NationalSecurityAgency/ghidra/issues/371](https://github.com/NationalSecurityAgency/ghidra/issues/371)
