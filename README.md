@@ -154,10 +154,9 @@ bower/bower
   * OpenBSD volunteers
   * Mypal volunteers
 * Summary:
-  * Moonchild, Tobin, and other Pale Moon developers have a history of harassing other developers for petty reasons.
-  * OpenBSD volunteers were trying to port Pale Moon Web Browser to OpenBSD. Moonchild and Tobin
-  * Mypal volunteers were trying to port Pale Moon Web Browser to Windows XP.
-  * Pale Moon developers filed fraudulent DMCA takedown notices against the forks. See the list of DMCA takedown notices for more victims.
+  * OpenBSD-WIP volunteers were porting the Pale Moon browser to OpenBSD.
+  * Mypal volunteers were porting the Pale Moon browser to Windows XP.
+  * Pale Moon developers filed DMCA takedown notices against the forks.
 * DMCA takedown notices on GitHub:
   * [2021-10-14-pale-moon.md](https://github.com/github/dmca/blob/master/2021/10/2021-10-14-pale-moon.md),
     [archive.ph](https://archive.ph/V4IIN),
