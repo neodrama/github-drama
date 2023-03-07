@@ -382,6 +382,19 @@ oerdnj/deb.sury.org
 
 [opal/opal/issues/941](https://github.com/opal/opal/issues/941)
 
+[OpenBB-finance/OpenBBTerminal/issues/1625](https://github.com/OpenBB-finance/OpenBBTerminal/issues/1625),
+[archive.ph](https://archive.ph/waV0Z),
+[archive.org](https://web.archive.org/web/20230307111704/https://github.com/OpenBB-finance/OpenBBTerminal/issues/1625),
+[ghostarchive](https://ghostarchive.org/archive/L0qAw)
+* Summary:
+  * Someone from OpenBB was scraping GitHub for emails and sending out marketing spam.
+  * SinSiXX opened an issue titled "Shit SPAM" on GitHub in April 2022.
+* Journalism:
+  * [Hacker News](https://news.ycombinator.com/item?id=30900237),
+    [archive.ph](https://archive.ph/s7TQl),
+    [archive.org](https://web.archive.org/web/20230307112558/https://news.ycombinator.com/item?id=30900237),
+    [ghostarchive](https://ghostarchive.org/archive/gXDJj)
+
 opencart/opencart
 * [/pull/219](https://github.com/opencart/opencart/pull/219)
 * [/issues/1269](https://github.com/opencart/opencart/issues/1269)
