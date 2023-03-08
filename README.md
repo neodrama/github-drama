@@ -380,7 +380,49 @@ oerdnj/deb.sury.org
 * [archive.ph](https://archive.ph/ylh6j)
 * [archive.org](https://web.archive.org/web/20220928005729/https://github.com/oerdnj/deb.sury.org/issues/1768)
 
-[opal/opal/issues/941](https://github.com/opal/opal/issues/941)
+[opal/opal/issues/941](https://github.com/opal/opal/issues/941),
+[archive.ph](https://archive.ph/GQEmD),
+[archive.org](https://web.archive.org/web/20230308120408/https://github.com/opal/opal/issues/941),
+[ghostarchive](https://ghostarchive.org/archive/x7uev),
+* Dramatis Personae:
+  * Coraline Ada Ehmke,
+    @CoralineAda,
+    [GitHub](https://github.com/CoralineAda),
+    [Wikipedia](https://en.wikipedia.org/wiki/Coraline_Ada_Ehmke)
+  * @meh,
+    [GitHub](https://github.com/meh)
+* Summary:
+  * A core maintainer of Opal made transmisic and transphobic comments on the Internet.
+  * The creator of the Contributor Covenant opened an issue to kick the maintainer out of the Opal development community.
+  * Another core maintainer of Opal replied hostilely and closed the GitHub issue dismissively.
+* Journalism:
+  * [Hacker News](https://news.ycombinator.com/item?id=9741551),
+    [archive.ph](https://archive.ph/i7295),
+    [archive.org](https://web.archive.org/web/20230308125804/news.ycombinator.com/item?id=9741551),
+    [ghostarchive](https://ghostarchive.org/archive/nOxbL)
+  * [kiwifarms](https://kiwifarms.net/threads/coraline-ada-ehmke-corey-dale-ehmke.31003/),
+    [archive.ph](https://archive.ph/OKJAc),
+    [archive.org](https://web.archive.org/web/20230308120338/https://kiwifarms.net/threads/coraline-ada-ehmke-corey-dale-ehmke.31003)
+  * [4chan /g/ 48559828](https://boards.4channel.org/g/thread/48559828),
+    [desuarchive](https://desuarchive.org/g/thread/48559828),
+    [archive.ph](https://archive.ph/AMlur),
+    [archive.org](https://web.archive.org/web/20230308122403/https://desuarchive.org/g/thread/48559828),
+    [ghostarchive](https://ghostarchive.org/archive/XwI1n)
+  * [4chan /g/ 48569752](https://boards.4channel.org/g/thread/48569752),
+    [desuarchive](https://desuarchive.org/g/thread/48569752),
+    [archive.ph](https://archive.ph/H4Yzi),
+    [archive.org](https://web.archive.org/web/20230308122419/https://desuarchive.org/g/thread/48569752),
+    [ghostarchive](https://ghostarchive.org/archive/WKKRU)
+  * [4chan /g/ 48575151](https://boards.4channel.org/g/thread/48575151),
+    [desuarchive](https://desuarchive.org/g/thread/48575151),
+    [archive.ph](https://archive.ph/Z6WPr),
+    [archive.org](https://web.archive.org/web/20230308122433/https://desuarchive.org/g/thread/48575151),
+    [ghostarchive](https://ghostarchive.org/archive/IvG0i)
+  * [4chan /g/ 90214421](https://boards.4channel.org/g/thread/90214421),
+    [desuarchive](https://desuarchive.org/g/thread/90214421),
+    [archive.ph](https://archive.ph/ttIpA),
+    [archive.org](https://web.archive.org/web/20230308123448/desuarchive.org/g/thread/90214421),
+    [ghostarchive](https://ghostarchive.org/archive/uTMdV)
 
 [OpenBB-finance/OpenBBTerminal/issues/1625](https://github.com/OpenBB-finance/OpenBBTerminal/issues/1625),
 [archive.ph](https://archive.ph/waV0Z),
