@@ -480,6 +480,8 @@ PolyMC/PolyMC
 
 [python/mypy/issues/11492](https://github.com/python/mypy/issues/11492)
 
+[p0deje/Maccy/issues/482](https://github.com/p0deje/Maccy/issues/482)
+
 rails/rails
 * [/commit/b83965785db1eec019edf1fc272b1aa393e6dc57](https://github.com/rails/rails/commit/b83965785db1eec019edf1fc272b1aa393e6dc57)
 * [/issues/5228](https://github.com/rails/rails/issues/5228)
