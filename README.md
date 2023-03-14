@@ -480,7 +480,11 @@ PolyMC/PolyMC
 
 [python/mypy/issues/11492](https://github.com/python/mypy/issues/11492)
 
-[p0deje/Maccy/issues/482](https://github.com/p0deje/Maccy/issues/482)
+[p0deje/Maccy/issues/482](https://github.com/p0deje/Maccy/issues/482),
+[archive.is](https://archive.is/4gfck),
+[archive.org](https://web.archive.org/web/20230314033334/https://github.com/p0deje/Maccy/issues/482),
+[ghostarchive](https://ghostarchive.org/archive/aoGIX)
+* The itoddlers can't figure out why they can't copy or paste with the clipboard manager and can't find any fix. Several people with the problem complain, and the problem is widespread due to the Ventura update. Finally, after much struggle, the issue is closed.
 
 rails/rails
 * [/commit/b83965785db1eec019edf1fc272b1aa393e6dc57](https://github.com/rails/rails/commit/b83965785db1eec019edf1fc272b1aa393e6dc57)
