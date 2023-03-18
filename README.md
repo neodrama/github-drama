@@ -506,7 +506,14 @@ rails/rails
 
 [rubocop/rubocop/issues/8091](https://github.com/rubocop/rubocop/issues/8091) ([archive.org](https://web.archive.org/web/20230129101026/https://github.com/rubocop/rubocop/issues/8091), [archive.ph](https://archive.ph/3JwN5))
 
-[Slackadays/Clipboard/issues/14](https://github.com/Slackadays/Clipboard/issues/14)
+[Slackadays/Clipboard/issues/14](https://github.com/Slackadays/Clipboard/issues/14),
+[archive.is](https://archive.is/Nes5W),
+[archive.org](https://web.archive.org/web/20230318143458/https://github.com/Slackadays/Clipboard/issues/14),
+[ghostarchive](https://ghostarchive.org/archive/RdyMB)
+* Summary:
+  * The issue evolves from being a straightforward in-progress task to something completely unexpected.
+  * A maintainer on Arch User Repository comes out of the woodwork to elaborate on a problem specific to Arch Linux. Everyone involved goes back and forth because the key to the issue is non-obvious and a real hack due to how Fedora searches paths.
+  * The original issue opener manually compiles the clipboard manager and posts cryptic logs until someone puts a patch into place. However, every window gets squished and jumps around whenever Sway WM users copy text due to an unpleasant feature inherent in Wayland.
 
 [spatie/laravel-newsletter/pull/228](https://github.com/spatie/laravel-newsletter/pull/228)
 
