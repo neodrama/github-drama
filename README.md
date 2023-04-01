@@ -8,12 +8,6 @@
 
 # github-drama (community fork)
 
-The GitHub drama community forked and created this repository in 2022 because the original maintainer is inactive.
-
-All community members edit collaboratively and enjoy a liberal editing policy similar to Wikipedia.
-
-Old repository: https://github.com/nikolas/github-drama
-
 This is a curated collection of "dramatic" GitHub interactions.
 
 ## Contributing to github-drama
@@ -23,6 +17,15 @@ software development, and not to harass anyone. Sometimes tensions build up in
 online interactions, and the intention of github-drama is to allow
 participants to take a step back from the drama and say to themselves, "damn,
 I need to chill".
+
+### Phylogenetic tree
+
+This repository is
+[github-drama/github-drama](https://github.com/github-drama/github-drama).
+The GitHub Drama community forked and created this repository in 2022.
+The ancestry is
+[nikolas/github-drama](https://github.com/nikolas/github-drama).
+Relatives include [paradite/github-dramas](https://github.com/paradite/github-dramas).
 
 ### How do I find drama?
 
