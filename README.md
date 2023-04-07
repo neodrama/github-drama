@@ -265,6 +265,8 @@ bower/bower
 
 [flutter/flutter/issues/11609](https://github.com/flutter/flutter/issues/11609)
 
+[ggerganov/llama.cpp/pull/711](https://github.com/ggerganov/llama.cpp/pull/711)
+
 github/dmca
 * [pull/8122](https://github.com/github/dmca/pull/8122) ([archive.org](https://web.archive.org/web/20230129084646/https://github.com/github/dmca/pull/8122
 ), [archive.ph](https://archive.ph/l1oh6))
