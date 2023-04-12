@@ -465,6 +465,10 @@ PolyMC/PolyMC
 * [/issues/656](https://github.com/PolyMC/PolyMC/issues/656)
 
 [portainer/portainer/issues/8452](https://github.com/portainer/portainer/issues/8452)
+* Summary:
+  * Portainer developers add an obnoxious e-begging button and call the built-in begware a new feature, not a bug.
+  * Kubernetes users install ad blockers in their development environment to suppress the nagware.
+  * The community then creates new ad-free forks and Docker images.
 
 [PowerShell/PowerShell/pull/1901](https://github.com/PowerShell/PowerShell/pull/1901)
 
