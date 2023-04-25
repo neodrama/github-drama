@@ -89,6 +89,8 @@ bower/bower
 [freezepage](https://www.freezepage.com/1677951328OBCAJPFFEM)
 * Cloudflare's embrace-and-extend Fediverse software posts private messages to the local public timeline. Cloudflare maintainers have flagged several comments that go into technical detail about the bug as spam.
 
+[crablang/crab/issues/14](https://github.com/crablang/crab/issues/14)
+
 [CVarisco/community-story/pull/1](https://github.com/CVarisco/community-story/pull/1)
 
 [dear-github/dear-github/issues/107](https://github.com/dear-github/dear-github/issues/107)
