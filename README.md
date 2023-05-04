@@ -499,6 +499,21 @@ PolyMC/PolyMC
 [ghostarchive](https://ghostarchive.org/archive/aoGIX)
 * The itoddlers can't figure out why they can't copy or paste with the clipboard manager and can't find any fix. Several people with the problem complain, and the problem is widespread due to the Ventura update. Finally, after much struggle, the issue is closed.
 
+[qbittorrent/qBittorrent/issues/18618](https://github.com/qbittorrent/qBittorrent/issues/18618)
+* Summary:
+  * Without first consulting the qBittorrent developers privately,
+    an alt account publicly disclosed a path traversal vulnerability
+    by opening a GitHub issue in February 2023.
+    (Coordinated Vulnerability Disclosure, CVD, [Wikipedia](https://en.wikipedia.org/wiki/Coordinated_vulnerability_disclosure))
+  * One GitHub user responded,
+    "That doesn't respect my freedom™ to use a better client."
+    Many reacted to the reply with a thumbs-down emoji.
+    ([Source](https://github.com/qbittorrent/qBittorrent/issues/18618#issuecomment-1445493562))
+  * Another GitHub user commented,
+    "What is your problem with using civilized language?"
+    A qBittorrent maintainer marked the comment as abuse.
+    ([Source](https://github.com/qbittorrent/qBittorrent/issues/18618#issuecomment-1448014019))
+
 rails/rails
 * [/commit/b83965785db1eec019edf1fc272b1aa393e6dc57](https://github.com/rails/rails/commit/b83965785db1eec019edf1fc272b1aa393e6dc57)
 * [/issues/5228](https://github.com/rails/rails/issues/5228)
