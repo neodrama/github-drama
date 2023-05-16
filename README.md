@@ -615,14 +615,25 @@ systemd/systemd
     [archive.org](https://web.archive.org/web/20230310064848/https://github.com/zloirock),
     [ghostarchive](https://ghostarchive.org/archive/LqIsP)
 * Summary
-  * Zloirock maintains the core-js library on millions of websites and has spammed the console of numerous developers who indirectly import core-js. (source: [issues/635](https://github.com/zloirock/core-js/issues/635))
-  * According to The Register, Zloirock is a Russian who was once unable to maintain core-js when he served about ten months in prison in 2020 for colliding with two pedestrians on his motorcycle, killing one.
-    (source:
-      [The Register 2020](https://www.theregister.com/2020/03/26/corejs_maintainer_jailed_code_release),
-      [The Register 2023](https://www.theregister.com/2023/02/15/corejs_russia_open_source)
-    )
-  * Zloirock said he's ready to give up open-source development because few people pay for core-js.
+  * The Register reported,
+    "In November 2019, Denis Pushkarev, maintainer of the popular core-js library, lost an appeal to overturn an 18-month prison sentence imposed for driving his motorcycle into two pedestrians, killing one of them."
+    Source:
+    [The Register (2020)](https://www.theregister.com/2020/03/26/corejs_maintainer_jailed_code_release),
+    [archive.ph](https://archive.ph/x86K4),
+    [archive.org](https://web.archive.org/web/20230221144859/https://www.theregister.com/2020/03/26/corejs_maintainer_jailed_code_release),
+    [ghostarchive](https://ghostarchive.org/archive/YB6R3)
+  * The Register reported,
+    "he served about ten months in prison in 2020 for colliding with two pedestrians on his motorcycle, killing one of them."
+    Source:
+    [The Register (2023)](https://www.theregister.com/2023/02/15/corejs_russia_open_source),
+    [archive.ph](https://archive.ph/mm6y5),
+    [archive.org](https://web.archive.org/web/20230221163225/https://www.theregister.com/2023/02/15/corejs_russia_open_source),
+    [ghostarchive](https://ghostarchive.org/archive/3ySK9)
+  * Zloirock spammed the console of numerous developers who indirectly imported core-js.
+    ([Source](https://github.com/zloirock/core-js/issues/635))
   * Zloirock posted a 10000-word screed and opened an issue on GitHub titled "So, what's next?" in February 2023.
+    The GitHub issue elicited hundreds of comments and thousands of thumb-ups and heart emojis from GitHub users.
+    ([Source](https://github.com/zloirock/core-js/issues/1179))
   * For details, read Zloirock's
     [10000-word screed](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md),
     [archive.ph](https://archive.ph/miwZk),
@@ -650,11 +661,11 @@ systemd/systemd
     [archive.org](https://web.archive.org/web/20230221162909/https://github.com/zloirock/core-js/issues/1179),
     [ghostarchive](https://ghostarchive.org/archive/RkxU2)
 * Journalism
-  * [The Register 2020](https://www.theregister.com/2020/03/26/corejs_maintainer_jailed_code_release),
+  * [The Register (2020)](https://www.theregister.com/2020/03/26/corejs_maintainer_jailed_code_release),
     [archive.ph](https://archive.ph/x86K4),
     [archive.org](https://web.archive.org/web/20230221144859/https://www.theregister.com/2020/03/26/corejs_maintainer_jailed_code_release),
     [ghostarchive](https://ghostarchive.org/archive/YB6R3)
-  * [The Register 2023](https://www.theregister.com/2023/02/15/corejs_russia_open_source),
+  * [The Register (2023)](https://www.theregister.com/2023/02/15/corejs_russia_open_source),
     [archive.ph](https://archive.ph/mm6y5),
     [archive.org](https://web.archive.org/web/20230221163225/https://www.theregister.com/2023/02/15/corejs_russia_open_source),
     [ghostarchive](https://ghostarchive.org/archive/3ySK9)
