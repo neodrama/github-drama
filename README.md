@@ -591,6 +591,8 @@ systemd/systemd
 
 [vcflib/vcflib/issues/206](https://github.com/vcflib/vcflib/issues/206)
 
+[VHSgunzo/lutris-wine/issues/15](https://github.com/VHSgunzo/lutris-wine/issues/15)
+
 [vimeo/player.js/issues/28](https://github.com/vimeo/player.js/issues/28)
 
 [WhisperSystems/Signal-Android/issues/127](https://github.com/WhisperSystems/Signal-Android/issues/127)
