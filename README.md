@@ -137,6 +137,35 @@ bower/bower
   * [ycombinator](https://news.ycombinator.com/item?id=35007978)
   * [reddit](https://www.reddit.com/r/MachineLearning/comments/11h3p2x/d_facebooks_llama_leaks_via_torrent_file_in_pr/)
 
+[fasterthanlime/42da9378768aebef662dd26dddf04849](https://gist.github.com/fasterthanlime/42da9378768aebef662dd26dddf04849)
+  * Summary
+    * A GitHub user named @fasterthanlime published an article titled
+      "Rust: The wrong people are resigning" in May 2023,
+      highlighting concerns about the resignations of key individuals in the Rust language community.
+  * Journalism
+    * [Hacker News 36090512](https://news.ycombinator.com/item?id=36090512)
+    * [Hacker News 36091242](https://news.ycombinator.com/item?id=36091242)
+    * [Hacker News 36101501](https://news.ycombinator.com/item?id=36101501)
+    * [Hacker News 36105637](https://news.ycombinator.com/item?id=36105637)
+    * [Hacker News 36106942](https://news.ycombinator.com/item?id=36106942)
+    * [Reddit r/Rust 13sqdt7](https://old.reddit.com/r/rust/comments/13sqdt7/i_am_no_longer_speaking_at_rustconf_2023_thephd/)
+    * [Reddit r/Rust 13tsmht](https://old.reddit.com/r/rust/comments/13tsmht/jt_why_i_left_rust/)
+    * [Reddit r/Rust 13u8car](https://old.reddit.com/r/rust/comments/13u8car/rust_the_wrong_people_are_resigning/)
+    * [rDrama 173622](https://rdrama.net/h/slackernews/post/173622)
+    * [rDrama 174098](https://rdrama.net/h/slackernews/post/174098)
+    * [Kiwifarms (Clearnet)](http://kiwifarms.net/threads/open-source-software-community.38130/post-16356556)
+    * [Kiwifarms (Tor)](http://kiwifarmsaaf4t2h7gc3dfc5ojhmqruw2nit3uejrpiagrxeuxiyxcyd.onion/threads/open-source-software-community.38130/post-16356556)
+    * [4chan /g/ 93695805](https://boards.4channel.org/g/thread/93695805),
+      [archive.ph](https://archive.ph/tlIvW),
+      [archive.org](https://web.archive.org/web/20230529101523/https://boards.4channel.org/g/thread/93695805),
+      [ghostarchive](https://ghostarchive.org/archive/gHlmC)
+    * [4chan /g/ 93710005](https://boards.4channel.org/g/thread/93710005),
+      [archive.ph](https://archive.ph/6kxdh),
+      [archive.org](https://web.archive.org/web/20230529101522/https://boards.4channel.org/g/thread/93710005),
+      [ghostarchive](https://ghostarchive.org/archive/X4YXR)
+    * [desuarchive /g/ 93695805](https://desuarchive.org/g/thread/93695805/)
+    * [desuarchive /g/ 93710005](https://desuarchive.org/g/thread/93710005/)
+
 [Feodor2/Mypal/issues/3](https://github.com/Feodor2/Mypal/issues/3),
 [archive.ph](https://archive.ph/wip/3HQk6),
 [archive.org](https://web.archive.org/web/20230305151116/https://github.com/Feodor2/Mypal/issues/3),
