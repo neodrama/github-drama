@@ -143,7 +143,11 @@ bower/bower
       "Rust: The wrong people are resigning" in May 2023,
       highlighting concerns about the resignations of key individuals in the Rust language community.
   * Journalism
-    * [Hacker News](https://news.ycombinator.com/item?id=36106942)
+    * [Hacker News 36090512](https://news.ycombinator.com/item?id=36090512)
+    * [Hacker News 36091242](https://news.ycombinator.com/item?id=36091242)
+    * [Hacker News 36101501](https://news.ycombinator.com/item?id=36101501)
+    * [Hacker News 36105637](https://news.ycombinator.com/item?id=36105637)
+    * [Hacker News 36106942](https://news.ycombinator.com/item?id=36106942)
     * [Reddit r/Rust 13sqdt7](https://old.reddit.com/r/rust/comments/13sqdt7/i_am_no_longer_speaking_at_rustconf_2023_thephd/)
     * [Reddit r/Rust 13tsmht](https://old.reddit.com/r/rust/comments/13tsmht/jt_why_i_left_rust/)
     * [Reddit r/Rust 13u8car](https://old.reddit.com/r/rust/comments/13u8car/rust_the_wrong_people_are_resigning/)
