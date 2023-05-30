@@ -273,7 +273,7 @@ bower/bower
   * original ksh kinda blew up - [ksh fallout](https://github.com/att/ast/issues/1464).
   * original [ksh rewound](https://github.com/att/ast/issues/1466).
   * [ksh-community](https://github.com/ksh-community) stalled.
-  * [ksh93](https://github.com/ksh93/ksh) seems to be activen now though.
+  * [ksh93](https://github.com/ksh93/ksh) seems to be active now though.
 
 [fish-shell/fish-shell/pull/9512](https://github.com/fish-shell/fish-shell/pull/9512),
 [archive.ph](https://archive.ph/Nl8E7),
