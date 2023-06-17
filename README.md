@@ -150,17 +150,17 @@ bower/bower
     [archive.ph](https://archive.ph/PMXtD),
     [archive.org](https://web.archive.org/web/20230617170626/https://www.theregister.com/2023/03/08/meta_llama_ai_leak/),
     [ghostarchive](https://ghostarchive.org/archive/IP5dP)
-  * [4channel 91850335](https://boards.4channel.org/g/thread/91848262#p91850335),
+  * [4Chan /g/ 91850335](https://boards.4channel.org/g/thread/91848262#p91850335),
     [archive.is](https://archive.is/uPGfc#selection-28043.0-28043.8),
     [ghostarchive](https://ghostarchive.org/archive/V1jW2)
-  * [4channel 91870752](https://boards.4channel.org/g/thread/91870752),
+  * [4Chan /g/ 91870752](https://boards.4channel.org/g/thread/91870752),
     [archive.is](https://archive.is/rOUsB),
     [ghostarchive](https://ghostarchive.org/archive/mFiCW)
-  * [desuarchive 91850335](https://desuarchive.org/g/thread/91848262/#91850335),
+  * [DesuArchive /g/ 91850335](https://desuarchive.org/g/thread/91848262/#91850335),
     [archive.ph](https://archive.ph/djxWm#selection-47863.0-47863.8),
-    [archive.org](https://web.archive.org/web/20230617163532/https://desuarchive.org/g/thread/91848262/)
+    [archive.org](https://web.archive.org/web/20230617163532/https://desuarchive.org/g/thread/91848262/),
     [ghostarchive](https://ghostarchive.org/archive/JLBxR)
-  * [desuarchive 91870752](https://desuarchive.org/g/thread/91870752/),
+  * [DesuArchive /g/ 91870752](https://desuarchive.org/g/thread/91870752/),
     [archive.ph](https://archive.ph/ll6Xy),
     [archive.org](https://web.archive.org/web/20230617170823/https://desuarchive.org/g/thread/91870752/),
     [ghostarchive](https://ghostarchive.org/archive/mbzeF)
@@ -180,7 +180,7 @@ bower/bower
     [archive.ph](https://archive.ph/oByTw),
     [archive.org](https://web.archive.org/web/20230617194604/https://rdrama.net/h/slackernews/post/151549),
     [ghostarchive](https://ghostarchive.org/archive/Mh2ao)
-  * [reddit r/MachineLearning](https://old.reddit.com/r/MachineLearning/comments/11h3p2x/d_facebooks_llama_leaks_via_torrent_file_in_pr/),
+  * [Reddit r/MachineLearning](https://old.reddit.com/r/MachineLearning/comments/11h3p2x/d_facebooks_llama_leaks_via_torrent_file_in_pr/),
     [archive.is](https://archive.is/VFoTn),
     [archive.org](https://web.archive.org/web/20230612032838/https://old.reddit.com/r/MachineLearning/comments/11h3p2x/d_facebooks_llama_leaks_via_torrent_file_in_pr/),
     [ghostarchive](https://ghostarchive.org/archive/fpseV)
