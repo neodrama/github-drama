@@ -168,6 +168,10 @@ bower/bower
     [archive.ph](https://archive.ph/PBihF),
     [archive.org](https://web.archive.org/web/20230617171043/https://news.ycombinator.com/item?id=35007978),
     [ghostarchive](https://ghostarchive.org/archive/0OvxZ)
+  * [rDrama](https://rdrama.net/h/slackernews/post/151549),
+    [archive.ph](https://archive.ph/oByTw),
+    [archive.org](https://web.archive.org/web/20230617194604/https://rdrama.net/h/slackernews/post/151549),
+    [ghostarchive](https://ghostarchive.org/archive/Mh2ao)
   * [reddit r/MachineLearning](https://old.reddit.com/r/MachineLearning/comments/11h3p2x/d_facebooks_llama_leaks_via_torrent_file_in_pr/),
     [archive.is](https://archive.is/VFoTn),
     [archive.org](https://web.archive.org/web/20230612032838/https://old.reddit.com/r/MachineLearning/comments/11h3p2x/d_facebooks_llama_leaks_via_torrent_file_in_pr/),
