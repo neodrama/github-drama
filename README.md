@@ -164,10 +164,18 @@ bower/bower
     [archive.ph](https://archive.ph/ll6Xy),
     [archive.org](https://web.archive.org/web/20230617170823/https://desuarchive.org/g/thread/91870752/),
     [ghostarchive](https://ghostarchive.org/archive/mbzeF)
-  * [ycombinator](https://news.ycombinator.com/item?id=35007978),
+  * [Hacker News](https://news.ycombinator.com/item?id=35007978),
     [archive.ph](https://archive.ph/PBihF),
     [archive.org](https://web.archive.org/web/20230617171043/https://news.ycombinator.com/item?id=35007978),
-    [ghostarchive](https://ghostarchive.org/archive/0OvxZ)
+    [ghostarchive](https://ghostarchive.org/archive/FypIc)
+  * [Hacker News page 2](https://news.ycombinator.com/item?id=35007978&p=2),
+    [archive.ph](https://archive.ph/WBfLO),
+    [archive.org](https://web.archive.org/web/20230617202833/https://news.ycombinator.com/item?id=35007978&p=2),
+    [ghostarchive](https://ghostarchive.org/archive/t1BEH)
+  * [Hacker News page 3](https://news.ycombinator.com/item?id=35007978&p=3),
+    [archive.ph](https://archive.ph/sC12X),
+    [archive.org](https://web.archive.org/web/20230617203024/https://news.ycombinator.com/item?id=35007978&p=3),
+    [ghostarchive](https://ghostarchive.org/archive/tRiTU)
   * [rDrama](https://rdrama.net/h/slackernews/post/151549),
     [archive.ph](https://archive.ph/oByTw),
     [archive.org](https://web.archive.org/web/20230617194604/https://rdrama.net/h/slackernews/post/151549),
