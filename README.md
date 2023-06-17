@@ -125,17 +125,65 @@ bower/bower
 
 [facebook/react/issues/10191](https://github.com/facebook/react/issues/10191)
 
-[facebookresearch/llama/pull/73](https://github.com/facebookresearch/llama/pull/73)
-* New drama: PR containing a magnet link of Facebook LLAMA originated from 4chan /g/. Facebook LLaMA is a 65-billion-parameter large language model.
-* Someone on 4chan /g/ leaked the magnet link of Facebook LLAMA in march 2023. (source: [4channel](https://boards.4channel.org/g/thread/91848262#p91850335), [desuarchive](https://desuarchive.org/g/thread/91848262/#91850335))
-* @ChristopherKing42 had the brilliant idea of advertising the magnet link through a GitHub pull request.
-* journalism:
-  * [4channel 91850335](https://boards.4channel.org/g/thread/91848262#p91850335)
-  * [4channel 91870752](https://boards.4channel.org/g/thread/91870752)
-  * [desuarchive 91850335](https://desuarchive.org/g/thread/91848262/#91850335)
-  * [desuarchive 91870752](https://desuarchive.org/g/thread/91870752/)
-  * [ycombinator](https://news.ycombinator.com/item?id=35007978)
-  * [reddit](https://www.reddit.com/r/MachineLearning/comments/11h3p2x/d_facebooks_llama_leaks_via_torrent_file_in_pr/)
+[facebookresearch/llama/pull/73](https://github.com/facebookresearch/llama/pull/73),
+[archive.ph](https://archive.ph/ZvKFb),
+[archive.org](https://web.archive.org/web/20230617162315/https://github.com/facebookresearch/llama/pull/73),
+[ghostarchive](https://ghostarchive.org/archive/eUj93)
+* Summary:
+  * Meta's LLaMA is a 65-billion-parameter large language model.
+  * The Register reported that
+    "someone on 4Chan posted details on how to obtain the whole model via peer-to-peer file sharing, and eventually instructions on how to download it all were published on GitHub."
+    on March 8, 2023.
+    (source: [The Register](https://www.theregister.com/2023/03/08/meta_llama_ai_leak/))
+  * The Guardian reported,
+    "Initially posted to 4Chan, a link to the BitTorrent mirror of LLaMA eventually made it to GitHub"
+    on March 7, 2023.
+    (source: [The Guardian](https://www.theguardian.com/technology/2023/mar/07/techscape-meta-leak-llama-chatgpt-ai-crossroads))
+  * A GitHub user opened a pull request containing the magnet link originated from 4chan /g/.
+    (source: [pull/73](https://github.com/facebookresearch/llama/pull/73))
+* Journalism:
+  * [The Guardian](https://www.theguardian.com/technology/2023/mar/07/techscape-meta-leak-llama-chatgpt-ai-crossroads),
+    [archive.ph](https://archive.ph/44CDu),
+    [archive.org](https://web.archive.org/web/20230617170443/https://www.theguardian.com/technology/2023/mar/07/techscape-meta-leak-llama-chatgpt-ai-crossroads),
+    [ghostarchive](https://ghostarchive.org/archive/zb4HJ)
+  * [The Register](https://www.theregister.com/2023/03/08/meta_llama_ai_leak/),
+    [archive.ph](https://archive.ph/PMXtD),
+    [archive.org](https://web.archive.org/web/20230617170626/https://www.theregister.com/2023/03/08/meta_llama_ai_leak/),
+    [ghostarchive](https://ghostarchive.org/archive/IP5dP)
+  * [4Chan /g/ 91850335](https://boards.4channel.org/g/thread/91848262#p91850335),
+    [archive.is](https://archive.is/uPGfc#selection-28043.0-28043.8),
+    [ghostarchive](https://ghostarchive.org/archive/V1jW2)
+  * [4Chan /g/ 91870752](https://boards.4channel.org/g/thread/91870752),
+    [archive.is](https://archive.is/rOUsB),
+    [ghostarchive](https://ghostarchive.org/archive/mFiCW)
+  * [DesuArchive /g/ 91850335](https://desuarchive.org/g/thread/91848262/#91850335),
+    [archive.ph](https://archive.ph/djxWm#selection-47863.0-47863.8),
+    [archive.org](https://web.archive.org/web/20230617163532/https://desuarchive.org/g/thread/91848262/),
+    [ghostarchive](https://ghostarchive.org/archive/JLBxR)
+  * [DesuArchive /g/ 91870752](https://desuarchive.org/g/thread/91870752/),
+    [archive.ph](https://archive.ph/ll6Xy),
+    [archive.org](https://web.archive.org/web/20230617170823/https://desuarchive.org/g/thread/91870752/),
+    [ghostarchive](https://ghostarchive.org/archive/mbzeF)
+  * [Hacker News](https://news.ycombinator.com/item?id=35007978),
+    [archive.ph](https://archive.ph/PBihF),
+    [archive.org](https://web.archive.org/web/20230617171043/https://news.ycombinator.com/item?id=35007978),
+    [ghostarchive](https://ghostarchive.org/archive/FypIc)
+  * [Hacker News page 2](https://news.ycombinator.com/item?id=35007978&p=2),
+    [archive.ph](https://archive.ph/WBfLO),
+    [archive.org](https://web.archive.org/web/20230617202833/https://news.ycombinator.com/item?id=35007978&p=2),
+    [ghostarchive](https://ghostarchive.org/archive/t1BEH)
+  * [Hacker News page 3](https://news.ycombinator.com/item?id=35007978&p=3),
+    [archive.ph](https://archive.ph/sC12X),
+    [archive.org](https://web.archive.org/web/20230617203024/https://news.ycombinator.com/item?id=35007978&p=3),
+    [ghostarchive](https://ghostarchive.org/archive/tRiTU)
+  * [rDrama](https://rdrama.net/h/slackernews/post/151549),
+    [archive.ph](https://archive.ph/oByTw),
+    [archive.org](https://web.archive.org/web/20230617194604/https://rdrama.net/h/slackernews/post/151549),
+    [ghostarchive](https://ghostarchive.org/archive/Mh2ao)
+  * [Reddit r/MachineLearning](https://old.reddit.com/r/MachineLearning/comments/11h3p2x/d_facebooks_llama_leaks_via_torrent_file_in_pr/),
+    [archive.is](https://archive.is/VFoTn),
+    [archive.org](https://web.archive.org/web/20230612032838/https://old.reddit.com/r/MachineLearning/comments/11h3p2x/d_facebooks_llama_leaks_via_torrent_file_in_pr/),
+    [ghostarchive](https://ghostarchive.org/archive/fpseV)
 
 [fasterthanlime/42da9378768aebef662dd26dddf04849](https://gist.github.com/fasterthanlime/42da9378768aebef662dd26dddf04849)
   * Summary
