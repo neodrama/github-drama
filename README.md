@@ -564,6 +564,9 @@ PolyMC/PolyMC
 [archive.ph](https://archive.ph/7BHpX),
 [ghostarchive.org](https://ghostarchive.org/archive/JxzOj)
 
+[https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
+* Developer posts a gist of his objective grievances with Wayland, holywar in comments ensues. Rust Evangelism Strike Force derails the thread as usual.
+
 [projecthamster/hamster/issues/574](https://github.com/projecthamster/hamster/issues/574)
 
 [promises-aplus/promises-spec/issues/94](https://github.com/promises-aplus/promises-spec/issues/94)
