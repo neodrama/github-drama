@@ -46,9 +46,6 @@ a good indicator that it could be included here.
 
 ---
 
-[https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
-* Developer posts a gist of his objective grievances with Wayland, holywar in comments ensues. Rust Evangelism Strike Force derails the thread as usual.
-
 [albertodemichelis/squirrel/pull/67](https://github.com/albertodemichelis/squirrel/pull/67)
 
 [ambv/black/issues/118](https://github.com/ambv/black/issues/118)
@@ -566,6 +563,9 @@ PolyMC/PolyMC
 [archive.org](https://web.archive.org/web/20230223102853/https://github.com/prettier/prettier/issues/6360),
 [archive.ph](https://archive.ph/7BHpX),
 [ghostarchive.org](https://ghostarchive.org/archive/JxzOj)
+
+[https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
+* Developer posts a gist of his objective grievances with Wayland, holywar in comments ensues. Rust Evangelism Strike Force derails the thread as usual.
 
 [projecthamster/hamster/issues/574](https://github.com/projecthamster/hamster/issues/574)
 
