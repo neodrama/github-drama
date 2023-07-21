@@ -616,6 +616,13 @@ rails/rails
 
 [rms-open-letter](https://rms-open-letter.github.io/)
 
+[RupertBenWiser/Web-Environment-Integrity](https://github.com/RupertBenWiser/Web-Environment-Integrity)
+* [/issues/28](https://github.com/RupertBenWiser/Web-Environment-Integrity/issues/28)
+* [/pull/29](https://github.com/RupertBenWiser/Web-Environment-Integrity/pull/29)
+* Summary:
+  * Google is prototyping a browser fingerprinting API that detects the browser's build, extensions, and overall environment around it.
+  * This API allows for websites to collectively exclude all browsers and users that do not use any browser, extension, or OS approved (attested) by Google themselves, essentially forcing all browser developers to register their web browser to Google for testing, and disallowing most Chromium forks.
+
 [robertdavidgraham/masscan/issues/482](https://github.com/robertdavidgraham/masscan/issues/482)
 
 [rollup/rollup/issues/2716](https://github.com/rollup/rollup/issues/2716)
