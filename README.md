@@ -420,7 +420,78 @@ lerna/lerna
 * [/issues/1632](https://github.com/lerna/lerna/issues/1632)
 * [/pull/1633](https://github.com/lerna/lerna/pull/1633)
 
-[spatie/laravel-newsletter/pull/228](https://github.com/spatie/laravel-newsletter/pull/228)
+[mdn/yari](https://github.com/mdn/yari),
+[archive.ph](https://archive.ph/z2ooy),
+[archive.org](https://web.archive.org/web/20230724121235/https://github.com/mdn/yari),
+[ghostarchive](https://ghostarchive.org/archive/ROIfz)
+- issues:
+  - [/issues/9208](https://github.com/mdn/yari/issues/9208),
+    [archive.ph](https://archive.ph/tWFA7),
+    [archive.org](https://web.archive.org/web/20230724115322/https://github.com/mdn/yari/issues/9208),
+    [ghostarchive](https://ghostarchive.org/archive/QV17H)
+    (locked as too heated)
+  - [/issues/9230](https://github.com/mdn/yari/issues/9230),
+    [archive.ph](https://archive.ph/oJmxE),
+    [archive.org](https://web.archive.org/web/20230724121110/https://github.com/mdn/yari/issues/9230),
+    [ghostarchive](https://ghostarchive.org/archive/7kDUB)
+- Summary:
+  - The Register wrote,
+    
+    > "Mozilla Developer Network, a widely used technical resource for web developers, this week introduced an assistive service called AI Help."
+    
+    in July 2023.
+    (source: [The Register (2023/07/03)](https://www.theregister.com/2023/07/03/mozilla_developer_network_adds_ai/))
+  - A GitHub user, @eevee, opened an issue and wrote,
+
+    > "MDN has generated a convincing-sounding lie and there is no apparent process for correcting it"
+    
+    in July 2023.
+    (source: [/issues/9208](https://github.com/mdn/yari/issues/9208))
+- Journalism:
+  - [The Register (2023/07/03)](https://www.theregister.com/2023/07/03/mozilla_developer_network_adds_ai/),
+    [archive.ph](https://archive.ph/74xPE),
+    [archive.org](https://web.archive.org/web/20230724120105/https://www.theregister.com/2023/07/03/mozilla_developer_network_adds_ai),
+    [ghostarchive](https://ghostarchive.org/archive/NSRKi)
+  - [The Register (2023/07/06)](https://www.theregister.com/2023/07/06/mozilla_ai_explain_shift/),
+    [archive.ph](https://archive.ph/Cbfl8),
+    [archive.org](https://web.archive.org/web/20230724120106/https://www.theregister.com/2023/07/06/mozilla_ai_explain_shift),
+    [ghostarchive](https://ghostarchive.org/archive/P9YAB)
+  - [Hacker News](https://news.ycombinator.com/item?id=36542267),
+    [archive.ph](https://archive.ph/5fhRV),
+    [archive.org](https://web.archive.org/web/20230724120345/https://news.ycombinator.com/item?id=36542267),
+    [ghostarchive](https://ghostarchive.org/archive/Al4q0)
+  - [4Chan /g/ 94460477](https://boards.4channel.org/g/thread/94460477),
+    [archive.ph](https://archive.ph/2b0Px),
+    [archive.org](https://web.archive.org/web/20230707020700/https://boards.4channel.org/g/thread/94460477),
+    [ghostarchive](https://ghostarchive.org/archive/cTfRt)
+  - [4Chan /g/ 94686609](https://boards.4channel.org/g/thread/94686609),
+    [archive.ph](https://archive.ph/TFipL),
+    [archive.org](https://web.archive.org/web/20230724114935/https://boards.4channel.org/g/thread/94686609),
+    [ghostarchive](https://ghostarchive.org/archive/hfKXD)
+  - [DesuArchive /g/ 94460477](https://desuarchive.org/g/thread/94460477),
+    [archive.ph](https://archive.ph/tggAY),
+    [archive.org](https://web.archive.org/web/20230724115520/https://desuarchive.org/g/thread/94460477),
+    [ghostarchive](https://ghostarchive.org/archive/aP0ii)
+  - [DesuArchive /g/ 94686609](https://desuarchive.org/g/thread/94686609),
+    [archive.ph](https://web.archive.org/web/20230724115210/https://desuarchive.org/g/thread/94686609),
+    [archive.org](https://archive.ph/Jm96s),
+    [ghostarchive](https://ghostarchive.org/archive/guV2p)
+  - [Kiwifarms (.net)](http://kiwifarms.net/threads/open-source-software-community.38130/post-16456764)
+  - [Kiwifarms (.onion)](https://kiwifarmsaaf4t2h7gc3dfc5ojhmqruw2nit3uejrpiagrxeuxiyxcyd.onion/threads/open-source-software-community.38130/page-162#post-16456764),
+    [archive.ph](https://archive.ph/BJ2t9#selection-2181.0-2181.11),
+    [ghostarchive](https://ghostarchive.org/archive/JaGg8)
+  - [Kiwifarms (sneed.today)](https://sneed.today/threads/open-source-software-community.38130/post-16456764),
+    [archive.ph](https://archive.ph/xzorn#selection-2181.0-2181.11),
+    [archive.org](https://web.archive.org/web/20230724115824/https://sneed.today/threads/open-source-software-community.38130/page-162),
+    [ghostarchive](https://ghostarchive.org/archive/DiNax)
+  - [rDrama](https://rdrama.net/h/slackernews/post/184663),
+    [archive.ph](https://archive.ph/tvsI8),
+    [archive.org](https://web.archive.org/web/20230724120721/https://rdrama.net/h/slackernews/post/184663),
+    [ghostarchive](https://ghostarchive.org/archive/TPuzP)
+  - [Reddit r/webdev](https://old.reddit.com/r/webdev/comments/14ne70t/developers_around_github_reel_in_on_mdns_new_ai/),
+    [archive.ph](https://archive.ph/HZ0yj),
+    [archive.org](https://web.archive.org/web/20230724115911/https://old.reddit.com/r/webdev/comments/14ne70t/developers_around_github_reel_in_on_mdns_new_ai/),
+    [ghostarchive](https://ghostarchive.org/archive/evH5y)
 
 [Microsoft/Terminal/issues/10362](https://github.com/microsoft/terminal/issues/10362)
 
@@ -801,8 +872,6 @@ systemd/systemd
     [archive.org](https://web.archive.org/web/20230221164800/https://kiwifarms.net/threads/open-source-software-community.38130/post-5930885),
     [ghostarchive](https://ghostarchive.org/archive/bBaY2)
     
-[mdn/yari/issues/9208](https://github.com/mdn/yari/issues/9208) MDN AI Explain drama
-
 ---
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
