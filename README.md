@@ -801,6 +801,8 @@ systemd/systemd
     [archive.org](https://web.archive.org/web/20230221164800/https://kiwifarms.net/threads/open-source-software-community.38130/post-5930885),
     [ghostarchive](https://ghostarchive.org/archive/bBaY2)
     
+[mdn/yari/issues/9208](https://github.com/mdn/yari/issues/9208) MDN AI Explain drama
+
 ---
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
