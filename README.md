@@ -776,6 +776,16 @@ systemd/systemd
 
 [WICG/interventions/issues/18](https://github.com/WICG/interventions/issues/18)
 
+[xenia-canary/xenia-canary/pull/180](https://github.com/xenia-canary/xenia-canary/pull/180)
+* Summary
+  * One of developers of Xenia, an Xbox 360 emulator, added an anti-feature that plays loud noises when loading ISO images, together with nagging messages about "piracy".
+  * Said developer revealed to be a Discord janny that happened to get tired of people asking for support without proving an ownership of the game.
+  * After backlash, the developer nukes his account with other contributors cleaning up the mess later.
+* Journalism
+  * [4chan /g/ 94978918 (archive)](https://desuarchive.org/g/thread/94978918/)
+  * [Kiwi Farms](https://kiwifarmsaaf4t2h7gc3dfc5ojhmqruw2nit3uejrpiagrxeuxiyxcyd.onion/threads/xbox-360-emulator-dev-fights-pirates-with-ear-rape.168671/)
+  * [rDrama](https://rdrama.net/h/slackernews/post/191294/xbox-360-emulator-throws-an-error)
+
 [Jguer/yay/issues/496](https://github.com/Jguer/yay/issues/496)
 
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
