@@ -78,7 +78,9 @@ bower/bower
 
 [bower/bower/pull/1748](https://github.com/bower/bower/pull/1748)
 
-[chrisaljoudi/uBlock/pull/1517](https://github.com/chrisaljoudi/uBlock/pull/1517)
+chrisaljoudi/uBlock (Ownership transfer/donations drama)
+- [/pull/1517](https://github.com/chrisaljoudi/uBlock/pull/1517)
+- [/issues/1153](https://github.com/uBlock-LLC/uBlock/issues/1153)
 
 [CleverRaven/Cataclysm-DDA/pull/51079](https://github.com/CleverRaven/Cataclysm-DDA/pull/51079)
 
