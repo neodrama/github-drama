@@ -121,6 +121,11 @@ chrisaljoudi/uBlock (Ownership transfer/donations drama)
 
 [dotnet/roslyn/pull/3507](https://github.com/dotnet/roslyn/pull/3507)
 
+dotnet-foundation/Home (.NET Foundation ReactiveUI PR drama)
+* [dotnet-foundation/Home/discussions/39](https://github.com/dotnet-foundation/Home/discussions/39)
+* [reactiveui/splat/pull/778](https://github.com/reactiveui/splat/pull/778)
+* [dotnet-foundation/Home/discussions/40](https://github.com/dotnet-foundation/Home/discussions/40)
+
 [EpicGames/Signup/pull/24](https://github.com/EpicGames/Signup/pull/24)
 * Notification spam of 400k GitHub users due to tagging @EpicGames/developers on GitHub
 * [ycombinator](https://news.ycombinator.com/item?id=31627061)
