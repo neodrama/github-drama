@@ -2,11 +2,9 @@
 
 - To edit, open a pull request. **We will merge it as soon as we see the notification.**
 
-- To edit a large amount of content, open an issue saying so. **We will grant you write access.**
+- To receive notifications about the latest drama, subscribe to the [Community-Driven Happenings Feed](https://github.com/neodrama/github-drama/issues/2).
 
-- To receive notifications about the latest drama, subscribe to the [Community-Driven Happenings Feed](https://github.com/github-drama/github-drama/issues/28).
-
-# github-drama (community fork)
+# github-drama (community fork #2)
 
 This is a curated collection of "dramatic" GitHub interactions.
 
@@ -20,12 +18,7 @@ I need to chill".
 
 ### Phylogenetic tree
 
-This repository is
-[github-drama/github-drama](https://github.com/github-drama/github-drama).
-The GitHub Drama community forked and created this repository in 2022.
-The ancestry is
-[nikolas/github-drama](https://github.com/nikolas/github-drama).
-Relatives include [paradite/github-dramas](https://github.com/paradite/github-dramas).
+This repository is [neodrama/github-drama](https://github.com/neodrama/github-drama). It was forked from [github-drama/github-drama](https://github.com/github-drama/github-drama) repository in August 2023, when github-drama organisation was [made private due to someone's report](https://github.com/nikolas/github-drama/issues/156#issuecomment-1671123019). The github-drama/github-drama repository was forked in 2022 from [nikolas/github-drama](https://github.com/nikolas/github-drama). 
 
 ### How do I find drama?
 
