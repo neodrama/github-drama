@@ -500,6 +500,9 @@ lerna/lerna
 Microsoft/vscode
 * [/issues/32405](https://github.com/Microsoft/vscode/issues/32405)
 * [/issues/54261](https://github.com/Microsoft/vscode/issues/54261)
+* [/issues/191229](https://github.com/Microsoft/vscode/issues/191229)
+  - Summary:
+    A Chinese company created a fork of VSCode named CEC-IDE, but claims all credit done for it as a "Chinese Home-grown IDE", violating the MIT license.
 
 [Microsoft/web-build-tools/issues/673](https://github.com/Microsoft/web-build-tools/issues/673)
 
