@@ -114,6 +114,10 @@ chrisaljoudi/uBlock (Ownership transfer/donations drama)
 
 [dotnet/roslyn/pull/3507](https://github.com/dotnet/roslyn/pull/3507)
 
+dotnet/roslyn: Tabs vs. spaces drama
+* [issues/24031](https://github.com/dotnet/roslyn/issues/24031)
+* [issues/68873](https://github.com/dotnet/roslyn/issues/68873)
+
 dotnet-foundation/Home (.NET Foundation ReactiveUI PR drama)
 * [dotnet-foundation/Home/discussions/39](https://github.com/dotnet-foundation/Home/discussions/39)
 * [reactiveui/splat/pull/778](https://github.com/reactiveui/splat/pull/778)
