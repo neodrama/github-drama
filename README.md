@@ -112,6 +112,8 @@ chrisaljoudi/uBlock (Ownership transfer/donations drama)
 
 [dotnet/csharplang/issues/993](https://github.com/dotnet/csharplang/issues/993)
 
+[dotnet/maui/issues/35](https://github.com/dotnet/maui/issues/35)
+
 [dotnet/roslyn/pull/3507](https://github.com/dotnet/roslyn/pull/3507)
 
 dotnet/roslyn: Tabs vs. spaces drama
