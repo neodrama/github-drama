@@ -426,6 +426,12 @@ lerna/lerna
 * [/issues/1632](https://github.com/lerna/lerna/issues/1632)
 * [/pull/1633](https://github.com/lerna/lerna/pull/1633)
 
+Marak/colors.js
+* The maintainer of colors.js and faker.js intentionally corrupted the code of his libraries, breaking many projects using them
+* [colors.js/issues/285](https://github.com/Marak/colors.js/issues/285)
+* [colors.js/issues/290](https://github.com/Marak/colors.js/issues/290)
+* [faker.js/issues/1046](https://web.archive.org/web/20210704022108/https://github.com/Marak/faker.js/issues/1046)
+
 [mdn/yari](https://github.com/mdn/yari),
 [archive.ph](https://archive.ph/z2ooy),
 [archive.org](https://web.archive.org/web/20230724121235/https://github.com/mdn/yari),
