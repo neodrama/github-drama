@@ -41,6 +41,11 @@ a good indicator that it could be included here.
 
 [albertodemichelis/squirrel/pull/67](https://github.com/albertodemichelis/squirrel/pull/67)
 
+Alex313031/thorium
+- Chrome fork with Windows 7 support includes furry porn in chrome:/// pages for whatever reason.
+- [issues/463](https://github.com/Alex313031/thorium/issues/463)
+- [issues/468](https://github.com/Alex313031/thorium/issues/468)
+
 [ambv/black/issues/118](https://github.com/ambv/black/issues/118)
 
 [audacity/audacity/pull/835](https://github.com/audacity/audacity/pull/835),
