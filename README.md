@@ -93,6 +93,9 @@ chrisaljoudi/uBlock (Ownership transfer/donations drama)
 
 [CVarisco/community-story/pull/1](https://github.com/CVarisco/community-story/pull/1)
 
+[daeuniverse/dae/issues/368](https://github.com/daeuniverse/dae/issues/368)
+* Project maintainers made a bot that automatically closes reported issues if the issuer didn't star the repo.
+
 [dear-github/dear-github/issues/107](https://github.com/dear-github/dear-github/issues/107)
 
 [Delgan/loguru/issues/563](https://github.com/Delgan/loguru/issues/563)
