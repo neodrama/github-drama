@@ -43,8 +43,8 @@ a good indicator that it could be included here.
 
 Alex313031/thorium
 - Chrome fork with Windows 7 support includes furry porn in chrome:/// pages for whatever reason.
-- [issues/463](https://github.com/Alex313031/thorium/issues/463)
-- [issues/468](https://github.com/Alex313031/thorium/issues/468)
+- [issues/463](https://web.archive.org/web/20231214051251/https://github.com/Alex313031/thorium/issues/463)
+- [issues/468](https://web.archive.org/web/20231214205800/https://github.com/Alex313031/thorium/issues/468)
 
 [ambv/black/issues/118](https://github.com/ambv/black/issues/118)
 
