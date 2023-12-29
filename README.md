@@ -800,6 +800,10 @@ systemd/systemd
 
 [vimeo/player.js/issues/28](https://github.com/vimeo/player.js/issues/28)
 
+voat/voat - Scalability drama
+- [issues/445](https://github.com/voat/voat/issues/445)
+- [issues/446](https://github.com/voat/voat/issues/446)
+
 [webpack/webpack-cli/issues/1612](https://github.com/webpack/webpack-cli/issues/1612)
 
 [WhisperSystems/Signal-Android/issues/127](https://github.com/WhisperSystems/Signal-Android/issues/127)
