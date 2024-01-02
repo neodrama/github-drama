@@ -569,6 +569,9 @@ nodejs/node
 
 [obsproject/obs-studio/pull/2868](https://github.com/obsproject/obs-studio/pull/2868#issuecomment-1134053984)
 
+[obsproject/obs-studio/pull/10043](https://github.com/obsproject/obs-studio/pull/10043)
+* Single JSON change that adds another streaming service rejected by maintainer with zero commits in the last few days, citing not meeting unspecified requirements.
+
 oerdnj/deb.sury.org
 * [archive.ph](https://archive.ph/ylh6j)
 * [archive.org](https://web.archive.org/web/20220928005729/https://github.com/oerdnj/deb.sury.org/issues/1768)
