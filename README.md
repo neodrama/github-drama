@@ -10,11 +10,8 @@ This is a curated collection of "dramatic" GitHub interactions.
 
 ## Contributing to github-drama
 
-This repo is intended to point out comical interactions that come up in the world of
-software development, and not to harass anyone. Sometimes tensions build up in
-online interactions, and the intention of github-drama is to allow
-participants to take a step back from the drama and say to themselves, "damn,
-I need to chill".
+This repo is intended to point out controversial situations that come up in the world of software development, and not to harass anyone. Sometimes tensions build up in
+online interactions, and the intention of github-drama is to preserve links to such discussions so people can discover and read them.
 
 ### Phylogenetic tree
 
@@ -26,16 +23,9 @@ Go into a GitHub project's issues, and sort by "Most commented" or "Most reactio
 
 ### What qualifies as drama?
 
-There's no agreement on what's considered dramatic enough to be included
-in github-drama. Everyone has a different sense of humor. There are plenty
-of "non-serious" GitHub threads, where the usual GitHub politeness gives
-way to reaction GIFs and one-word replies, turning into something like a
-4chan thread, but less funny.
-
-This repository follows the guideline that if anyone in the thread appears to
-be getting worked up about something, it can be considered for inclusion here.
-If a repository's maintainer has locked conversation on a thread, that's also
-a good indicator that it could be included here.
+There's no agreement on what's considered dramatic enough to be included in github-drama. There are plenty of "non-serious" GitHub threads, where the usual GitHub politeness 
+gives way to reaction GIFs and one-word replies, turning into something like a 4chan thread, but less funny. Common signs of drama: many unconstructive comments, many downvote 
+reactions, removed or hidden comments. If a repository's maintainer has locked conversation on a thread, that's also a good indicator that it could be included here.
 
 ---
 
@@ -380,7 +370,7 @@ golang/go
 google/googletest
 * [/issues/1660](https://github.com/google/googletest/issues/1660)
 * [/issues/1666](https://github.com/google/googletest/issues/1666)
-* 
+
 [GoogleCloudPlatform/click-to-deploy/pull/209](https://github.com/GoogleCloudPlatform/click-to-deploy/pull/209)
 
 [greatsuspender/thegreatsuspender/issues/1175](https://github.com/greatsuspender/thegreatsuspender/issues/1175)
