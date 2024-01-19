@@ -537,6 +537,10 @@ moq/moq (Privacy issues with SponsorLink)
 
 [MrMEEE/bumblebee-Old-and-abbandoned/issues/123](https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/issues/123)
 
+NanoAdblocker/NanoCore (Ownership transfer drama)
+- https://github.com/NanoAdblocker/NanoCore/issues/362
+- https://www.reddit.com/r/HobbyDrama/comments/jo9wxn/open_source_development_the_fall_of_nano_defender/
+
 [NationalSecurityAgency/ghidra/issues/371](https://github.com/NationalSecurityAgency/ghidra/issues/371)
 
 [NixOS/nixpkgs/issues/4952](https://github.com/NixOS/nixpkgs/issues/4952)
