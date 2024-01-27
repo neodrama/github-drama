@@ -375,8 +375,6 @@ google/googletest
 
 [greatsuspender/thegreatsuspender/issues/1175](https://github.com/greatsuspender/thegreatsuspender/issues/1175)
 
-[grimfang4/sdl-gpu/issues/2](https://github.com/grimfang4/sdl-gpu/issues/2)
-
 [Homebrew/homebrew-core/issues/24654](https://github.com/Homebrew/homebrew-core/issues/24654) (archive: [1](https://web.archive.org/web/20190117063442/https://github.com/Homebrew/homebrew-core/issues/24654), [2](https://archive.today/JiS6i))
 
 [Homebrew/homebrew-services/issues/151](https://github.com/Homebrew/homebrew-services/issues/151) (archive: [1](https://web.archive.org/web/20190512053827/https://github.com/Homebrew/homebrew-services/issues/151))
@@ -386,8 +384,6 @@ google/googletest
 [irungentoo/toxcore/issues/1227](https://github.com/irungentoo/toxcore/issues/1227)
 
 [jashkenas/underscore/issues/1805](https://github.com/jashkenas/underscore/issues/1805)
-
-[jasperla/openbsd-wip/issues/86](https://github.com/jasperla/openbsd-wip/issues/86)
 
 [jdm-contrib/justdelete.me/issues/86](https://github.com/jdm-contrib/justdelete.me/issues/86) (archive: [1](https://archive.today/DNf2M))
 
@@ -408,8 +404,6 @@ jquery/download.jqueryui.com
 [katharostech/bevy_retrograde/issues/1](https://github.com/katharostech/bevy_retrograde/issues/1)
 
 [kenwheeler/slick/issues/681](https://github.com/kenwheeler/slick/issues/681)
-
-[kelseyhightower/nocode/issues/50](https://github.com/kelseyhightower/nocode/issues/50)
 
 [kmmbvnr/django-jenkins/issues/349](https://github.com/kmmbvnr/django-jenkins/issues/349)
 
