@@ -813,6 +813,8 @@ voat/voat - Scalability drama
 
 [Jguer/yay/issues/496](https://github.com/Jguer/yay/issues/496)
 
+[zedeus/nitter/issues/983](https://github.com/zedeus/nitter/issues/983)
+
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
 
 [Delgan/loguru/issues/563](https://github.com/Delgan/loguru/issues/563)
