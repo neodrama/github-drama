@@ -397,10 +397,6 @@ jquery/download.jqueryui.com
 
 [JuliaLang/IJulia.jl/issues/398](https://github.com/JuliaLang/IJulia.jl/issues/398)
 
-[jquery/download.jqueryui.com/issues/359](https://github.com/jquery/download.jqueryui.com/issues/359)
-
-[jquery/download.jqueryui.com/issues/390](https://github.com/jquery/download.jqueryui.com/issues/390)
-
 [katharostech/bevy_retrograde/issues/1](https://github.com/katharostech/bevy_retrograde/issues/1)
 
 [kenwheeler/slick/issues/681](https://github.com/kenwheeler/slick/issues/681)
@@ -811,13 +807,9 @@ voat/voat - Scalability drama
   * [Kiwi Farms](https://kiwifarmsaaf4t2h7gc3dfc5ojhmqruw2nit3uejrpiagrxeuxiyxcyd.onion/threads/xbox-360-emulator-dev-fights-pirates-with-ear-rape.168671/)
   * [rDrama](https://rdrama.net/h/slackernews/post/191294/xbox-360-emulator-throws-an-error)
 
-[Jguer/yay/issues/496](https://github.com/Jguer/yay/issues/496)
-
 [zedeus/nitter/issues/983](https://github.com/zedeus/nitter/issues/983)
 
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
-
-[Delgan/loguru/issues/563](https://github.com/Delgan/loguru/issues/563)
 
 [zloirock/core-js](https://github.com/zloirock/core-js),
 [archive.ph](https://archive.ph/sH1uG),
