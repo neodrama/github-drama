@@ -120,6 +120,10 @@ dotnet/roslyn: Tabs vs. spaces drama
 * [issues/24031](https://github.com/dotnet/roslyn/issues/24031)
 * [issues/68873](https://github.com/dotnet/roslyn/issues/68873)
 
+[dotnet/runtime/issues/27939](https://github.com/dotnet/runtime/issues/27939)
+
+[dotnet/runtime/issues/92849](https://github.com/dotnet/runtime/issues/92849)
+
 dotnet-foundation/Home (.NET Foundation ReactiveUI PR drama)
 * [dotnet-foundation/Home/discussions/39](https://github.com/dotnet-foundation/Home/discussions/39)
 * [reactiveui/splat/pull/778](https://github.com/reactiveui/splat/pull/778)
