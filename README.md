@@ -385,6 +385,9 @@ google/googletest
 
 [Homebrew/legacy-homebrew/issues/50683](https://github.com/Homebrew/legacy-homebrew/issues/50683) (archive: [1](https://web.archive.org/web/20190629075855/https://github.com/Homebrew/legacy-homebrew/issues/50683))
 
+[lllyasviel/stable-diffusion-webui-forge/discussions/169](https://github.com/lllyasviel/stable-diffusion-webui-forge/discussions/169)
+* ComfyUI (Stable Diffusion frontend) devs accuse Forge (another SD frontend) of using their code, license drama ensues.
+
 [irungentoo/toxcore/issues/1227](https://github.com/irungentoo/toxcore/issues/1227)
 
 [jashkenas/underscore/issues/1805](https://github.com/jashkenas/underscore/issues/1805)
