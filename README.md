@@ -742,6 +742,12 @@ rails/rails
   * A maintainer on Arch User Repository comes out of the woodwork to elaborate on a problem specific to Arch Linux. Everyone involved goes back and forth because the key to the issue is non-obvious and a real hack due to how Fedora searches paths.
   * The original issue opener manually compiles the clipboard manager and posts cryptic logs until someone puts a patch into place. However, every window gets squished and jumps around whenever Sway WM users copy text due to an unpleasant feature inherent in Wayland.
 
+[snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed/)
+* Mastodon users in denial of the fact that their posts are public flood the BlueSky-ActivityPub bridge repo with opt-out requests.
+* [/issues/835](https://github.com/snarfed/bridgy-fed/issues/835) (https://archive.fo/8WKcs)
+* [/issues/841](https://github.com/snarfed/bridgy-fed/issues/841) (https://archive.fo/py75t)
+* [/issues/869](https://github.com/snarfed/bridgy-fed/issues/869) (https://archive.fo/4rhOc)
+
 [spatie/laravel-newsletter/pull/228](https://github.com/spatie/laravel-newsletter/pull/228)
 
 [spring-projects/spring-hateoas/issues/66](https://github.com/spring-projects/spring-hateoas/issues/66)
