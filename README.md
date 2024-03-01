@@ -820,6 +820,17 @@ voat/voat - Scalability drama
   * [Kiwi Farms](https://kiwifarmsaaf4t2h7gc3dfc5ojhmqruw2nit3uejrpiagrxeuxiyxcyd.onion/threads/xbox-360-emulator-dev-fights-pirates-with-ear-rape.168671/)
   * [rDrama](https://rdrama.net/h/slackernews/post/191294/xbox-360-emulator-throws-an-error)
 
+[yuzu-emu/yuzu/issues/13189](https://github.com/yuzu-emu/yuzu/issues/13189) [(archive)](https://archive.is/VfPSc)
+* Summary
+  * Windows 7 user complained about lacking support for his OS
+  * User didn't like being told to switch to linux
+  * User obsessively messaged Nintendo of America to issue a Cease & Desist letter to developers
+  * Gloats about it when they actually did it
+* Journalism
+  * [rDrama](https://rdrama.net/h/slackernews/post/250030/nintendo-yuzu-lolsuit-was-kicked-off)
+  * [4chan /g/ 99245995](https://boards.4chan.org/g/thread/99245995) [(archive)](https://desuarchive.org/g/thread/99245995/)
+
+
 [zedeus/nitter/issues/983](https://github.com/zedeus/nitter/issues/983)
 
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
