@@ -680,6 +680,8 @@ PolyMC/PolyMC
 [ghostarchive](https://ghostarchive.org/archive/aoGIX)
 * Some users can't figure out why they can't copy or paste with the clipboard manager and can't find any fix. Several people with the problem complain, and the problem is widespread due to the Ventura update. Finally, after much struggle, the issue is closed.
 
+[qbittorrent/qBittorrent/issues/9407](https://github.com/qbittorrent/qBittorrent/issues/9407)
+
 [qbittorrent/qBittorrent/issues/18618](https://github.com/qbittorrent/qBittorrent/issues/18618)
 * Summary:
   * Without first consulting the qBittorrent developers privately,
