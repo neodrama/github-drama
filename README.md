@@ -528,10 +528,6 @@ moq/moq (Privacy issues with SponsorLink)
 
 [moxystudio/node-cross-spawn/pull/102](https://github.com/moxystudio/node-cross-spawn/pull/102)
 
-[mozilla/addon-sdk/commit/169a05b9764674b6ad3fb1c6ea1cbf3c7edf8db0](https://github.com/mozilla/addon-sdk/commit/169a05b9764674b6ad3fb1c6ea1cbf3c7edf8db0)
-
-[mozilla-jetpack/jpm/pull/357/commits](https://github.com/mozilla-jetpack/jpm/pull/357)
-
 [MrGlockenspiel/activate-linux/issues/138](https://github.com/MrGlockenspiel/activate-linux/issues/138)
 
 [MrMEEE/bumblebee-Old-and-abbandoned/issues/123](https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/issues/123)
