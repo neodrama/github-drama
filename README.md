@@ -707,6 +707,8 @@ rails/rails
 * [/pull/5329](https://github.com/rails/rails/pull/5329)
 * [/issues/9894](https://github.com/rails/rails/issues/9894)
 
+[redis/redis/pull/13157](https://github.com/redis/redis/pull/13157)
+
 [resque/resque/issues/1406](https://github.com/resque/resque/issues/1406)
 
 [restic/issues/1786](https://github.com/restic/restic/issues/1786)
