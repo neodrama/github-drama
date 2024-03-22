@@ -368,6 +368,9 @@ github/dmca
 * [pull/8122](https://github.com/github/dmca/pull/8122) ([archive.org](https://web.archive.org/web/20230129084646/https://github.com/github/dmca/pull/8122
 ), [archive.ph](https://archive.ph/l1oh6))
 * [pull/8140](https://github.com/github/dmca/pull/8140) ([archive.org](https://web.archive.org/web/20230129084629/https://github.com/github/dmca/pull/8140), [archive.ph](https://archive.ph/GrpDZ))
+
+github/dmca (GTAmodding/re3 drama)
+* [github/dmca/blob/master/2021/02/2021-02-19-take-two.md](https://github.com/github/dmca/blob/master/2021/02/2021-02-19-take-two.md)
 * [pull/8839](https://web.archive.org/web/20210320220522/https://github.com/github/dmca/pull/8839) (archived)
 
 golang/go
