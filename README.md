@@ -644,6 +644,8 @@ palantir/tslint
 
 [PiotrGrochowski/Consolas/issues/1](https://github.com/PiotrGrochowski/Consolas/issues/1) (archive: [1](https://web.archive.org/web/20190203231407/https://github.com/PiotrGrochowski/Consolas/issues/1))
 
+[pkgxdev/pantry/issues/5358](https://github.com/pkgxdev/pantry/issues/5358)
+
 PolyMC/PolyMC
 * [/commit/ccf2825](https://github.com/PolyMC/PolyMC/commit/ccf282593dcdbe189c99b81b8bc90cb203aed3ee)
 * [/issues/656](https://github.com/PolyMC/PolyMC/issues/656)
