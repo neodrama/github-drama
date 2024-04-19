@@ -29,6 +29,11 @@ reactions, removed or hidden comments. If a repository's maintainer has locked c
 
 ---
 
+actix/actix-web
+- [issues/1289](https://github.com/actix/actix-web/issues/1289)
+- [www.theregister.com/2020/01/21/rust_actix_web_framework_maintainer_quits/](https://www.theregister.com/2020/01/21/rust_actix_web_framework_maintainer_quits/)
+- [fafhrd91/actix-web-postmortem](https://github.com/fafhrd91/actix-web-postmortem)
+
 [albertodemichelis/squirrel/pull/67](https://github.com/albertodemichelis/squirrel/pull/67)
 
 Alex313031/thorium
