@@ -30,16 +30,16 @@ reactions, removed or hidden comments. If a repository's maintainer has locked c
 ---
 
 actix/actix-web
-- [issues/1289](https://github.com/actix/actix-web/issues/1289)
-- [www.theregister.com/2020/01/21/rust_actix_web_framework_maintainer_quits/](https://www.theregister.com/2020/01/21/rust_actix_web_framework_maintainer_quits/)
-- [fafhrd91/actix-web-postmortem](https://github.com/fafhrd91/actix-web-postmortem)
+* [issues/1289](https://github.com/actix/actix-web/issues/1289)
+* [www.theregister.com/2020/01/21/rust_actix_web_framework_maintainer_quits/](https://www.theregister.com/2020/01/21/rust_actix_web_framework_maintainer_quits/)
+* [fafhrd91/actix-web-postmortem](https://github.com/fafhrd91/actix-web-postmortem)
 
 [albertodemichelis/squirrel/pull/67](https://github.com/albertodemichelis/squirrel/pull/67)
 
 Alex313031/thorium
-- Chrome fork with Windows 7 support includes furry porn in chrome:/// pages for whatever reason.
-- [issues/463](https://web.archive.org/web/20231214051251/https://github.com/Alex313031/thorium/issues/463)
-- [issues/468](https://web.archive.org/web/20231214205800/https://github.com/Alex313031/thorium/issues/468)
+* Chrome fork with Windows 7 support includes furry porn in chrome:/// pages for whatever reason.
+* [issues/463](https://web.archive.org/web/20231214051251/https://github.com/Alex313031/thorium/issues/463)
+* [issues/468](https://web.archive.org/web/20231214205800/https://github.com/Alex313031/thorium/issues/468)
 
 [ambv/black/issues/118](https://github.com/ambv/black/issues/118)
 
@@ -61,7 +61,7 @@ Alex313031/thorium
 [audacity/audacity/pull/835](https://github.com/audacity/audacity/pull/835)
 
 AUTOMATIC1111/stable-diffusion-webui
-- [issues/6359](https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/6359) ([archive.vn](https://archive.vn/Whu1Z)) ([archive.org](https://web.archive.org/web/20230105161436/https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/6359))
+* [issues/6359](https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/6359) ([archive.vn](https://archive.vn/Whu1Z)) ([archive.org](https://web.archive.org/web/20230105161436/https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/6359))
 
 [ayojs/ayo/issues/36](https://github.com/ayojs/ayo/issues/36) ([archive.ph](https://archive.ph/FvsR6)) ([archive.org](https://web.archive.org/web/20230120102451/https://github.com/ayojs/ayo/issues/36))
 
@@ -73,9 +73,9 @@ bower/bower
 
 [bower/bower/pull/1748](https://github.com/bower/bower/pull/1748)
 
-chrisaljoudi/uBlock (Ownership transfer/donations drama)
-- [/pull/1517](https://github.com/chrisaljoudi/uBlock/pull/1517)
-- [/issues/1153](https://github.com/uBlock-LLC/uBlock/issues/1153)
+chrisaljoudi/uBlock - Ownership transfer/donations drama
+* [/pull/1517](https://github.com/chrisaljoudi/uBlock/pull/1517)
+* [/issues/1153](https://github.com/uBlock-LLC/uBlock/issues/1153)
 
 [CleverRaven/Cataclysm-DDA/pull/51079](https://github.com/CleverRaven/Cataclysm-DDA/pull/51079)
 
@@ -123,7 +123,7 @@ daeuniverse/dae
 
 [dotnet/roslyn/pull/3507](https://github.com/dotnet/roslyn/pull/3507)
 
-dotnet/roslyn: Tabs vs. spaces drama
+dotnet/roslyn - Tabs vs. spaces drama
 * [issues/24031](https://github.com/dotnet/roslyn/issues/24031)
 * [issues/68873](https://github.com/dotnet/roslyn/issues/68873)
 
@@ -131,7 +131,7 @@ dotnet/roslyn: Tabs vs. spaces drama
 
 [dotnet/runtime/issues/92849](https://github.com/dotnet/runtime/issues/92849)
 
-dotnet-foundation/Home (.NET Foundation ReactiveUI PR drama)
+dotnet-foundation/Home - .NET Foundation ReactiveUI PR drama
 * [dotnet-foundation/Home/discussions/39](https://github.com/dotnet-foundation/Home/discussions/39)
 * [reactiveui/splat/pull/778](https://github.com/reactiveui/splat/pull/778)
 * [dotnet-foundation/Home/discussions/40](https://github.com/dotnet-foundation/Home/discussions/40)
@@ -374,7 +374,7 @@ github/dmca
 ), [archive.ph](https://archive.ph/l1oh6))
 * [pull/8140](https://github.com/github/dmca/pull/8140) ([archive.org](https://web.archive.org/web/20230129084629/https://github.com/github/dmca/pull/8140), [archive.ph](https://archive.ph/GrpDZ))
 
-github/dmca (GTAmodding/re3 drama)
+github/dmca - GTAmodding/re3 drama
 * [github/dmca/blob/master/2021/02/2021-02-19-take-two.md](https://github.com/github/dmca/blob/master/2021/02/2021-02-19-take-two.md)
 * [pull/8839](https://web.archive.org/web/20210320220522/https://github.com/github/dmca/pull/8839) (archived)
 
@@ -444,7 +444,7 @@ Marak/colors.js
 [archive.ph](https://archive.ph/z2ooy),
 [archive.org](https://web.archive.org/web/20230724121235/https://github.com/mdn/yari),
 [ghostarchive](https://ghostarchive.org/archive/ROIfz)
-- issues:
+* issues:
   - [/issues/9208](https://github.com/mdn/yari/issues/9208),
     [archive.ph](https://archive.ph/tWFA7),
     [archive.org](https://web.archive.org/web/20230724115322/https://github.com/mdn/yari/issues/9208),
@@ -454,7 +454,7 @@ Marak/colors.js
     [archive.ph](https://archive.ph/oJmxE),
     [archive.org](https://web.archive.org/web/20230724121110/https://github.com/mdn/yari/issues/9230),
     [ghostarchive](https://ghostarchive.org/archive/7kDUB)
-- Summary:
+* Summary:
   - The Register wrote,
     
     > "Mozilla Developer Network, a widely used technical resource for web developers, this week introduced an assistive service called AI Help."
@@ -467,7 +467,7 @@ Marak/colors.js
     
     in July 2023.
     (source: [/issues/9208](https://github.com/mdn/yari/issues/9208))
-- Journalism:
+* Journalism:
   - [The Register (2023/07/03)](https://www.theregister.com/2023/07/03/mozilla_developer_network_adds_ai/),
     [archive.ph](https://archive.ph/74xPE),
     [archive.org](https://web.archive.org/web/20230724120105/https://www.theregister.com/2023/07/03/mozilla_developer_network_adds_ai),
@@ -534,7 +534,7 @@ Microsoft/vscode - Santa hat drama
 
 [moment/moment/issues/1407](https://github.com/moment/moment/issues/1407)
 
-moq/moq (Privacy issues with SponsorLink)
+moq/moq - Privacy issues with SponsorLink
 * [issues/1370](https://github.com/moq/moq/issues/1370)
 * [issues/1372](https://github.com/moq/moq/issues/1372)
 * [issues/1374](https://github.com/moq/moq/issues/1374)
@@ -545,9 +545,9 @@ moq/moq (Privacy issues with SponsorLink)
 
 [MrMEEE/bumblebee-Old-and-abbandoned/issues/123](https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/issues/123)
 
-NanoAdblocker/NanoCore (Ownership transfer drama)
-- https://github.com/NanoAdblocker/NanoCore/issues/362
-- https://www.reddit.com/r/HobbyDrama/comments/jo9wxn/open_source_development_the_fall_of_nano_defender/
+NanoAdblocker/NanoCore - Ownership transfer drama
+* https://github.com/NanoAdblocker/NanoCore/issues/362
+* https://www.reddit.com/r/HobbyDrama/comments/jo9wxn/open_source_development_the_fall_of_nano_defender/
 
 [NationalSecurityAgency/ghidra/issues/371](https://github.com/NationalSecurityAgency/ghidra/issues/371)
 
@@ -846,7 +846,6 @@ voat/voat - Scalability drama
 * Journalism
   * [rDrama](https://rdrama.net/h/slackernews/post/250030/nintendo-yuzu-lolsuit-was-kicked-off)
   * [4chan /g/ 99245995](https://boards.4chan.org/g/thread/99245995) [(archive)](https://desuarchive.org/g/thread/99245995/)
-
 
 [zedeus/nitter/issues/983](https://github.com/zedeus/nitter/issues/983)
 
