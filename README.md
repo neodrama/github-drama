@@ -334,6 +334,8 @@ dotnet-foundation/Home - .NET Foundation ReactiveUI PR drama
     [archive.org](https://web.archive.org/web/20230305150614/https://desuarchive.org/g/thread/86124256),
     [ghostarchive](https://ghostarchive.org/archive/AHFsK)
 
+[keepassxreboot/keepassxc/issues/10725](https://github.com/keepassxreboot/keepassxc/issues/10725)
+    
 * korn shell - ksh
   * original ksh kinda blew up - [ksh fallout](https://github.com/att/ast/issues/1464).
   * original [ksh rewound](https://github.com/att/ast/issues/1466).
