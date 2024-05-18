@@ -425,6 +425,11 @@ jquery/download.jqueryui.com
 
 [kraih/mojo/issues/656](https://github.com/kraih/mojo/issues/656)
 
+ldapjs/node-ldapjs
+* Developer of a Node library calls quits after receiving an email reminiscent of Xbox Live chat.
+* [/commit/8ffd0bc](https://github.com/ldapjs/node-ldapjs/commit/8ffd0bc9c149088a10ec4c1ec6a18450f76ad05d)
+* Discussion: [Hacker News](https://news.ycombinator.com/item?id=40370190), [4chan](https://desuarchive.org/g/thread/100523482/)
+
 lerna/lerna
 * [/pull/1616](https://github.com/lerna/lerna/pull/1616)
 * [/pull/1619](https://github.com/lerna/lerna/pull/1619)
