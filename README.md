@@ -725,6 +725,14 @@ rails/rails
 * [/pull/5329](https://github.com/rails/rails/pull/5329)
 * [/issues/9894](https://github.com/rails/rails/issues/9894)
 
+raivo-otp/ios-application
+* Formerly source-available OTP authenticator for iOS suddenly deleted user data after update, and is suggested to be paywalling the backup import function.
+* [issues page](https://web.archive.org/web/20240530144023/https://github.com/raivo-otp/ios-application/issues)
+* [/issues/328](https://web.archive.org/web/20240531085449/https://github.com/raivo-otp/ios-application/issues/328)
+* [/discussions/369](https://archive.ph/ioVsf)
+* [/discussions/372](https://archive.ph/cBcTD)
+* [Hacker News](https://news.ycombinator.com/item?id=40523411)
+
 [redis/redis/pull/13157](https://github.com/redis/redis/pull/13157)
 
 [resque/resque/issues/1406](https://github.com/resque/resque/issues/1406)
