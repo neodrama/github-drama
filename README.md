@@ -765,6 +765,9 @@ raivo-otp/ios-application
 
 [rubocop/rubocop/issues/8091](https://github.com/rubocop/rubocop/issues/8091) ([archive.org](https://web.archive.org/web/20230129101026/https://github.com/rubocop/rubocop/issues/8091), [archive.ph](https://archive.ph/3JwN5))
 
+[SerenityOS/serenity/pull/6814](https://github.com/SerenityOS/serenity/pull/6814)
+* Hobbyist OS developer rejects inclusivity documentation changes PR, people of gender raid the comments three years late.
+
 [Slackadays/Clipboard/issues/14](https://github.com/Slackadays/Clipboard/issues/14),
 [archive.is](https://archive.is/Nes5W),
 [archive.org](https://web.archive.org/web/20230318143458/https://github.com/Slackadays/Clipboard/issues/14),
