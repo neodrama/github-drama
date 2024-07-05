@@ -582,8 +582,8 @@ nodejs/node
 * Single JSON change that adds another streaming service rejected by maintainer with zero commits in the last few days, citing not meeting unspecified requirements.
 
 oerdnj/deb.sury.org
-* [archive.ph](https://archive.ph/ylh6j)
-* [archive.org](https://web.archive.org/web/20220928005729/https://github.com/oerdnj/deb.sury.org/issues/1768)
+* /issues/1768: [archive.ph](https://archive.ph/ylh6j), [archive.org](https://web.archive.org/web/20220928005729/https://github.com/oerdnj/deb.sury.org/issues/1768)
+* [/issues/2155](https://github.com/oerdnj/deb.sury.org/issues/2155): [archive.fo](https://archive.fo/xYCno)
 
 [opal/opal/issues/941](https://github.com/opal/opal/issues/941),
 [archive.ph](https://archive.ph/GQEmD),
