@@ -576,8 +576,6 @@ nodejs/node
 
 [npm/npm/issues/19883](https://github.com/npm/npm/issues/19883)
 
-[nvbn/thefuck/pull/1167](https://github.com/nvbn/thefuck/pull/1167)
-
 [obsproject/obs-studio/pull/2868](https://github.com/obsproject/obs-studio/pull/2868#issuecomment-1134053984)
 
 [obsproject/obs-studio/pull/10043](https://github.com/obsproject/obs-studio/pull/10043)
