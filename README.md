@@ -48,6 +48,8 @@ Alex313031/thorium
 
 [angular/angular-cli/issues/1252](https://github.com/angular/angular-cli/issues/1252)
 
+[ansible/ansible/issues/10530](https://github.com/ansible/ansible/issues/10530)
+
 [ant-design/ant-design/issues/13098](https://github.com/ant-design/ant-design/issues/13098)
 
 [ariya/phantomjs/issues/15345](https://github.com/ariya/phantomjs/issues/15345)
@@ -650,6 +652,8 @@ opencart/opencart
 * [/issues/3834](https://github.com/opencart/opencart/issues/3834) (archive: [1](https://web.archive.org/web/20160120051637/https://github.com/opencart/opencart/issues/3834), [2](https://archive.today/6qiNv))
 * 
 [OpenTTD/OpenTTD/issues/7731](https://github.com/OpenTTD/OpenTTD/issues/7731)
+
+[orgs/community/discussions/65343](https://github.com/orgs/community/discussions/65343)
 
 palantir/tslint
 * [/issues/4132](https://github.com/palantir/tslint/issues/4132)
