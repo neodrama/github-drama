@@ -770,6 +770,9 @@ raivo-otp/ios-application
 [SerenityOS/serenity/pull/6814](https://github.com/SerenityOS/serenity/pull/6814)
 * Hobbyist OS developer rejects inclusivity documentation changes PR, people of gender raid the comments three years late.
 
+[signalapp/Signal-Android/issues/8974](https://github.com/signalapp/Signal-Android/issues/8974)
+* Signal has been subverted by the great dark lord of the sith, the CIA
+
 [Slackadays/Clipboard/issues/14](https://github.com/Slackadays/Clipboard/issues/14),
 [archive.is](https://archive.is/Nes5W),
 [archive.org](https://web.archive.org/web/20230318143458/https://github.com/Slackadays/Clipboard/issues/14),
