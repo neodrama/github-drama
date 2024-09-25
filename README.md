@@ -847,6 +847,16 @@ voat/voat - Scalability drama
 
 [WICG/interventions/issues/18](https://github.com/WICG/interventions/issues/18)
 
+[https://github.com/WinampDesktop/winamp](https://github.com/WinampDesktop/winamp)
+* Summary
+  * Winamp have open sourced the original player's code
+  * They have chosen a custom license, forbidding forks, and distributing modifications among other things
+  * Github users are outraged, started arguing in issues, and opened several troll pull requests
+* Issues with drama:
+- [Please tone it down, I don't want Winamp to regret opensourcing](https://github.com/WinampDesktop/winamp/issues/56)
+- [License violates Github TOS](https://github.com/WinampDesktop/winamp/issues/6)
+
+
 [xenia-canary/xenia-canary/pull/180](https://github.com/xenia-canary/xenia-canary/pull/180)
 * Summary
   * One of developers of Xenia, an Xbox 360 emulator, added an anti-feature that plays loud noises when loading ISO images, together with nagging messages about "piracy".
