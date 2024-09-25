@@ -771,7 +771,7 @@ raivo-otp/ios-application
 * Hobbyist OS developer rejects inclusivity documentation changes PR, people of gender raid the comments three years late.
 
 [signalapp/Signal-Android/issues/8974](https://github.com/signalapp/Signal-Android/issues/8974)
-* Signal has been subverted by the great dark lord of the sith, the CIA
+* Signal developers removed a passphrase and forced users to use a fingerprint. User claims that they received money from secret service for reducing a privacy of their app.
 
 [Slackadays/Clipboard/issues/14](https://github.com/Slackadays/Clipboard/issues/14),
 [archive.is](https://archive.is/Nes5W),
@@ -850,7 +850,7 @@ voat/voat - Scalability drama
 
 [WICG/interventions/issues/18](https://github.com/WICG/interventions/issues/18)
 
-[https://github.com/WinampDesktop/winamp](https://github.com/WinampDesktop/winamp)
+[WinampDesktop/winamp](https://github.com/WinampDesktop/winamp)
 * Summary
   * Winamp have open sourced the original player's code
   * They have chosen a custom license, forbidding forks, and distributing modifications among other things
@@ -858,7 +858,6 @@ voat/voat - Scalability drama
 * Issues with drama:
 - [Please tone it down, I don't want Winamp to regret opensourcing](https://github.com/WinampDesktop/winamp/issues/56)
 - [License violates Github TOS](https://github.com/WinampDesktop/winamp/issues/6)
-
 
 [xenia-canary/xenia-canary/pull/180](https://github.com/xenia-canary/xenia-canary/pull/180)
 * Summary
