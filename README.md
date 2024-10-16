@@ -403,6 +403,10 @@ google/googletest
 [lllyasviel/stable-diffusion-webui-forge/discussions/169](https://github.com/lllyasviel/stable-diffusion-webui-forge/discussions/169)
 * ComfyUI (Stable Diffusion frontend) devs accuse Forge (another SD frontend) of using their code, license drama ensues.
 
+indutny/node-ip - CVE drama
+* [github/advisory-database/pull/3504](https://github.com/github/advisory-database/pull/3504)
+* [socket.dev/blog/node-ip-maintainer-restores-github-repo-after-archiving-due-to-overblown-cve-rating](https://socket.dev/blog/node-ip-maintainer-restores-github-repo-after-archiving-due-to-overblown-cve-rating)
+
 [irungentoo/toxcore/issues/1227](https://github.com/irungentoo/toxcore/issues/1227)
 
 [jashkenas/underscore/issues/1805](https://github.com/jashkenas/underscore/issues/1805)
