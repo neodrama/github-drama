@@ -69,6 +69,8 @@ AUTOMATIC1111/stable-diffusion-webui
 
 [badges/shields/pull/9474](https://github.com/badges/shields/pull/9474)
 
+[bitwarden/clients/issues/11611](https://github.com/bitwarden/clients/issues/11611)
+
 bower/bower
 * [/issues/1102](https://github.com/bower/bower/issues/1102)
 * [/pull/1748](https://github.com/bower/bower/pull/1748)
