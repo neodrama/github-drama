@@ -892,8 +892,8 @@ voat/voat - Scalability drama
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
 
 [zloirock/core-js](https://github.com/zloirock/core-js)
-* In May 2019 [zloirock](https://github.com/zloirock), the maintainer of the popular core-js library, added a code that printed promotional message into the postinstall script of his NPM package: [issues/635](https://github.com/zloirock/core-js/issues/635)
-* In @zloirock lost an appeal to overturn an 18-month prison sentence imposed for causing a lethal road accident: [The Register (2020)](https://www.theregister.com/2020/03/26/corejs_maintainer_jailed_code_release)    
+* In May 2019, [zloirock](https://github.com/zloirock), the maintainer of the popular core-js library, added a code that printed promotional message into the postinstall script of his NPM package: [issues/548](https://github.com/zloirock/core-js/issues/548)
+* In November 2019, @zloirock lost an appeal to overturn an 18-month prison sentence imposed for causing a lethal road accident: [The Register (2020)](https://www.theregister.com/2020/03/26/corejs_maintainer_jailed_code_release)
 * In February 2023, @zloirock posted 10000-word [So, what's next?](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md) article about open source sustainability and maintainer burnout problems and linked it in the GitHub issue. The issue elicited hundreds of comments and thousands of thumb-ups and heart emojis from GitHub users: [issues/1179](https://github.com/zloirock/core-js/issues/1179)
 * [So, what's next? article](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md),
     [archive.ph](https://archive.ph/miwZk),
