@@ -891,39 +891,11 @@ voat/voat - Scalability drama
 
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
 
-[zloirock/core-js](https://github.com/zloirock/core-js),
-[archive.ph](https://archive.ph/sH1uG),
-[archive.org](https://web.archive.org/web/20230221163813/https://github.com/zloirock/core-js),
-[ghostarchive.org](https://ghostarchive.org/archive/xDt8V)
-* Dramatis Personae
-  * Denis Pushkarev,
-    @zloirock,
-    [github](https://github.com/zloirock),
-    [archive.ph](https://archive.ph/TwZwD),
-    [archive.org](https://web.archive.org/web/20230310064848/https://github.com/zloirock),
-    [ghostarchive](https://ghostarchive.org/archive/LqIsP)
-* Summary
-  * The Register reported,
-    "In November 2019, Denis Pushkarev, maintainer of the popular core-js library, lost an appeal to overturn an 18-month prison sentence imposed for driving his motorcycle into two pedestrians, killing one of them."
-    Source:
-    [The Register (2020)](https://www.theregister.com/2020/03/26/corejs_maintainer_jailed_code_release),
-    [archive.ph](https://archive.ph/x86K4),
-    [archive.org](https://web.archive.org/web/20230221144859/https://www.theregister.com/2020/03/26/corejs_maintainer_jailed_code_release),
-    [ghostarchive](https://ghostarchive.org/archive/YB6R3)
-  * The Register reported,
-    "he served about ten months in prison in 2020 for colliding with two pedestrians on his motorcycle, killing one of them."
-    Source:
-    [The Register (2023)](https://www.theregister.com/2023/02/15/corejs_russia_open_source),
-    [archive.ph](https://archive.ph/mm6y5),
-    [archive.org](https://web.archive.org/web/20230221163225/https://www.theregister.com/2023/02/15/corejs_russia_open_source),
-    [ghostarchive](https://ghostarchive.org/archive/3ySK9)
-  * Zloirock spammed the console of numerous developers who indirectly imported core-js.
-    ([Source](https://github.com/zloirock/core-js/issues/635))
-  * Zloirock posted a 10000-word screed and opened an issue on GitHub titled "So, what's next?" in February 2023.
-    The GitHub issue elicited hundreds of comments and thousands of thumb-ups and heart emojis from GitHub users.
-    ([Source](https://github.com/zloirock/core-js/issues/1179))
-  * For details, read Zloirock's
-    [10000-word screed](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md),
+[zloirock/core-js](https://github.com/zloirock/core-js)
+* In May 2019 [zloirock](https://github.com/zloirock), the maintainer of the popular core-js library, added a code that printed promotional message into the postinstall script of his NPM package: [issues/635](https://github.com/zloirock/core-js/issues/635)
+* In @zloirock lost an appeal to overturn an 18-month prison sentence imposed for causing a lethal road accident: [The Register (2020)](https://www.theregister.com/2020/03/26/corejs_maintainer_jailed_code_release)    
+* In February 2023, @zloirock posted 10000-word [So, what's next?](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md) article about open source sustainability and maintainer burnout problems and linked it in the GitHub issue. The issue elicited hundreds of comments and thousands of thumb-ups and heart emojis from GitHub users: [issues/1179](https://github.com/zloirock/core-js/issues/1179)
+* [So, what's next? article](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md),
     [archive.ph](https://archive.ph/miwZk),
     [archive.org](https://web.archive.org/web/20230221182146/https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md),
     [ghostarchive](https://ghostarchive.org/archive/WZ2rW)
@@ -980,7 +952,7 @@ voat/voat - Scalability drama
     [archive.ph](https://archive.ph/guOqI#selection-4265.0-4265.12),
     [archive.org](https://web.archive.org/web/20230221164800/https://kiwifarms.net/threads/open-source-software-community.38130/post-5930885),
     [ghostarchive](https://ghostarchive.org/archive/bBaY2)
-    
+
 ---
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
