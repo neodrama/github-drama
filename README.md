@@ -834,6 +834,8 @@ systemd/systemd
 
 [tootsuite/mastodon/pull/9898](https://github.com/tootsuite/mastodon/pull/9898)
 
+[torvalds/linux/commit/6e90b675cf942e50c70e8394dfb5862975c3b3b2](https://github.com/torvalds/linux/commit/6e90b675cf942e50c70e8394dfb5862975c3b3b2)
+
 [twbs/bootstrap/issues/3057](https://github.com/twbs/bootstrap/issues/3057)
 
 [twitter/scrooge/issues/222](https://github.com/twitter/scrooge/issues/222)
