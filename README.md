@@ -861,13 +861,13 @@ voat/voat - Scalability drama
 [WICG/interventions/issues/18](https://github.com/WICG/interventions/issues/18)
 
 [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp)
-* Summary
-  * Winamp have open sourced the original player's code
-  * They have chosen a custom license, forbidding forks, and distributing modifications among other things
-  * Github users are outraged, started arguing in issues, and opened several troll pull requests
-* Issues with drama:
-- [Please tone it down, I don't want Winamp to regret opensourcing](https://github.com/WinampDesktop/winamp/issues/56)
-- [License violates Github TOS](https://github.com/WinampDesktop/winamp/issues/6)
+* Winamp have open sourced the original player's code
+* They have chosen a custom license, forbidding forks, and distributing modifications among other things
+* Github users are outraged, started arguing in issues, and opened several troll pull requests
+* Finally, Winamp owners delete the source code repository
+* [Please tone it down, I don't want Winamp to regret opensourcing](https://web.archive.org/web/20241005081155/https://github.com/WinampDesktop/winamp/issues/56)
+* [License violates Github TOS](https://web.archive.org/web/20241008105942/https://github.com/WinampDesktop/winamp/issues/6)
+* [Opening up the WinAmp source to all goes badly as owners delete entire repo](https://www.theregister.com/2024/10/16/opensourcing_of_winamp_goes_badly/)
 
 [xenia-canary/xenia-canary/pull/180](https://github.com/xenia-canary/xenia-canary/pull/180)
 * Summary
