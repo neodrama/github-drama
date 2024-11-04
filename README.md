@@ -783,15 +783,6 @@ raivo-otp/ios-application
 [signalapp/Signal-Android/issues/8974](https://github.com/signalapp/Signal-Android/issues/8974)
 * Signal developers removed a passphrase and forced users to use a fingerprint. User claims that they received money from secret service for reducing a privacy of their app.
 
-[Slackadays/Clipboard/issues/14](https://github.com/Slackadays/Clipboard/issues/14),
-[archive.is](https://archive.is/Nes5W),
-[archive.org](https://web.archive.org/web/20230318143458/https://github.com/Slackadays/Clipboard/issues/14),
-[ghostarchive](https://ghostarchive.org/archive/RdyMB)
-* Summary:
-  * The issue evolves from being a straightforward in-progress task to something completely unexpected.
-  * A maintainer on Arch User Repository comes out of the woodwork to elaborate on a problem specific to Arch Linux. Everyone involved goes back and forth because the key to the issue is non-obvious and a real hack due to how Fedora searches paths.
-  * The original issue opener manually compiles the clipboard manager and posts cryptic logs until someone puts a patch into place. However, every window gets squished and jumps around whenever Sway WM users copy text due to an unpleasant feature inherent in Wayland.
-
 [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed/)
 * Mastodon users in denial of the fact that their posts are public flood the BlueSky-ActivityPub bridge repo with opt-out requests.
 * [/issues/835](https://github.com/snarfed/bridgy-fed/issues/835) (https://archive.fo/8WKcs)
