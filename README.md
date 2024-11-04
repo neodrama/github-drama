@@ -568,7 +568,11 @@ NanoAdblocker/NanoCore - Ownership transfer drama
 
 [NationalSecurityAgency/ghidra/issues/371](https://github.com/NationalSecurityAgency/ghidra/issues/371)
 
-[nextcloud/android/issues/13738](https://github.com/nextcloud/android/issues/13738)
+nextcloud/android - Unintentional synchronization of all files
+* [nextcloud/android/issues/13738](https://github.com/nextcloud/android/issues/13738)
+* [nextcloud/android/issues/13872](https://github.com/nextcloud/android/issues/13872)
+- Summary:
+  * An upgrade to the Nextcloud Android app causes all files on the remote server to be downloaded. This results in phones running very hot, running out of storage, and racking up high data fees.
 
 [NixOS/nixpkgs/issues/4952](https://github.com/NixOS/nixpkgs/issues/4952)
 
