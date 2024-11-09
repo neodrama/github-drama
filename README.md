@@ -340,16 +340,6 @@ dotnet-foundation/Home - .NET Foundation ReactiveUI PR drama
     [archive.org](https://web.archive.org/web/20230305150614/https://desuarchive.org/g/thread/86124256),
     [ghostarchive](https://ghostarchive.org/archive/AHFsK)
 
-[keepassxreboot/keepassxc/issues/10725](https://github.com/keepassxreboot/keepassxc/issues/10725)
-
-[KFearsoff/nix-drama-explained](https://github.com/KFearsoff/nix-drama-explained)
-
-* korn shell - ksh
-  * original ksh kinda blew up - [ksh fallout](https://github.com/att/ast/issues/1464).
-  * original [ksh rewound](https://github.com/att/ast/issues/1466).
-  * [ksh-community](https://github.com/ksh-community) stalled.
-  * [ksh93](https://github.com/ksh93/ksh) seems to be active now though.
-
 [fish-shell/fish-shell/pull/9512](https://github.com/fish-shell/fish-shell/pull/9512),
 [archive.ph](https://archive.ph/Nl8E7),
 [archive.org](https://web.archive.org/web/20230304112455/https://github.com/fish-shell/fish-shell/pull/9512),
@@ -431,11 +421,21 @@ jquery/download.jqueryui.com
 
 [katharostech/bevy_retrograde/issues/1](https://github.com/katharostech/bevy_retrograde/issues/1)
 
+[keepassxreboot/keepassxc/issues/10725](https://github.com/keepassxreboot/keepassxc/issues/10725)
+
 [kenwheeler/slick/issues/681](https://github.com/kenwheeler/slick/issues/681)
+
+[KFearsoff/nix-drama-explained](https://github.com/KFearsoff/nix-drama-explained)
 
 [kmmbvnr/django-jenkins/issues/349](https://github.com/kmmbvnr/django-jenkins/issues/349)
 
 [kraih/mojo/issues/656](https://github.com/kraih/mojo/issues/656)
+
+ksh93/ksh
+* original ksh kinda blew up - [ksh fallout](https://github.com/att/ast/issues/1464).
+* original [ksh rewound](https://github.com/att/ast/issues/1466).
+* [ksh-community](https://github.com/ksh-community) stalled.
+* [ksh93](https://github.com/ksh93/ksh) seems to be active now though.
 
 ldapjs/node-ldapjs
 * Developer of a Node library calls quits after receiving an email reminiscent of Xbox Live chat.
