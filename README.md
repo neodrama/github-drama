@@ -645,6 +645,11 @@ oerdnj/deb.sury.org
     [archive.org](https://web.archive.org/web/20230308123448/desuarchive.org/g/thread/90214421),
     [ghostarchive](https://ghostarchive.org/archive/uTMdV)
 
+Omnivore shutdown due to ElevenLabs purchase
+[omnivore-app/omnivore/issues/4459: Seriously?](https://github.com/omnivore-app/omnivore/issues/4459)
+* Official Statment:
+  * [Omnivore Blog: Details on Omnivore shutting down](https://blog.omnivore.app/p/details-on-omnivore-shutting-down)
+
 [OpenBB-finance/OpenBBTerminal/issues/1625](https://github.com/OpenBB-finance/OpenBBTerminal/issues/1625),
 [archive.ph](https://archive.ph/waV0Z),
 [archive.org](https://web.archive.org/web/20230307111704/https://github.com/OpenBB-finance/OpenBBTerminal/issues/1625),
