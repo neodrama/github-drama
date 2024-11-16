@@ -27,6 +27,12 @@ There's no agreement on what's considered dramatic enough to be included in gith
 gives way to reaction GIFs and one-word replies, turning into something like a 4chan thread, but less funny. Common signs of drama: many unconstructive comments, many downvote 
 reactions, removed or hidden comments. If a repository's maintainer has locked conversation on a thread, that's also a good indicator that it could be included here.
 
+### Writing guidelines
+
+- If there are non-github links that describe the drama, consider adding them. High priority external links to add are articles in popular journalistic media.
+- Adding drama summary is not mandatory. In the simplest case the entry can just consist of the single link to the dramatic thread. Summary can be helpful when there are multiple links that need to be logically grouped to better understand the drama.
+- When drama summary is added, it must be as neutral as possible. Describe facts and events, but **do not** assess drama participants' actions, advocate for any political/ideological views, or use a negative speech. When in doubt, leave out any details and make summary as short as possible.
+
 ---
 
 actix/actix-web
@@ -668,7 +674,7 @@ opencart/opencart
 * [/issues/1534](https://github.com/opencart/opencart/issues/1534)
 * [/pull/1594](https://github.com/opencart/opencart/pull/1594)
 * [/issues/3834](https://github.com/opencart/opencart/issues/3834) (archive: [1](https://web.archive.org/web/20160120051637/https://github.com/opencart/opencart/issues/3834), [2](https://archive.today/6qiNv))
-* 
+
 [OpenTTD/OpenTTD/issues/7731](https://github.com/OpenTTD/OpenTTD/issues/7731)
 
 [orgs/community/discussions/65343](https://github.com/orgs/community/discussions/65343)
