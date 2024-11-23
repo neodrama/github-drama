@@ -431,8 +431,6 @@ jquery/download.jqueryui.com
 
 [kenwheeler/slick/issues/681](https://github.com/kenwheeler/slick/issues/681)
 
-[KFearsoff/nix-drama-explained](https://github.com/KFearsoff/nix-drama-explained)
-
 [kmmbvnr/django-jenkins/issues/349](https://github.com/kmmbvnr/django-jenkins/issues/349)
 
 [kraih/mojo/issues/656](https://github.com/kraih/mojo/issues/656)
@@ -581,6 +579,11 @@ nextcloud/android - Unintentional synchronization of all files
 * [nextcloud/android/issues/13872](https://github.com/nextcloud/android/issues/13872)
 - Summary:
   * An upgrade to the Nextcloud Android app causes all files on the remote server to be downloaded. This results in phones running very hot, running out of storage, and racking up high data fees.
+
+NixOS/foundation - Anduril sponsorship drama
+* [save-nix-together.org](https://save-nix-together.org/)
+* [NixCon drops Palmer Luckey's AI combat drone maker Anduril as sponsor due to military ties](https://www.theregister.com/2023/09/08/nixcon_drops_anduril_industries_as/)
+* [NixOS/foundation/issues/110](https://github.com/NixOS/foundation/issues/110)
 
 [NixOS/nixpkgs/issues/4952](https://github.com/NixOS/nixpkgs/issues/4952)
 
