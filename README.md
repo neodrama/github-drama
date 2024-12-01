@@ -766,6 +766,8 @@ raivo-otp/ios-application
 
 [redis/redis/pull/13157](https://github.com/redis/redis/pull/13157)
 
+[redis-rs/redis-rs/issues/1419](https://github.com/redis-rs/redis-rs/issues/1419)
+
 [resque/resque/issues/1406](https://github.com/resque/resque/issues/1406)
 
 [restic/issues/1786](https://github.com/restic/restic/issues/1786)
