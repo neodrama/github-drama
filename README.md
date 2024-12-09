@@ -868,6 +868,11 @@ voat/voat - Scalability drama
 - [issues/445](https://github.com/voat/voat/issues/445)
 - [issues/446](https://github.com/voat/voat/issues/446)
 
+ultralytics/ultralytics - Github action vulnerability
+- [issues/18027](https://github.com/ultralytics/ultralytics/issues/18027)
+- [ltdrdata/ComfyUI-Impact-Pack/issues/843](https://github.com/ltdrdata/ComfyUI-Impact-Pack/issues/843)
+- [Ultralytics AI model hijacked to infect thousands with cryptominer](https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
+
 [webpack/webpack-cli/issues/1612](https://github.com/webpack/webpack-cli/issues/1612)
 
 [WhisperSystems/Signal-Android/issues/127](https://github.com/WhisperSystems/Signal-Android/issues/127)
