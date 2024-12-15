@@ -8,30 +8,16 @@
 
 This is a curated collection of "dramatic" GitHub interactions.
 
-## Contributing to github-drama
+## About this project
 
 This repo is intended to point out controversial situations that come up in the world of software development, and not to harass anyone. Sometimes tensions build up in
 online interactions, and the intention of github-drama is to preserve links to such discussions so people can discover and read them.
 
-### Phylogenetic tree
+For contributing guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Phylogenetic tree
 
 This repository is [neodrama/github-drama](https://github.com/neodrama/github-drama). It was forked from [github-drama/github-drama](https://github.com/github-drama/github-drama) repository in August 2023, when github-drama organisation was [made private due to someone's report](https://github.com/nikolas/github-drama/issues/156#issuecomment-1671123019). The github-drama/github-drama repository was forked in 2022 from [nikolas/github-drama](https://github.com/nikolas/github-drama). 
-
-### How do I find drama?
-
-Go into a GitHub project's issues, and sort by "Most commented" or "Most reactions".
-
-### What qualifies as drama?
-
-There's no agreement on what's considered dramatic enough to be included in github-drama. There are plenty of "non-serious" GitHub threads, where the usual GitHub politeness 
-gives way to reaction GIFs and one-word replies, turning into something like a 4chan thread, but less funny. Common signs of drama: many unconstructive comments, many downvote 
-reactions, removed or hidden comments. If a repository's maintainer has locked conversation on a thread, that's also a good indicator that it could be included here.
-
-### Writing guidelines
-
-- If there are non-github links that describe the drama, consider adding them. High priority external links to add are articles in popular journalistic media.
-- Adding drama summary is not mandatory. In the simplest case the entry can just consist of the single link to the dramatic thread. Summary can be helpful when there are multiple links that need to be logically grouped to better understand the drama.
-- When drama summary is added, it must be as neutral as possible. Describe facts and events, but **do not** assess drama participants' actions, advocate for any political/ideological views, or use a negative speech. When in doubt, leave out any details and make summary as short as possible.
 
 ---
 
