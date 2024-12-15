@@ -409,6 +409,8 @@ indutny/node-ip - CVE drama
 * [github/advisory-database/pull/3504](https://github.com/github/advisory-database/pull/3504)
 * [socket.dev/blog/node-ip-maintainer-restores-github-repo-after-archiving-due-to-overblown-cve-rating](https://socket.dev/blog/node-ip-maintainer-restores-github-repo-after-archiving-due-to-overblown-cve-rating)
 
+[iperov/DeepFaceLive/issues/41](https://github.com/iperov/DeepFaceLive/issues/41)
+
 [irungentoo/toxcore/issues/1227](https://github.com/irungentoo/toxcore/issues/1227)
 
 [jashkenas/underscore/issues/1805](https://github.com/jashkenas/underscore/issues/1805)
