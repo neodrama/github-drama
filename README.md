@@ -69,6 +69,8 @@ bower/bower
 
 [bower/bower/pull/1748](https://github.com/bower/bower/pull/1748)
 
+[causiq/logary/issues/345](https://github.com/causiq/logary/issues/345)
+
 chrisaljoudi/uBlock - Ownership transfer/donations drama
 * [/pull/1517](https://github.com/chrisaljoudi/uBlock/pull/1517)
 * [/issues/1153](https://github.com/uBlock-LLC/uBlock/issues/1153)
