@@ -359,6 +359,8 @@ dotnet-foundation/Home - .NET Foundation ReactiveUI PR drama
 
 [flathub/flathub/pull/1978](https://github.com/flathub/flathub/pull/1978)
 
+[fluentassertions/fluentassertions/pull/2943](https://github.com/fluentassertions/fluentassertions/pull/2943)
+
 [flutter/flutter/issues/11609](https://github.com/flutter/flutter/issues/11609)
 
 [ggerganov/llama.cpp/pull/711](https://github.com/ggerganov/llama.cpp/pull/711)
