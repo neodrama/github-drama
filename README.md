@@ -579,6 +579,8 @@ NixOS/foundation - Anduril sponsorship drama
 
 [NixOS/nixpkgs/issues/4952](https://github.com/NixOS/nixpkgs/issues/4952)
 
+[NixOS/nixpkgs/pull/381817](https://github.com/NixOS/nixpkgs/pull/381817)
+
 [nixxquality/WebMConverter/commit/c1ac0baac06fa7175677a4a1bf65860a84708d67](https://github.com/nixxquality/WebMConverter/commit/c1ac0baac06fa7175677a4a1bf65860a84708d67)
 
 [nodejs/inclusivity/issues/9](https://github.com/nodejs/inclusivity/issues/9)
