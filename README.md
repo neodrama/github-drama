@@ -93,6 +93,9 @@ daeuniverse/dae
 * [/issues/368](https://github.com/daeuniverse/dae/issues/368)
 * [news.ycombinator.com/item?id=38691652](https://news.ycombinator.com/item?id=38691652)
 
+[deepseek-ai/deepseek-llm/issues/51](https://github.com/deepseek-ai/DeepSeek-LLM/issues/51)
+* User brought up the pro-china political bias of the LLM, causing a flamewar in the comments.
+
 [dear-github/dear-github/issues/107](https://github.com/dear-github/dear-github/issues/107)
 
 [Delgan/loguru/issues/563](https://github.com/Delgan/loguru/issues/563)
