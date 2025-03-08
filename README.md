@@ -975,4 +975,7 @@ ultralytics/ultralytics - Github action vulnerability
 
 ---
 
-[@webdevdrama](https://twitter.com/webdevdrama) on Twitter
+## See also
+
+- [Awesome Hilarious GitHub Repositories](https://github.com/terremoth/awesome-hilarious-repos)
+- [The definitive list of lists](https://github.com/jnv/lists)
