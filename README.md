@@ -546,6 +546,8 @@ Microsoft/vscode - Santa hat drama
 * [issues/87268](https://github.com/microsoft/vscode/issues/87268)
 * [issues/87440](https://github.com/microsoft/vscode/issues/87440)
 
+[microsoft/vsmarketplace/issues/1168](https://github.com/microsoft/vsmarketplace/issues/1168)
+
 [Microsoft/web-build-tools/issues/673](https://github.com/Microsoft/web-build-tools/issues/673)
 
 [mishoo/UglifyJS2/issues/2054](https://github.com/mishoo/UglifyJS2/issues/2054)
