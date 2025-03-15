@@ -577,6 +577,10 @@ nextcloud/android - Unintentional synchronization of all files
 - Summary:
   * An upgrade to the Nextcloud Android app causes all files on the remote server to be downloaded. This results in phones running very hot, running out of storage, and racking up high data fees.
 
+nextcloud/server - Federated Cloud Sharing data leak
+- [issues/51335](https://github.com/nextcloud/server/issues/51335)
+- [Nextcloud puts out fire after data leak panic](https://www.theregister.com/2025/03/13/nextcloud_data_leak_scare/)
+
 NixOS/foundation - Anduril sponsorship drama
 * [save-nix-together.org](https://save-nix-together.org/)
 * [NixCon drops Palmer Luckey's AI combat drone maker Anduril as sponsor due to military ties](https://www.theregister.com/2023/09/08/nixcon_drops_anduril_industries_as/)
