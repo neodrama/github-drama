@@ -847,6 +847,10 @@ systemd/systemd
 
 [tip4commit/tip4commit/issues/127](https://github.com/tip4commit/tip4commit/issues/127)
 
+tj-actions/changed-files - Github action leaking secrets
+* [issues/2464](https://github.com/tj-actions/changed-files/issues/2464)
+* [GitHub supply chain attack spills secrets from 23000 projects](https://www.theregister.com/2025/03/17/supply_chain_attack_github/)
+
 [todogroup/opencodeofconduct/pull/70](https://github.com/todogroup/opencodeofconduct/pull/70)
 
 [tootsuite/mastodon/pull/9898](https://github.com/tootsuite/mastodon/pull/9898)
