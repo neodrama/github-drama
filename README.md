@@ -389,6 +389,10 @@ google/googletest
 
 [greatsuspender/thegreatsuspender/issues/1175](https://github.com/greatsuspender/thegreatsuspender/issues/1175)
 
+home-sweet-gnome/dash-to-panel - Donations icon issue
+* [/issues/2274](https://github.com/home-sweet-gnome/dash-to-panel/issues/2274)
+* [Dash to Panel maintainer quits after donations drive becomes dash to disaster](https://www.theregister.com/2025/03/14/dashtopanel_maintainer_quits/)
+
 [Homebrew/homebrew-core/issues/24654](https://github.com/Homebrew/homebrew-core/issues/24654) (archive: [1](https://web.archive.org/web/20190117063442/https://github.com/Homebrew/homebrew-core/issues/24654), [2](https://archive.today/JiS6i))
 
 [Homebrew/homebrew-services/issues/151](https://github.com/Homebrew/homebrew-services/issues/151) (archive: [1](https://web.archive.org/web/20190512053827/https://github.com/Homebrew/homebrew-services/issues/151))
