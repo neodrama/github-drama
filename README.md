@@ -163,10 +163,10 @@ daeuniverse/dae
 ** Pressing Tab after certain keywords in Visual Studio caused unintended code changes
 
 [dotnet/runtime/issues/27939](https://github.com/dotnet/runtime/issues/27939)
-* Math.Round failed to round 0.50 values correctly
+* Tuple member naming conventions in .NET were debated, with discussions on whether PascalCase or camelCase should be used.
 
 [dotnet/runtime/issues/92849](https://github.com/dotnet/runtime/issues/92849)
-* Tuple member naming conventions in .NET were debated, with discussions on whether PascalCase or camelCase should be used.
+* Math.Round failed to round 0.50 values correctly
 
 [dotnet/sdk/issues/22247](https://github.com/dotnet/sdk/issues/22247)
 * Hot Reload was removed from dotnet watch, making it exclusive to Visual Studio
