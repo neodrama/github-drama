@@ -56,10 +56,12 @@ This is a curated collection of "dramatic" GitHub interactions.
   - [issues/1289](https://github.com/actix/actix-web/issues/1289)
   - [www.theregister.com/2020/01/21/rust_actix_web_framework_maintainer_quits/](https://www.theregister.com/2020/01/21/rust_actix_web_framework_maintainer_quits/)
   - [fafhrd91/actix-web-postmortem](https://github.com/fafhrd91/actix-web-postmortem)
+    - The project's maintainer, fafhrd91, announcing his departure from the project leadership.
 
 ### Albertodemichelis
 
 - [albertodemichelis/squirrel/pull/67](https://github.com/albertodemichelis/squirrel/pull/67)
+  - A pull request to remove a redundant assert(0) statement to fix a GCC6 warning led to a lengthy debate about compiler behavior, code correctness, and whether the assert should remain for safety.
 
 ### Alex313031
 
@@ -158,6 +160,7 @@ This is a curated collection of "dramatic" GitHub interactions.
 ### CleverRaven/Cataclysm-DDA
 
 - [CleverRaven/Cataclysm-DDA/pull/51079](https://github.com/CleverRaven/Cataclysm-DDA/pull/51079)
+  - A pull request to allow switching a character's gender at any time in-game sparked a heated debate.
 
 ### Cloudflare/Wildebeest
 
@@ -276,6 +279,7 @@ This is a curated collection of "dramatic" GitHub interactions.
 ### Facebook
 
 - [facebook/react/issues/10191](https://github.com/facebook/react/issues/10191)
+  - A user request for Facebook to re-license React from the BSD+Patents license to a more permissive license like Apache 2.0, following RocksDB's example.
 
 ### Facebookresearch/Llama
 
@@ -440,9 +444,10 @@ This is a curated collection of "dramatic" GitHub interactions.
   - [pull/8140](https://github.com/github/dmca/pull/8140) ([archive.org](https://web.archive.org/web/20230129084629/https://github.com/github/dmca/pull/8140), [archive.ph](https://archive.ph/GrpDZ))
   - GitHub processed a DMCA takedown request targeting youtube-dl.
 
-- [github/dmca](https://github.com/github/dmca) - GTAmodding/re3 drama
+- [github/dmca](https://github.com/github/dmca)
   - [github/dmca/blob/master/2021/02/2021-02-19-take-two.md](https://github.com/github/dmca/blob/master/2021/02/2021-02-19-take-two.md)
   - [pull/8839](https://web.archive.org/web/20210320220522/https://github.com/github/dmca/pull/8839) (archived)
+    - GTAmodding/re3 drama
 
 ### Golang
 
@@ -548,14 +553,17 @@ This is a curated collection of "dramatic" GitHub interactions.
 ### Kenwheeler/Slick
 
 - [kenwheeler/slick/issues/681](https://github.com/kenwheeler/slick/issues/681)
+  - A user reported that swiping left or right on linked images in the Slick slider would activate the link, which was considered undesirable behavior. The user compared it to RoyalSlider, which required a tap to activate the link. 
 
 ### Kmmbvnr/Django-Jenkins
 
 - [kmmbvnr/django-jenkins/issues/349](https://github.com/kmmbvnr/django-jenkins/issues/349)
+  - A user suggested moving the tutorial to ReadTheDocs to make it easier for contributors to edit and fix typos. The user even set up a ReadTheDocs project and offered to help migrate the documentation. 
 
 ### Kraih/Mojo
 
 - [kraih/mojo/issues/656](https://github.com/kraih/mojo/issues/656)
+  - A user criticized the project's practice of instructing users to run curl get.mojolicio.us | sh, citing security concerns about piping untrusted network data directly to a shell, use of HTTP without TLS, and multiple redirects. 
 
 ### Ksh93/Ksh
 
@@ -573,18 +581,27 @@ This is a curated collection of "dramatic" GitHub interactions.
 ### Lerna/Lerna
 
 - [/pull/1616](https://github.com/lerna/lerna/pull/1616)
+  - Lerna maintainers added a clause to the MIT license banning use by companies and organizations that collaborated with US Immigration and Customs Enforcement (ICE), including Microsoft, Amazon, Palantir, and others.
 - [/pull/1619](https://github.com/lerna/lerna/pull/1619)
+  - Many users and contributors objected, arguing that the new license was no longer MIT, violated open source principles, and created legal and compliance confusion. Automated license checkers and companies relying on Lerna were affected.
 - [/issues/1622](https://github.com/lerna/lerna/issues/1622)
+  - At least one contributor requested removal of their code from the project, condemning the politicization of open source.
 - [/issues/1625](https://github.com/lerna/lerna/issues/1625)
+  -  Same complaints as issue 1619 above.
 - [/issues/1628](https://github.com/lerna/lerna/issues/1628)
+  - Users requested that any license change be released as a major version bump to avoid breaking builds.
 - [/issues/1630](https://github.com/lerna/lerna/issues/1630)
+  - Some called for the removal of the maintainer responsible for the change, citing Code of Conduct violations and unprofessional behavior.
 - [/pull/1631](https://github.com/lerna/lerna/pull/1631)
+  - here were attempts to remove specific companies (e.g., Microsoft) from the blacklist, with debate about the accuracy and fairness of the list.
 - [/issues/1632](https://github.com/lerna/lerna/issues/1632)
+  -  Same complaints as issue 1619 above.
 - [/pull/1633](https://github.com/lerna/lerna/pull/1633)
+  - The Lerna team reverted the license change, restoring the original MIT license. The maintainer responsible for the controversial change was removed from the project. 
 
 ### Marak/Colors.js
 
-- The maintainer of colors.js and faker.js intentionally corrupted the code of his libraries, breaking many projects using them
+- In early 2022, the maintainer of colors.js and faker.js, Marak Squires, intentionally corrupted the codebases of both libraries. He introduced infinite loops and nonsensical output, causing widespread breakage for projects and applications that depended on these popular npm packages.
   - [colors.js/issues/285](https://github.com/Marak/colors.js/issues/285)
   - [colors.js/issues/290](https://github.com/Marak/colors.js/issues/290)
   - [faker.js/issues/1046](https://web.archive.org/web/20210704022108/https://github.com/Marak/faker.js/issues/1046)
@@ -667,8 +684,10 @@ This is a curated collection of "dramatic" GitHub interactions.
 ### Microsoft
 
 - [Microsoft/Terminal/issues/10362](https://github.com/microsoft/terminal/issues/10362)
+  - A user reported that Windows Terminal had extremely slow performance when processing virtual terminal sequences, especially with per-character color codes, resulting in a 40x slowdown.
 
 - [Microsoft/TypeScript/pull/3622](https://github.com/Microsoft/TypeScript/pull/3622)
+  - This pull request introduced intersection types to TypeScript. While the technical discussion was extensive, it also became contentious. Several users expressed confusion and frustration over the conceptual model and terminology, especially those coming from statically typed language backgrounds.
 
 - Microsoft/vscode
   - [/issues/32405](https://github.com/Microsoft/vscode/issues/32405)
@@ -682,18 +701,23 @@ This is a curated collection of "dramatic" GitHub interactions.
   - [issues/87440](https://github.com/microsoft/vscode/issues/87440)
 
 - [microsoft/vsmarketplace/issues/1114](https://github.com/microsoft/vsmarketplace/issues/1114)
+  - The PlatformIO IDE extension, with over 4.5 million installs, was suddenly removed from the Visual Studio Marketplace.
 
 - [microsoft/vsmarketplace/issues/1168](https://github.com/microsoft/vsmarketplace/issues/1168)
+  - A user reported that the popular "Material Theme" extension was deleted from the marketplace due to alleged malicious activity, possibly by Microsoft.
 
 - [Microsoft/web-build-tools/issues/673](https://github.com/Microsoft/web-build-tools/issues/673)
+  - This issue concerns a license compliance question about whether Microsoft's Rush project was derived from Lerna, following public claims by a Lerna maintainer.
 
 ### Mishoo/UglifyJS2
 
 - [mishoo/UglifyJS2/issues/2054](https://github.com/mishoo/UglifyJS2/issues/2054)
+  - A user reported that installing uglify-js@2.8.28 via npm resulted in files with a timestamp of December 31, 1969, which is a classic Unix epoch issue.
 
 ### Moment/Moment
 
 - [moment/moment/issues/1407](https://github.com/moment/moment/issues/1407)
+  - Moment.js deprecated constructing dates from non-ISO strings due to unpredictable behavior across browsers, especially with legacy formats and the JavaScript Date constructor.
 
 ### Moq/Moq
 
@@ -705,14 +729,17 @@ This is a curated collection of "dramatic" GitHub interactions.
 ### Moxystudio/Node-Cross-Spawn
 
 - [moxystudio/node-cross-spawn/pull/102](https://github.com/moxystudio/node-cross-spawn/pull/102)
+  - A user proposed removing the nice-try dependency, arguing it was unnecessary and contributed to dependency bloat for a package used by thousands of projects.
 
 ### MrGlockenspiel/Activate-Linux
 
 - [MrGlockenspiel/activate-linux/issues/138](https://github.com/MrGlockenspiel/activate-linux/issues/138)
+  - A user opened an issue simply stating "This is a waste of time. Spend your time better."
 
 ### MrMEEE/Bumblebee-Old-and-Abbandoned
 
 - [MrMEEE/bumblebee-Old-and-abbandoned/issues/123](https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/issues/123)
+  - A critical bug was reported: an extra space in the install script caused it to run rm -rf /usr, deleting the entire /usr directory on Ubuntu systems.
 
 ### NanoAdblocker/NanoCore
 
@@ -748,37 +775,47 @@ This is a curated collection of "dramatic" GitHub interactions.
 ### NixOS/Nixpkgs
 
 - [NixOS/nixpkgs/issues/4952](https://github.com/NixOS/nixpkgs/issues/4952)
+  - A frustrated user details their struggles building Emacs and SBCL on NixOS, criticizing the project's documentation, package management, and the complexity of the Nix language.
 
 - [NixOS/nixpkgs/pull/381817](https://github.com/NixOS/nixpkgs/pull/381817)
+  - A PR to disable telemetry by default in the devenv package is merged without maintainer consent, triggering a heated debate.
 
 ### Nixxquality/WebMConverter
 
 - [nixxquality/WebMConverter/commit/c1ac0baac06fa7175677a4a1bf65860a84708d67](https://github.com/nixxquality/WebMConverter/commit/c1ac0baac06fa7175677a4a1bf65860a84708d67)
+  - The project is renamed from "WebM for Retards" to "WebM for Gits," with all references to the former term replaced in code and documentation.
 
 ### Nodejs/Inclusivity
 
 - [nodejs/inclusivity/issues/9](https://github.com/nodejs/inclusivity/issues/9)
+  - Node.js maintainers discuss how to avoid problematic or offensive language in APIs and documentation.
 
 ### Nodejs/Node
 
 - [/issues/3721](https://github.com/nodejs/node/issues/3721)
+  - A proposal to replace the use of "suicide" as a verb in the Node.js codebase leads to a sensitive discussion about language, mental health, and the impact of terminology in open source projects.
 - [/pull/4765](https://github.com/nodejs/node/pull/4765)
+  - Microsoft proposes enabling Node.js to run on the ChakraCore JavaScript engine, sparking a massive, technically complex debate about cross-engine support, project scope, maintenance burden, and the risk of ecosystem fragmentation.
 
 ### Nodejs/Readable-Stream
 
 - [nodejs/readable-stream/pull/238](https://github.com/nodejs/readable-stream/pull/238)
+  - A PR to inline a trivial isArray function instead of depending on a tiny npm package ignites a surprisingly intense debate about micro-dependencies, licensing, copyright, and the philosophy of code reuse.
 
 ### Nodejs/TSC
 
 - [nodejs/TSC/issues/8](https://github.com/nodejs/TSC/issues/8)
+  - A Node.js TSC member temporarily bans a user for making an inappropriate comment in the inclusivity repo.
 
 ### Npm/Npm
 
 - [npm/npm/issues/19883](https://github.com/npm/npm/issues/19883)
+  - A user opens an issue to report that npm's package-lock.json is being automatically updated even when running npm install --no-save, which they argue is unexpected and undesirable behavior.
 
 ### Obsproject/Obs-Studio
 
 - [obsproject/obs-studio/pull/2868](https://github.com/obsproject/obs-studio/pull/2868#issuecomment-1134053984)
+  - A long-running and heated pull request to add AppImage support to OBS Studio for Linux devolved into a major conflict between the AppImage developers and OBS maintainers. 
 
 - [obsproject/obs-studio/pull/10043](https://github.com/obsproject/obs-studio/pull/10043)
   - Single JSON change that adds another streaming service rejected by maintainer with zero commits in the last few days, citing not meeting unspecified requirements.
@@ -787,6 +824,7 @@ This is a curated collection of "dramatic" GitHub interactions.
 
 - [archive.ph](https://archive.ph/ylh6j)
 - [archive.org](https://web.archive.org/web/20220928005729/https://github.com/oerdnj/deb.sury.org/issues/1768)
+  - A user reported that the PHP APT GPG key was unavailable over IPv6, leading to a protracted and increasingly hostile discussion.
 
 ### Omnivore-App/Omnivore
 
@@ -858,41 +896,53 @@ This is a curated collection of "dramatic" GitHub interactions.
 ### Opencart/Opencart
 
 - [opencart/opencart/pull/219](https://github.com/opencart/opencart/pull/219)
+  - A user submitted a bugfix for a checkout issue affecting customers without predefined addresses. The maintainer dismissed the fix.
 - [opencart/opencart/issues/1269](https://github.com/opencart/opencart/issues/1269)
+  - A user reported that OpenCart’s password hashing was insecure, providing technical details and recommendations.
 - [opencart/opencart/issues/1534](https://github.com/opencart/opencart/issues/1534)
+  - A security researcher reported a PHP object injection vulnerability after a failed attempt to contact the maintainer privately.
 - [opencart/opencart/pull/1594](https://github.com/opencart/opencart/pull/1594)
+  - A contributor pointed out cryptographic flaws in OpenCart’s encryption implementation.
 - [opencart/opencart/issues/3834](https://github.com/opencart/opencart/issues/3834) (archive: [1](https://web.archive.org/web/20160120051637/https://github.com/opencart/opencart/issues/3834), [2](https://archive.today/6qiNv))
+  - A user urged OpenCart users to switch to OpenCart-CE, a community-driven fork, due to the original project’s lack of updates and security patches.
 
 ### OpenTTD/OpenTTD
 
 - [OpenTTD/OpenTTD/issues/7731](https://github.com/OpenTTD/OpenTTD/issues/7731)
+  - A user reported a bug about savegame sorting on Windows XP.
 
 ### Orgs/Community
 
 - [orgs/community/discussions/65343](https://github.com/orgs/community/discussions/65343)
+  - Major user backlash against GitHub’s feed redesign, with hundreds of comments criticizing the removal of chronological order, algorithmic curation, and lack of user control.
 
 ### Palantir/Tslint
 
 - [/issues/4132](https://github.com/palantir/tslint/issues/4132)
 - [/issues/4140](https://github.com/palantir/tslint/issues/4140)
 - [/issues/4141](https://github.com/palantir/tslint/issues/4141)
-
+  - Jamie Kyle (jamiebuilds) posted issues denouncing Palantir employees for their work with ICE, asking them to stop using his tools and calling the company racist. The issues were highly political, provocative, and sparked debate about ethics, open source, and company conduct.
 ### P-H-C/Phc-Winner-Argon2
 
 - [P-H-C/phc-winner-argon2/issues/182](https://github.com/P-H-C/phc-winner-argon2/issues/182)
+  - Technical discussion about a cryptographic attack and whether the project should update its default parameters.
 
 ### PiotrGrochowski/Consolas
 
 - [PiotrGrochowski/Consolas/issues/1](https://github.com/PiotrGrochowski/Consolas/issues/1) (archive: [1](https://web.archive.org/web/20190203231407/https://github.com/PiotrGrochowski/Consolas/issues/1))
+  - A user brings up that the project has no license file.
 
 ### Pkgxdev/Pantry
 
 - [pkgxdev/pantry/issues/5358](https://github.com/pkgxdev/pantry/issues/5358)
+  - User criticized the use of AI-generated, inaccurate, or nonsensical package descriptions on the pkgx.dev site, expressing concern about trust and suggesting using real metadata instead.
 
 ### PolyMC/PolyMC
 
 - [/commit/ccf2825](https://github.com/PolyMC/PolyMC/commit/ccf282593dcdbe189c99b81b8bc90cb203aed3ee)
+  - The commit deleted the CODE_OF_CONDUCT.md file with a commit message referencing reclaiming the project from "leftoids."
 - [/issues/656](https://github.com/PolyMC/PolyMC/issues/656)
+  - User accused PolyMC maintainers of abusing GitHub takedown requests to suppress forks, arguing this violates the GPLv3 and calling for adherence to open source principles.
 
 ### Portainer/Portainer
 
@@ -905,6 +955,7 @@ This is a curated collection of "dramatic" GitHub interactions.
 ### PowerShell/PowerShell
 
 - [PowerShell/PowerShell/pull/1901](https://github.com/PowerShell/PowerShell/pull/1901)
+  - A user proposed removing the curl and wget aliases from PowerShell due to confusion and incompatibility with the real tools. 
 
 ### Prettier/Prettier
 
@@ -912,6 +963,7 @@ This is a curated collection of "dramatic" GitHub interactions.
   - [archive.org](https://web.archive.org/web/20230223102853/https://github.com/prettier/prettier/issues/6360),
   - [archive.ph](https://archive.ph/7BHpX),
   - [ghostarchive.org](https://ghostarchive.org/archive/JxzOj)
+    - A user requested an option to disable Prettier's behavior of always adding a newline at the end of files.
 
 ### Probonopd
 
@@ -921,24 +973,29 @@ This is a curated collection of "dramatic" GitHub interactions.
 ### Projecthamster/Hamster
 
 - [projecthamster/hamster/issues/574](https://github.com/projecthamster/hamster/issues/574)
+  - The maintainer responded with a status update, acknowledging slow progress and inviting new contributors.
 
 ### Promises-Aplus/Promises-Spec
 
 - [promises-aplus/promises-spec/issues/94](https://github.com/promises-aplus/promises-spec/issues/94)
+  - A proposal to incorporate monads and category theory into the Promises/A+ spec sparked debate.
 
 ### Ptsteadman/Notebook
 
 - [ptsteadman/notebook/pull/1](https://github.com/ptsteadman/notebook/pull/1),
   - [archive.org](https://web.archive.org/web/20230303201922/https://github.com/ptsteadman/notebook/pull/1),
   - [archive.ph](https://archive.ph/H96PM)
+    -  A minor typo fix PR led to off-topic comments and direct message drama, with the maintainer stepping in to request that discussions remain relevant and civil.
 
 ### Pyca/Cryptography
 
 - [pyca/cryptography/issues/5771](https://github.com/pyca/cryptography/issues/5771)
+  - Users raised concerns about the project's increasing reliance on Rust dependencies, especially regarding platform support and installation difficulties.
 
 ### Pypa/Pipenv
 
 - [pypa/pipenv/issues/1050](https://github.com/pypa/pipenv/issues/1050)
+  - Longstanding requests for supporting multiple python_version values in Pipfile remain unresolved. 
 
 ### P0deje/Maccy
 
@@ -971,8 +1028,11 @@ This is a curated collection of "dramatic" GitHub interactions.
 
 - [rails/rails/commit/b83965785db1eec019edf1fc272b1aa393e6dc57](https://github.com/rails/rails/commit/b83965785db1eec019edf1fc272b1aa393e6dc57)
 - [/issues/5228](https://github.com/rails/rails/issues/5228)
+  - Mass assignment vulnerabilities, where developers forget to use attr_accessible or attr_protected, allowing attackers to set protected attributes via crafted HTTP requests.
 - [/pull/5329](https://github.com/rails/rails/pull/5329)
+  - This PR proposed making the request.xhr? predicate method return a strict boolean (true/false) instead of “truthy” values like 0 or nil.
 - [/issues/9894](https://github.com/rails/rails/issues/9894)
+  - A bug where callbacks on ActiveRecord.where(...).create inherit the where clause, leading to unexpected behavior.
 
 ### Raivo-Otp/Ios-Application
 
@@ -986,26 +1046,32 @@ This is a curated collection of "dramatic" GitHub interactions.
 ### Redis
 
 - [redis/redis/pull/13157](https://github.com/redis/redis/pull/13157)
+  - Redis Inc. submitted a pull request to change the Redis database’s license from the open-source BSD 3-Clause to the Redis Source Available License (RSAL) and Server Side Public License (SSPL).
 
 ### Redis-Rs
 
 - [redis-rs/redis-rs/issues/1419](https://github.com/redis-rs/redis-rs/issues/1419)
+  - Following Redis’s license change, the maintainer of the popular Rust client redis-rs opened an issue to discuss the project’s future. The issue revealed that Redis Inc. had contacted the maintainer, pressuring them to change the crate’s name and branding due to trademark concerns.
 
 ### Resque/Resque
 
 - [resque/resque/issues/1406](https://github.com/resque/resque/issues/1406)
+  - A proposal to add a Code of Conduct (CoC) to the Resque project
 
 ### Restic
 
 - [restic/issues/1786](https://github.com/restic/restic/issues/1786)
+  - A user requested that restic, a backup tool, allow repositories to be created with empty passwords.
 
 ### RIAEvangelist/Node-ipc
 
 - [RIAEvangelist/node-ipc/issues/233](https://github.com/RIAEvangelist/node-ipc/issues/233) (archived: <https://archive.ph/WGHMt>)
+  - The maintainer of node-ipc, a widely used npm package, published a version that, under certain conditions, overwrote files on users’ systems with a peace message.
 
 ### Rms-Open-Letter
 
 - [rms-open-letter](https://rms-open-letter.github.io/)
+  - In March 2021, an open letter was published calling for the removal of Richard Stallman (RMS) from leadership positions in the Free Software Foundation (FSF) and related organizations, following his return to the FSF board.
 
 ### RupertBenWiser/Web-Environment-Integrity
 
@@ -1028,14 +1094,17 @@ This is a curated collection of "dramatic" GitHub interactions.
 ### Robertdavidgraham/Masscan
 
 - [robertdavidgraham/masscan/issues/482](https://github.com/robertdavidgraham/masscan/issues/482)
+  - This issue was opened to request the removal of "master/slave" terminology from the Masscan codebase, citing the terms as outdated and offensive.
 
 ### Rollup/Rollup
 
 - [rollup/rollup/issues/2716](https://github.com/rollup/rollup/issues/2716)
+  - A request that the Rollup project stop using "master/slave" terminology.
 
 ### Rubocop/Rubocop
 
 - [rubocop/rubocop/issues/8091](https://github.com/rubocop/rubocop/issues/8091) ([archive.org](https://web.archive.org/web/20230129101026/https://github.com/rubocop/rubocop/issues/8091), [archive.ph](https://archive.ph/3JwN5))
+  - This issue was opened to request the removal of the term "slave" from the RuboCop codebase.
 
 ### SerenityOS/Serenity
 
@@ -1058,44 +1127,59 @@ This is a curated collection of "dramatic" GitHub interactions.
 ### Spatie/Laravel-Newsletter
 
 - [spatie/laravel-newsletter/pull/228](https://github.com/spatie/laravel-newsletter/pull/228)
+  - A contributor submits a PR to add a new feature, but the maintainer closes it, stating the project is feature-complete.
 
 ### Spring-Projects/Spring-Hateoas
 
 - [spring-projects/spring-hateoas/issues/66](https://github.com/spring-projects/spring-hateoas/issues/66)
+  - A user criticizes the library's restrictive API, arguing it forces a specific resource representation and limits flexibility.
 
 ### Standard/Standard
 
 - [standard/standard/issues/1381](https://github.com/standard/standard/issues/1381)
+  - The maintainers experiment with showing a funding message during npm install.
 
 ### Stevemao/Left-Pad
 
 - [stevemao/left-pad/issues/4](https://github.com/stevemao/left-pad/issues/4)
+  - The infamous left-pad incident: the package is unpublished, breaking thousands of builds and sparking widespread discussion about npm's package management and the fragility of the ecosystem.
 
 ### Strongloop/Loopback
 
 - [strongloop/loopback/issues/1079](https://github.com/strongloop/loopback/issues/1079)
+  - Controversy erupts when users discover the package phones home via optionalDependencies, causing slow installs and privacy concerns.
 
 ### Syl20bnr/Spacemacs
 
 - [syl20bnr/spacemacs/pull/3484](https://github.com/syl20bnr/spacemacs/pull/3484)
+  - A massive, contentious debate over adding a Code of Conduct.
 
 ### Systemd/Systemd
 
 - [systemd/systemd/issues/1143](https://github.com/systemd/systemd/issues/1143)
+  - A user reports that setting the system date far in the future causes systemd to get stuck printing "Time has been changed" repeatedly, leading to confusion and jokes about time travel bugs.
 - [systemd/systemd/issues/2402](https://github.com/systemd/systemd/issues/2402)
+  - Mounting efivarfs read/write by default allows accidental deletion of EFI variables, resulting in bricked hardware. 
 - [systemd/systemd/issues/5644](https://github.com/systemd/systemd/issues/5644)
+  - A bug in tmpfiles allows a specific glob pattern to recursively delete the root directory, prompting alarm over the potential for catastrophic data loss.
 - [systemd/systemd/issues/5755](https://github.com/systemd/systemd/issues/5755)
+  - A user requests that systemd-resolved select DNS servers in a round-robin fashion, but the actual behavior differs.
 - [systemd/systemd/issues/6237](https://github.com/systemd/systemd/issues/6237)
+  - Systemd fails to handle usernames starting with a digit, causing privilege escalation and service failures. 
 - [systemd/systemd/issues/6259](https://github.com/systemd/systemd/issues/6259)
+  - A follow-up to the previous issue, this thread debates whether usernames starting with digits should be allowed, referencing standards and real-world usage.
 - [systemd/systemd/issues/6369](https://github.com/systemd/systemd/issues/6369)
+  - A bug is reported where systemd's hostnamed mishandles FQDNs with trailing dots, leading to incorrect hostname settings and confusion over DNS conventions.
 
 ### Tc39/Proposal-Cancelable-Promises
 
 - [tc39/proposal-cancelable-promises/issues/70](https://github.com/tc39/proposal-cancelable-promises/issues/70)
+  - The proposal for cancelable promises is abruptly withdrawn, leaving the community confused and frustrated.
 
 ### Telegramdesktop/Tdesktop
 
 - [telegramdesktop/tdesktop/issues/96](https://github.com/telegramdesktop/tdesktop/issues/96)
+  - A long-standing request for spellchecking support in Telegram Desktop gathers hundreds of comments, with users expressing frustration over the lack of progress and maintainers citing technical challenges.
 
 ### Tenacityteam/Tenacity
 
@@ -1107,10 +1191,12 @@ This is a curated collection of "dramatic" GitHub interactions.
 ### Tiangolo/Fastapi
 
 - [tiangolo/fastapi/issues/3273](https://github.com/tiangolo/fastapi/issues/3273)
+  - A user complains that the FastAPI documentation's "Concurrency and async/await" section uses too many emojis, making it distracting and hard to read.
 
 ### Tip4commit/Tip4commit
 
 - [tip4commit/tip4commit/issues/127](https://github.com/tip4commit/tip4commit/issues/127)
+  - Mitsuhiko requests the removal of all their repositories from Tip4commit, objecting to third-party sites "gamifying" their projects.
 
 ### Tj-Actions/Changed-Files
 
@@ -1121,40 +1207,50 @@ This is a curated collection of "dramatic" GitHub interactions.
 ### Todogroup/Opencodeofconduct
 
 - [todogroup/opencodeofconduct/pull/70](https://github.com/todogroup/opencodeofconduct/pull/70)
+  - A major rewrite of the Open Code of Conduct template sparks heated debate over language, tone, and the handling of free speech.
 
 ### Tootsuite/Mastodon
 
 - [tootsuite/mastodon/pull/9898](https://github.com/tootsuite/mastodon/pull/9898)
+  - A PR to add underlines to links in Mastodon to improve accessibility triggers a long, passionate debate.
 
 ### Torvalds/Linux
 
 - [torvalds/linux/commit/6e90b675cf942e50c70e8394dfb5862975c3b3b2](https://github.com/torvalds/linux/commit/6e90b675cf942e50c70e8394dfb5862975c3b3b2)
+  - A sweeping commit removes numerous entries from the MAINTAINERS file due to compliance requirements, with a note that they can be restored if proper documentation is provided.
 
 ### Twbs/Bootstrap
 
 - [twbs/bootstrap/issues/3057](https://github.com/twbs/bootstrap/issues/3057)
+  - A user reports that missing semicolons in bootstrap-dropdown.js cause minification errors in Firefox.
 
 ### Twitter/Scrooge
 
 - [twitter/scrooge/issues/222](https://github.com/twitter/scrooge/issues/222)
+  - A user points out that the project's build status icon shows a failing build, suggesting it should be fixed or removed
 
 ### ValveSoftware/Source-1-Games
 
 - [ValveSoftware/Source-1-Games/issues/2475](https://github.com/ValveSoftware/Source-1-Games/issues/2475)
+  - A user discovers that having "catbot" in their Linux username triggers an automatic VAC ban in Team Fortress 2. 
 
 - [ValveSoftware/steam-for-linux/issues/3671](https://github.com/ValveSoftware/steam-for-linux/issues/3671)
+  - A user moves their Steam folder and symlinks it, only to have Steam recursively delete all files owned by their user—including backups—after launch.
 
 ### Vcflib/Vcflib
 
 - [vcflib/vcflib/issues/206](https://github.com/vcflib/vcflib/issues/206)
+  - A frustrated user reports that the vcf2tsv tool fails to separate per-allele records with newlines, resulting in jumbled output. They also complain about the random reordering of INFO fields.
 
 ### VHSgunzo/Lutris-Wine
 
 - [VHSgunzo/lutris-wine/issues/15](https://github.com/VHSgunzo/lutris-wine/issues/15)
+  - This issue has been deleted. No further information or context is available.
 
 ### Vimeo/Player.js
 
 - [vimeo/player.js/issues/28](https://github.com/vimeo/player.js/issues/28)
+  - A user asks if it's possible to hide the control bar using player.js.
 
 ### Voat/Voat
 
@@ -1172,14 +1268,17 @@ This is a curated collection of "dramatic" GitHub interactions.
 ### Webpack/Webpack-Cli
 
 - [webpack/webpack-cli/issues/1612](https://github.com/webpack/webpack-cli/issues/1612)
+  - A user reports that importing fs/promises works with TypeScript but fails with Webpack, triggering a "Can't resolve 'fs/promises'" error.
 
 ### WhisperSystems/Signal-Android
 
 - [WhisperSystems/Signal-Android/issues/127](https://github.com/WhisperSystems/Signal-Android/issues/127)
+  - A user requests an official download alternative to Google Play for Signal, citing privacy concerns and the inconvenience of building from source.
 
 ### WICG/Interventions
 
 - [WICG/interventions/issues/18](https://github.com/WICG/interventions/issues/18)
+  - A heated debate erupts over Chrome's intervention to block synchronous XHR requests during page dismissal (e.g., in unload/beforeunload events).
 
 ### WinampDesktop/Winamp
 
@@ -1218,10 +1317,12 @@ This is a curated collection of "dramatic" GitHub interactions.
 ### Zedeus/Nitter
 
 - [zedeus/nitter/issues/983](https://github.com/zedeus/nitter/issues/983)
+  - Users report that Nitter, a privacy-focused Twitter/X frontend, has stopped working due to changes or blocks implemented by Twitter/X.
 
 ### Zenparsing/Es-Observable
 
 - [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
+  - A heated, highly technical debate over the Observable proposal for JavaScript.
 
 ### Zloirock/Core-js
 
