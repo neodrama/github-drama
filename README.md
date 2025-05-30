@@ -615,7 +615,7 @@ This is a curated collection of "dramatic" GitHub interactions.
 - [/pull/1633](https://github.com/lerna/lerna/pull/1633)
   - The Lerna team reverted the license change, restoring the original MIT license. The maintainer responsible for the controversial change was removed from the project. 
 
-### Marak/Colors.js
+### Marak/Colors.js and Marak/faker.js
 
 - In early 2022, the maintainer of colors.js and faker.js, Marak Squires, intentionally corrupted the codebases of both libraries. He introduced infinite loops and nonsensical output, causing widespread breakage for projects and applications that depended on these popular npm packages.
   - [colors.js/issues/285](https://github.com/Marak/colors.js/issues/285)
