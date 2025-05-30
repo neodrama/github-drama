@@ -36,10 +36,6 @@ This repository is [neodrama/github-drama](https://github.com/neodrama/github-dr
 [ambv/black/issues/118](https://github.com/ambv/black/issues/118)
 * A heated debate erupts over Black's strict formatting rules, with users arguing about code style enforcement and the project's "opinionated" approach. The thread becomes a battleground for code formatting philosophies.
 
-[audacity/audacity/pull/835](https://github.com/audacity/audacity/pull/835),
-[ghostarchive](https://ghostarchive.org/archive/FFYeK)
-* Audacity maintainers propose adding Analytics to the open-source audio editor, sparking immediate backlash from privacy-conscious users.
-
 [angular/angular-cli/issues/1252](https://github.com/angular/angular-cli/issues/1252)
 * A long-standing issue where users complain about the CLI's handling of dependencies and build output.
 
@@ -61,12 +57,12 @@ This repository is [neodrama/github-drama](https://github.com/neodrama/github-dr
 [atom-minimap/minimap/issues/588](https://github.com/atom-minimap/minimap/issues/588) (archive: [1](https://web.archive.org/web/20201109041745/https://github.com/atom-minimap/minimap/issues/588), [2](https://archive.today/wJZTV))
 * Atom Minimap package integrated Kite, an AI-powered coding assistant.
 
-[audacity/audacity/pull/835](https://github.com/audacity/audacity/pull/835)
-* Audacity proposed adding telemetry.
+[audacity/audacity/pull/835](https://github.com/audacity/audacity/pull/835),
+[ghostarchive](https://ghostarchive.org/archive/FFYeK)
+* Audacity maintainers propose adding Analytics to the open-source audio editor, sparking immediate backlash from privacy-conscious users.
 
 [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 * [issues/6359](https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/6359) ([archive.vn](https://archive.vn/Whu1Z)) ([archive.org](https://web.archive.org/web/20230105161436/https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/6359))
-* Users discovered that many Black artists were categorized under the letter "n" in the project's artists.csv file, sparking accusations of racism and exclusion.
 
 [ayojs/ayo/issues/36](https://github.com/ayojs/ayo/issues/36) ([archive.ph](https://archive.ph/FvsR6)) ([archive.org](https://web.archive.org/web/20230120102451/https://github.com/ayojs/ayo/issues/36))
 * Ayo.js forked from Node.js.
@@ -103,10 +99,6 @@ chrisaljoudi/uBlock - Ownership transfer/donations drama
 * Cloudflare's embrace-and-extend Fediverse software posts private messages to the local public timeline. Cloudflare maintainers have flagged several comments that go into technical detail about the bug as spam.
 
 [crablang/crab/issues/14](https://github.com/crablang/crab/issues/14)
-* Cataclysm-DDA added an option to switch gender mid-game, sparking debate over whether it should be locked behind debug or an autodoc procedure.
-
-[CVarisco/community-story/pull/1](https://github.com/CVarisco/community-story/pull/1)
-* PR has been deleted and no archive is available.
 
 daeuniverse/dae
 * Project maintainers made a bot that automatically closes reported issues if the issuer didn't star the repo.
@@ -117,7 +109,6 @@ daeuniverse/dae
 * User brought up the pro-china political bias of the LLM, causing a flamewar in the comments.
 
 [dear-github/dear-github/issues/107](https://github.com/dear-github/dear-github/issues/107)
-* GitHub's Code of Conduct was criticized for supposedly being racist and sexist.
 
 [Delgan/loguru/issues/563](https://github.com/Delgan/loguru/issues/563)
 * Loguru's use of pickle for exception serialization was flagged as a security risk by a user's company.
@@ -156,17 +147,13 @@ daeuniverse/dae
 * Roslyn removed occurrences of the term "whitelist" from its codebase, replacing it with alternative terminology.
 
 [dotnet/roslyn](https://github.com/dotnet/roslyn/) - Tabs vs. spaces drama
-* [issues/24031](https://github.com/dotnet/roslyn/issues/24031)
-** VS2017express replaced tabs with spaces despite user settings.
-
-* [issues/68873](https://github.com/dotnet/roslyn/issues/68873)
-** Pressing Tab after certain keywords in Visual Studio caused unintended code changes
+* [VS2017express replaced tabs with spaces despite user settings](https://github.com/dotnet/roslyn/issues/24031)
+* [Pressing Tab after certain keywords in Visual Studio caused unintended code changes](https://github.com/dotnet/roslyn/issues/68873)
 
 [dotnet/runtime/issues/27939](https://github.com/dotnet/runtime/issues/27939)
 * Tuple member naming conventions in .NET were debated, with discussions on whether PascalCase or camelCase should be used.
 
 [dotnet/runtime/issues/92849](https://github.com/dotnet/runtime/issues/92849)
-* Math.Round failed to round 0.50 values correctly
 
 [dotnet/sdk/issues/22247](https://github.com/dotnet/sdk/issues/22247)
 * Hot Reload was removed from dotnet watch, making it exclusive to Visual Studio
@@ -410,27 +397,26 @@ dotnet-foundation/Home - .NET Foundation ReactiveUI PR drama
 [ggerganov/llama.cpp/pull/711](https://github.com/ggerganov/llama.cpp/pull/711)
 * A pull request proposed reverting a breaking change to the model format and mmap support.
 
-[github/dmca](https://github.com/github/dmca)
+[github/dmca](https://github.com/github/dmca) - youtube-dl takedown
 * [pull/8122](https://github.com/github/dmca/pull/8122) ([archive.org](https://web.archive.org/web/20230129084646/https://github.com/github/dmca/pull/8122
 ), [archive.ph](https://archive.ph/l1oh6))
 * [pull/8140](https://github.com/github/dmca/pull/8140) ([archive.org](https://web.archive.org/web/20230129084629/https://github.com/github/dmca/pull/8140), [archive.ph](https://archive.ph/GrpDZ))
-* GitHub processed a DMCA takedown request targeting youtube-dl.
 
 [github/dmca](https://github.com/github/dmca) - GTAmodding/re3 drama
 * [github/dmca/blob/master/2021/02/2021-02-19-take-two.md](https://github.com/github/dmca/blob/master/2021/02/2021-02-19-take-two.md)
 * [pull/8839](https://web.archive.org/web/20210320220522/https://github.com/github/dmca/pull/8839) (archived)
 
-[golang/go](https://github.com/golang/go)
-* [/issues/21956](https://github.com/golang/go/issues/21956)
-** A proposal suggested removing the Google logo from the Go website
-* [/issues/33021](https://github.com/golang/go/issues/33021)
-** A user advocated for moving Go's development workflow entirely to GitHub.
+[golang/go/issues/21956](https://github.com/golang/go/issues/21956)
+* A user advocated for moving Go's development workflow entirely to GitHub.
 
-[google/googletest](https://github.com/google/googletest)
-* [/issues/1660](https://github.com/google/googletest/issues/1660)
-** Google Test's documentation was criticized for being unclear
-* [/issues/1666](https://github.com/google/googletest/issues/1666)
-** A user described Google Test as difficult to install and configure.
+[golang/go/issues/33021](https://github.com/golang/go/issues/33021)
+* A proposal suggested removing the Google logo from the Go website
+
+[google/googletest/issues/1660](https://github.com/google/googletest/issues/1660)
+* Google Test's documentation was criticized for being unclear
+
+[google/googletest/issues/1666](https://github.com/google/googletest/issues/1666)
+* A user described Google Test as difficult to install and configure.
 
 [GoogleCloudPlatform/click-to-deploy/pull/209](https://github.com/GoogleCloudPlatform/click-to-deploy/pull/209)
 * A pull request proposed replacing "slave" with "agent" in Google Click-to-Deploy.
@@ -475,7 +461,6 @@ dotnet-foundation/Home - .NET Foundation ReactiveUI PR drama
 * An issue is opened about removing packages with Yay
 
 [joyent/libuv/pull/1015](https://github.com/joyent/libuv/pull/1015)
-* A pull request proposed replacing a gendered pronoun with a neutral alternative in Joyent's libuv repository.
 
 [jquery/download.jqueryui.com](https://github.com/jquery/download.jqueryui.com)
 * [/issues/359](https://github.com/jquery/download.jqueryui.com/issues/359)
