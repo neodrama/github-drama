@@ -21,59 +21,77 @@ This repository is [neodrama/github-drama](https://github.com/neodrama/github-dr
 
 ---
 
-actix/actix-web
+[actix/actix-web](https://github.com/actix/actix-web)
 * [issues/1289](https://github.com/actix/actix-web/issues/1289)
 * [www.theregister.com/2020/01/21/rust_actix_web_framework_maintainer_quits/](https://www.theregister.com/2020/01/21/rust_actix_web_framework_maintainer_quits/)
 * [fafhrd91/actix-web-postmortem](https://github.com/fafhrd91/actix-web-postmortem)
 
 [albertodemichelis/squirrel/pull/67](https://github.com/albertodemichelis/squirrel/pull/67)
 
-Alex313031/thorium
+[Alex313031/thorium](https://github.com/Alex313031/thorium)
 * Chrome fork with Windows 7 support includes furry porn in chrome:/// pages for whatever reason.
 * [issues/463](https://web.archive.org/web/20231214051251/https://github.com/Alex313031/thorium/issues/463)
 * [issues/468](https://web.archive.org/web/20231214205800/https://github.com/Alex313031/thorium/issues/468)
 
 [ambv/black/issues/118](https://github.com/ambv/black/issues/118)
+* A heated debate erupts over Black's strict formatting rules, with users arguing about code style enforcement and the project's "opinionated" approach. The thread becomes a battleground for code formatting philosophies.
 
 [audacity/audacity/pull/835](https://github.com/audacity/audacity/pull/835),
 [ghostarchive](https://ghostarchive.org/archive/FFYeK)
+* Audacity maintainers propose adding Analytics to the open-source audio editor, sparking immediate backlash from privacy-conscious users.
 
 [angular/angular-cli/issues/1252](https://github.com/angular/angular-cli/issues/1252)
+* A long-standing issue where users complain about the CLI's handling of dependencies and build output.
 
 [ansible/ansible/issues/10530](https://github.com/ansible/ansible/issues/10530)
+* Users are surprised by the appearance of "cowsay" ASCII art in Ansible output, enabled by default if the cowsay binary is present.
 
 [ant-design/ant-design/issues/13098](https://github.com/ant-design/ant-design/issues/13098)
+* A Christmas-themed easter egg in the UI library triggers a request for a prop to disable it.
 
 [ariya/phantomjs/issues/15345](https://github.com/ariya/phantomjs/issues/15345)
+* A new maintainer announces his suspension of PhantomJS development.
 
 [aspnet/Home/issues/2022](https://github.com/aspnet/Home/issues/2022)
+* ASP.NET Core 2.0 packages dropped support for .NET Desktop.
 
 [atom/tree-view/pull/804](https://github.com/atom/tree-view/pull/804)
+* A pull request aimed to restore single-click file opening in Atom's tree view.
 
 [atom-minimap/minimap/issues/588](https://github.com/atom-minimap/minimap/issues/588) (archive: [1](https://web.archive.org/web/20201109041745/https://github.com/atom-minimap/minimap/issues/588), [2](https://archive.today/wJZTV))
+* Atom Minimap package integrated Kite, an AI-powered coding assistant.
 
 [audacity/audacity/pull/835](https://github.com/audacity/audacity/pull/835)
+* Audacity proposed adding telemetry.
 
-AUTOMATIC1111/stable-diffusion-webui
+[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 * [issues/6359](https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/6359) ([archive.vn](https://archive.vn/Whu1Z)) ([archive.org](https://web.archive.org/web/20230105161436/https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/6359))
+* Users discovered that many Black artists were categorized under the letter "n" in the project's artists.csv file, sparking accusations of racism and exclusion.
 
 [ayojs/ayo/issues/36](https://github.com/ayojs/ayo/issues/36) ([archive.ph](https://archive.ph/FvsR6)) ([archive.org](https://web.archive.org/web/20230120102451/https://github.com/ayojs/ayo/issues/36))
+* Ayo.js forked from Node.js.
 
 [badges/shields/pull/9474](https://github.com/badges/shields/pull/9474)
+* A new contributor attempted to add a Bazel logo to Shields.io.
 
 [bitwarden/clients/issues/11611](https://github.com/bitwarden/clients/issues/11611)
+* Bitwarden's desktop version 2024.10.0 introduced a proprietary SDK, making it impossible to build the client without it.
 
-bower/bower
+[bower/bower](https://github.com/bower/bower)
 * [/issues/1102](https://github.com/bower/bower/issues/1102)
 * [/pull/1748](https://github.com/bower/bower/pull/1748)
+* Bower's first-run prompt asking for anonymous usage reporting disrupted automated workflows.
 
 [bower/bower/pull/1748](https://github.com/bower/bower/pull/1748)
+* Bower's LockFile feature was proposed, aiming to introduce dependency locking.
 
 [causiq/logary/issues/345](https://github.com/causiq/logary/issues/345)
+* Logary introduced a licensing model that required commercial IIS/Kestrel users to pay fees, sparking debate over fairness and F# ecosystem support.
 
 chrisaljoudi/uBlock - Ownership transfer/donations drama
 * [/pull/1517](https://github.com/chrisaljoudi/uBlock/pull/1517)
 * [/issues/1153](https://github.com/uBlock-LLC/uBlock/issues/1153)
+* A contributor accused the maintainer of soliciting donations for work done by others.
 
 [CleverRaven/Cataclysm-DDA/pull/51079](https://github.com/CleverRaven/Cataclysm-DDA/pull/51079)
 
@@ -85,8 +103,10 @@ chrisaljoudi/uBlock - Ownership transfer/donations drama
 * Cloudflare's embrace-and-extend Fediverse software posts private messages to the local public timeline. Cloudflare maintainers have flagged several comments that go into technical detail about the bug as spam.
 
 [crablang/crab/issues/14](https://github.com/crablang/crab/issues/14)
+* Cataclysm-DDA added an option to switch gender mid-game, sparking debate over whether it should be locked behind debug or an autodoc procedure.
 
 [CVarisco/community-story/pull/1](https://github.com/CVarisco/community-story/pull/1)
+* PR has been deleted and no archive is available.
 
 daeuniverse/dae
 * Project maintainers made a bot that automatically closes reported issues if the issuer didn't star the repo.
@@ -97,18 +117,25 @@ daeuniverse/dae
 * User brought up the pro-china political bias of the LLM, causing a flamewar in the comments.
 
 [dear-github/dear-github/issues/107](https://github.com/dear-github/dear-github/issues/107)
+* GitHub's Code of Conduct was criticized for supposedly being racist and sexist.
 
 [Delgan/loguru/issues/563](https://github.com/Delgan/loguru/issues/563)
+* Loguru's use of pickle for exception serialization was flagged as a security risk by a user's company.
 
 [django/django/pull/2692](https://github.com/django/django/pull/2692)
+* Django replaced occurrences of master/slave terminology with leader/follower.
 
 [docker/docker/pull/31075](https://github.com/docker/docker/pull/31075)
+* Docker switched to a YY.MM versioning scheme, sparking debate over semantic versioning and release cadence.
 
 [docker/docker.github.io/issues/6910](https://github.com/docker/docker.github.io/issues/6910)
+* Docker required users to log in to download Docker CE.
 
 [docker/for-mac/issues/1120](https://github.com/docker/for-mac/issues/1120)
+* Docker users requested the ability to download old releases, citing issues with newer versions and the lack of an official archive.
 
 [doktornotor/pfsense-still-closedsource](https://github.com/doktornotor/pfsense-still-closedsource)
+* A repository was created to document claims that pfSense falsely advertises itself as open-source, arguing that key components are not publicly available.
 
 [dominictarr/event-stream/issues/116](https://github.com/dominictarr/event-stream/issues/116),
 [archive.ph](https://archive.ph/EnRyk),
@@ -117,27 +144,38 @@ daeuniverse/dae
 * Malicious owner takeover of npm package (@right9ctrl)
 
 [dotnet/cli/issues/3093](https://github.com/dotnet/cli/issues/3093)
+* .NET Core's telemetry feature was criticized for being enabled by default.
 
 [dotnet/csharplang/issues/993](https://github.com/dotnet/csharplang/issues/993)
+* A proposal suggested creating a Chinese version of C#, F#, and VB.
 
 [dotnet/maui/issues/35](https://github.com/dotnet/maui/issues/35)
+* .NET MAUI's name clashed with existing projects Maui Linux and MauiKit
 
 [dotnet/roslyn/pull/3507](https://github.com/dotnet/roslyn/pull/3507)
+* Roslyn removed occurrences of the term "whitelist" from its codebase, replacing it with alternative terminology.
 
-dotnet/roslyn - Tabs vs. spaces drama
+[dotnet/roslyn](https://github.com/dotnet/roslyn/) - Tabs vs. spaces drama
 * [issues/24031](https://github.com/dotnet/roslyn/issues/24031)
+** VS2017express replaced tabs with spaces despite user settings.
+
 * [issues/68873](https://github.com/dotnet/roslyn/issues/68873)
+** Pressing Tab after certain keywords in Visual Studio caused unintended code changes
 
 [dotnet/runtime/issues/27939](https://github.com/dotnet/runtime/issues/27939)
+* Tuple member naming conventions in .NET were debated, with discussions on whether PascalCase or camelCase should be used.
 
 [dotnet/runtime/issues/92849](https://github.com/dotnet/runtime/issues/92849)
+* Math.Round failed to round 0.50 values correctly
 
 [dotnet/sdk/issues/22247](https://github.com/dotnet/sdk/issues/22247)
+* Hot Reload was removed from dotnet watch, making it exclusive to Visual Studio
 
 dotnet-foundation/Home - .NET Foundation ReactiveUI PR drama
 * [dotnet-foundation/Home/discussions/39](https://github.com/dotnet-foundation/Home/discussions/39)
 * [reactiveui/splat/pull/778](https://github.com/reactiveui/splat/pull/778)
 * [dotnet-foundation/Home/discussions/40](https://github.com/dotnet-foundation/Home/discussions/40)
+* The .NET Foundation's Executive Director merged a PR in ReactiveUI's Splat project without maintainer approval.
 
 [EpicGames/Signup/pull/24](https://github.com/EpicGames/Signup/pull/24)
 * Notification spam of 400k GitHub users due to tagging @EpicGames/developers on GitHub
@@ -361,72 +399,97 @@ dotnet-foundation/Home - .NET Foundation ReactiveUI PR drama
     [ghostarchive](https://ghostarchive.org/archive/3gvmY)
 
 [flathub/flathub/pull/1978](https://github.com/flathub/flathub/pull/1978)
+* A Flathub pull request proposed an unofficial MultiMC distribution.
 
 [fluentassertions/fluentassertions/pull/2943](https://github.com/fluentassertions/fluentassertions/pull/2943)
+* Fluent Assertions transitioned to a dual-licensing model.
 
 [flutter/flutter/issues/11609](https://github.com/flutter/flutter/issues/11609)
+* A proposal suggested adding JSX-like syntax to Dart for Flutter.
 
 [ggerganov/llama.cpp/pull/711](https://github.com/ggerganov/llama.cpp/pull/711)
+* A pull request proposed reverting a breaking change to the model format and mmap support.
 
-github/dmca
+[github/dmca](https://github.com/github/dmca)
 * [pull/8122](https://github.com/github/dmca/pull/8122) ([archive.org](https://web.archive.org/web/20230129084646/https://github.com/github/dmca/pull/8122
 ), [archive.ph](https://archive.ph/l1oh6))
 * [pull/8140](https://github.com/github/dmca/pull/8140) ([archive.org](https://web.archive.org/web/20230129084629/https://github.com/github/dmca/pull/8140), [archive.ph](https://archive.ph/GrpDZ))
+* GitHub processed a DMCA takedown request targeting youtube-dl.
 
-github/dmca - GTAmodding/re3 drama
+[github/dmca](https://github.com/github/dmca) - GTAmodding/re3 drama
 * [github/dmca/blob/master/2021/02/2021-02-19-take-two.md](https://github.com/github/dmca/blob/master/2021/02/2021-02-19-take-two.md)
 * [pull/8839](https://web.archive.org/web/20210320220522/https://github.com/github/dmca/pull/8839) (archived)
 
-golang/go
+[golang/go](https://github.com/golang/go)
 * [/issues/21956](https://github.com/golang/go/issues/21956)
+** A proposal suggested removing the Google logo from the Go website
 * [/issues/33021](https://github.com/golang/go/issues/33021)
+** A user advocated for moving Go's development workflow entirely to GitHub.
 
-google/googletest
+[google/googletest](https://github.com/google/googletest)
 * [/issues/1660](https://github.com/google/googletest/issues/1660)
+** Google Test's documentation was criticized for being unclear
 * [/issues/1666](https://github.com/google/googletest/issues/1666)
+** A user described Google Test as difficult to install and configure.
 
 [GoogleCloudPlatform/click-to-deploy/pull/209](https://github.com/GoogleCloudPlatform/click-to-deploy/pull/209)
+* A pull request proposed replacing "slave" with "agent" in Google Click-to-Deploy.
 
 [greatsuspender/thegreatsuspender/issues/1175](https://github.com/greatsuspender/thegreatsuspender/issues/1175)
+* The Great Suspender's original maintainer announced a change in project ownership, leading to concerns about the new owner's identity and about potential malware.
 
-home-sweet-gnome/dash-to-panel - Donations icon issue
+[home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - Donations icon issue
 * [/issues/2274](https://github.com/home-sweet-gnome/dash-to-panel/issues/2274)
 * [Dash to Panel maintainer quits after donations drive becomes dash to disaster](https://www.theregister.com/2025/03/14/dashtopanel_maintainer_quits/)
 
 [Homebrew/homebrew-core/issues/24654](https://github.com/Homebrew/homebrew-core/issues/24654) (archive: [1](https://web.archive.org/web/20190117063442/https://github.com/Homebrew/homebrew-core/issues/24654), [2](https://archive.today/JiS6i))
+* Homebrew user questioned whether Apache httpd should be a dependency for PHP.
 
 [Homebrew/homebrew-services/issues/151](https://github.com/Homebrew/homebrew-services/issues/151) (archive: [1](https://web.archive.org/web/20190512053827/https://github.com/Homebrew/homebrew-services/issues/151))
+* A Homebrew user requested finer control over starting and stopping services, arguing that the --all flag was too broad and led to unintended dependencies being launched.
 
 [Homebrew/legacy-homebrew/issues/50683](https://github.com/Homebrew/legacy-homebrew/issues/50683) (archive: [1](https://web.archive.org/web/20190629075855/https://github.com/Homebrew/legacy-homebrew/issues/50683))
+* A Homebrew user questioned the removal of the rtorrent formula.
 
 [lllyasviel/stable-diffusion-webui-forge/discussions/169](https://github.com/lllyasviel/stable-diffusion-webui-forge/discussions/169)
 * ComfyUI (Stable Diffusion frontend) devs accuse Forge (another SD frontend) of using their code, license drama ensues.
 
-indutny/node-ip - CVE drama
+[indutny/node-ip](https://github.com/indutny/node-ip) - CVE drama
 * [github/advisory-database/pull/3504](https://github.com/github/advisory-database/pull/3504)
 * [socket.dev/blog/node-ip-maintainer-restores-github-repo-after-archiving-due-to-overblown-cve-rating](https://socket.dev/blog/node-ip-maintainer-restores-github-repo-after-archiving-due-to-overblown-cve-rating)
+* A GitHub Advisory Database entry flagged the NPM IP package as vulnerable to Server-Side Request Forgery (SSRF) attacks.
 
 [iperov/DeepFaceLive/issues/41](https://github.com/iperov/DeepFaceLive/issues/41)
+* A user argued that DeepFaceLive should cease development, claiming the technology is primarily used for scams and deception.
 
 [irungentoo/toxcore/issues/1227](https://github.com/irungentoo/toxcore/issues/1227)
+* An issue is opened that criticized the management of the Toxcore repository.
 
 [jashkenas/underscore/issues/1805](https://github.com/jashkenas/underscore/issues/1805)
+* A new update version 1.7.0 - introduced breaking changes without a major version bump.
 
 [jdm-contrib/justdelete.me/issues/86](https://github.com/jdm-contrib/justdelete.me/issues/86) (archive: [1](https://archive.today/DNf2M))
+* JustDeleteMe fork mass-tagged users who had starred the original repository, asking them to support the new project.
 
 [Jguer/yay/issues/496](https://github.com/Jguer/yay/issues/496)
+* An issue is opened about removing packages with Yay
 
 [joyent/libuv/pull/1015](https://github.com/joyent/libuv/pull/1015)
+* A pull request proposed replacing a gendered pronoun with a neutral alternative in Joyent's libuv repository.
 
-jquery/download.jqueryui.com
+[jquery/download.jqueryui.com](https://github.com/jquery/download.jqueryui.com)
 * [/issues/359](https://github.com/jquery/download.jqueryui.com/issues/359)
 * [/issues/390](https://github.com/jquery/download.jqueryui.com/issues/390)
+* jQuery UI Download Builder encountered an Error 502 (Bad Gateway) when users attempted to download files.
 
 [JuliaLang/IJulia.jl/issues/398](https://github.com/JuliaLang/IJulia.jl/issues/398)
+* A user reported that Pkg.add("IJulia") failed due to BinDeps errors and calls the developer an "amateur".
 
 [katharostech/bevy_retrograde/issues/1](https://github.com/katharostech/bevy_retrograde/issues/1)
+* Users questioned the Katharos License, arguing that its religious alignment and legal ambiguity posed adoption and contribution risks.
 
 [keepassxreboot/keepassxc/issues/10725](https://github.com/keepassxreboot/keepassxc/issues/10725)
+* A Debian package change removed browser integration from KeePassXC
 
 [kenwheeler/slick/issues/681](https://github.com/kenwheeler/slick/issues/681)
 
@@ -434,7 +497,7 @@ jquery/download.jqueryui.com
 
 [kraih/mojo/issues/656](https://github.com/kraih/mojo/issues/656)
 
-ksh93/ksh
+[ksh93/ksh](https://github.com/ksh93/ksh)
 * original ksh kinda blew up - [ksh fallout](https://github.com/att/ast/issues/1464).
 * original [ksh rewound](https://github.com/att/ast/issues/1466).
 * [ksh-community](https://github.com/ksh-community) stalled.
