@@ -492,8 +492,12 @@ This is a curated collection of "dramatic" GitHub interactions.
 - [Homebrew/homebrew-core/issues/24654](https://github.com/Homebrew/homebrew-core/issues/24654) (archive: [1](https://web.archive.org/web/20190117063442/https://github.com/Homebrew/homebrew-core/issues/24654), [2](https://archive.today/JiS6i))
   - Homebrew user questioned whether Apache httpd should be a dependency for PHP.
 
+### Homebrew/homebrew-services
+
 - [Homebrew/homebrew-services/issues/151](https://github.com/Homebrew/homebrew-services/issues/151) (archive: [1](https://web.archive.org/web/20190512053827/https://github.com/Homebrew/homebrew-services/issues/151))
   - A Homebrew user requested finer control over starting and stopping services, arguing that the --all flag was too broad and led to unintended dependencies being launched.
+
+### Homebrew/legacy-homebrew
 
 - [Homebrew/legacy-homebrew/issues/50683](https://github.com/Homebrew/legacy-homebrew/issues/50683) (archive: [1](https://web.archive.org/web/20190629075855/https://github.com/Homebrew/legacy-homebrew/issues/50683))
   - A Homebrew user questioned the removal of the rtorrent formula.
