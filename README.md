@@ -24,7 +24,7 @@
 - [Phylogenetic Tree](#phylogenetic-tree)
 - [Drama Archive](#drama-archive)
 - [See Also](#see-also)
-- [Contributing](#contributing)
+- [Contributing](CONTRIBUTING.md)
 
 ---
 
