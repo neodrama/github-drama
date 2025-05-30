@@ -176,8 +176,7 @@ This is a curated collection of "dramatic" GitHub interactions.
 ### crablang/crab
 
 - [crablang/crab/issues/14](https://github.com/crablang/crab/issues/14)
-  - Cataclysm-DDA added an option to switch gender mid-game, sparking debate over whether it should be locked behind debug or an autodoc procedure.
-
+  
 ### CVarisco/community-story
 
 - [CVarisco/community-story/pull/1](https://github.com/CVarisco/community-story/pull/1)
