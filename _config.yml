@@ -1,10 +1,10 @@
 remote_theme: pages-themes/hacker@v0.2.0
 title: Github Drama Repo - Updated
-description: Updated Github Drama Repo
-url: "https://nick2bad4u.github.io/github-drama" # the base hostname & protocol for your site
+description: Github Drama Repo - for all the juicy Github drama!!!
+url: "https://neodrama.github.io/github-drama" # the base hostname & protocol for your site
 permalink: pretty # use pretty permalinks
 livereload: true # enable live reloading
-timezone: "America/Detroit" # set the timezone for your site
+timezone: "America/New_York" # set the timezone for your site
 plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
