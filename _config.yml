@@ -1,6 +1,6 @@
 remote_theme: pages-themes/hacker@v0.2.0
 title: Github Drama Repo - Updated
-description: Github Drama Repo - for all the juicy Github drama!!!
+description: Github Drama Repo - Historical Archive of Famous GitHub Controversies
 url: "https://neodrama.github.io/github-drama" # the base hostname & protocol for your site
 permalink: pretty # use pretty permalinks
 livereload: true # enable live reloading
