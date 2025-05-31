@@ -70,9 +70,9 @@ This is a curated collection of "dramatic" GitHub interactions.
 ### actix/actix-web
 
 - [actix/actix-web/issues/1289](https://github.com/actix/actix-web/issues/1289)
-- [www.theregister.com/2020/01/21/rust_actix_web_framework_maintainer_quits/](https://www.theregister.com/2020/01/21/rust_actix_web_framework_maintainer_quits/)
 - [fafhrd91/actix-web-postmortem](https://github.com/fafhrd91/actix-web-postmortem)
   - The project's maintainer, fafhrd91, announcing his departure from the project leadership.
+  - Journalistic Media: [TheRegister.com](https://www.theregister.com/2020/01/21/rust_actix_web_framework_maintainer_quits/)
 
 ### albertodemichelis/squirrel
 
@@ -489,6 +489,7 @@ This is a curated collection of "dramatic" GitHub interactions.
 - [Ldapjs/Node-Ldapjs/commit/8ffd0bc](https://github.com/ldapjs/node-ldapjs/commit/8ffd0bc9c149088a10ec4c1ec6a18450f76ad05d)
   - Journalistic Media: [Hacker News](https://news.ycombinator.com/item?id=40370190), [4chan](https://desuarchive.org/g/thread/100523482/)
   - Developer of a Node library calls quits after receiving an email reminiscent of Xbox Live chat.
+
 ### Lerna/Lerna
 
 - [Lerna/Lerna/pull/1616](https://github.com/lerna/lerna/pull/1616)
@@ -611,8 +612,7 @@ This is a curated collection of "dramatic" GitHub interactions.
 ### NanoAdblocker/NanoCore
 
   - [NanoAdblocker/NanoCore/issues/362](https://github.com/NanoAdblocker/NanoCore/issues/362)
-  - Journalistic Media:
-    - [Open Source Development: The Fall of Nano Defender](https://www.reddit.com/r/HobbyDrama/comments/jo9wxn/open_source_development_the_fall_of_nano_defender/)
+  - Journalistic Media: [Reddit.com](https://www.reddit.com/r/HobbyDrama/comments/jo9wxn/open_source_development_the_fall_of_nano_defender/)
   - Ownership transfer drama
 
 ### NationalSecurityAgency/Ghidra
@@ -1106,7 +1106,7 @@ This is a curated collection of "dramatic" GitHub interactions.
     - They have chosen a custom license, forbidding forks, and distributing modifications among other things.
     - Github users are outraged, started arguing in issues, and opened several troll pull requests.
     - Finally, Winamp owners delete the source code repository.
-- Journalistic Media: [TheRegister.com](https://www.theregister.com/2024/10/16/opensourcing_of_winamp_goes_badly/)
+  - Journalistic Media: [TheRegister.com](https://www.theregister.com/2024/10/16/opensourcing_of_winamp_goes_badly/)
 
 ### xenia-canary/xenia-canary
 
