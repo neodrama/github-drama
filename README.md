@@ -283,8 +283,8 @@ This is a curated collection of "dramatic" GitHub interactions.
 ### EpicGames/Signup
 
 - [EpicGames/Signup/pull/24](https://github.com/EpicGames/Signup/pull/24)
-  - Journalistic Media: [Y Combinator](https://news.ycombinator.com/item?id=31627061)
   - Notification spam of 400k GitHub users due to tagging @EpicGames/developers on GitHub
+  - Journalistic Media: [Y Combinator](https://news.ycombinator.com/item?id=31627061)
 
 ### facebook/react
 
@@ -294,6 +294,11 @@ This is a curated collection of "dramatic" GitHub interactions.
 ### facebookresearch/llama
 
 - [facebookresearch/llama/pull/73](https://github.com/facebookresearch/llama/pull/73) (archive: [1](https://archive.ph/ZvKFb), [2](https://web.archive.org/web/20230617162315/https://github.com/facebookresearch/llama/pull/73), [3](https://ghostarchive.org/archive/eUj93))
+  - Summary:
+    - Meta's LLaMA is a 65-billion-parameter large language model.
+    - The Register reported that "someone on 4Chan posted details on how to obtain the whole model via peer-to-peer file sharing, and eventually instructions on how to download it all were published on GitHub." (source: [The Register](https://www.theregister.com/2023/03/08/meta_llama_ai_leak/), March 8, 2023)
+    - The Guardian reported, "Initially posted to 4Chan, a link to the BitTorrent mirror of LLaMA eventually made it to GitHub" (source: [The Guardian](https://www.theguardian.com/technology/2023/mar/07/techscape-meta-leak-llama-chatgpt-ai-crossroads), March 7, 2023)
+    - A GitHub user opened a pull request containing the magnet link originated from 4chan /g/. (source: [pull/73](https://github.com/facebookresearch/llama/pull/73))
   - Journalistic Media:
     - [The Guardian](https://www.theguardian.com/technology/2023/mar/07/techscape-meta-leak-llama-chatgpt-ai-crossroads) (archive: [1](https://archive.ph/44CDu), [2](https://web.archive.org/web/20230617170443/https://www.theguardian.com/technology/2023/mar/07/techscape-meta-leak-llama-chatgpt-ai-crossroads), [3](https://ghostarchive.org/archive/zb4HJ))
     - [The Register](https://www.theregister.com/2023/03/08/meta_llama_ai_leak/) (archive: [1](https://archive.ph/PMXtD), [2](https://web.archive.org/web/20230617170626/https://www.theregister.com/2023/03/08/meta_llama_ai_leak/), [3](https://ghostarchive.org/archive/IP5dP))
@@ -306,11 +311,6 @@ This is a curated collection of "dramatic" GitHub interactions.
     - [Hacker News page 3](https://news.ycombinator.com/item?id=35007978&p=3) (archive: [1](https://archive.ph/sC12X), [2](https://web.archive.org/web/20230617203024/https://news.ycombinator.com/item?id=35007978&p=3), [3](https://ghostarchive.org/archive/tRiTU))
     - [rDrama](https://rdrama.net/h/slackernews/post/151549) (archive: [1](https://archive.ph/oByTw), [2](https://web.archive.org/web/20230617194604/https://rdrama.net/h/slackernews/post/151549), [3](https://ghostarchive.org/archive/Mh2ao))
     - [Reddit r/MachineLearning](https://old.reddit.com/r/MachineLearning/comments/11h3p2x/d_facebooks_llama_leaks_via_torrent_file_in_pr/) (archive: [1](https://archive.is/VFoTn), [2](https://web.archive.org/web/20230612032838/https://old.reddit.com/r/MachineLearning/comments/11h3p2x/d_facebooks_llama_leaks_via_torrent_file_in_pr/), [3](https://ghostarchive.org/archive/fpseV))
-  - Summary:
-    - Meta's LLaMA is a 65-billion-parameter large language model.
-    - The Register reported that "someone on 4Chan posted details on how to obtain the whole model via peer-to-peer file sharing, and eventually instructions on how to download it all were published on GitHub." (source: [The Register](https://www.theregister.com/2023/03/08/meta_llama_ai_leak/), March 8, 2023)
-    - The Guardian reported, "Initially posted to 4Chan, a link to the BitTorrent mirror of LLaMA eventually made it to GitHub" (source: [The Guardian](https://www.theguardian.com/technology/2023/mar/07/techscape-meta-leak-llama-chatgpt-ai-crossroads), March 7, 2023)
-    - A GitHub user opened a pull request containing the magnet link originated from 4chan /g/. (source: [pull/73](https://github.com/facebookresearch/llama/pull/73))
 
 ### fasterthanlime/42da9378768aebef662dd26dddf04849
 
