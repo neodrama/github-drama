@@ -408,8 +408,8 @@ This is a curated collection of "dramatic" GitHub interactions.
 ### indutny/node-ip
 
 - [github/advisory-database/pull/3504](https://github.com/github/advisory-database/pull/3504)
-  - Journalistic Media: [socket.dev/blog](https://Socket.dev/blog/node-ip-maintainer-restores-github-repo-after-archiving-due-to-overblown-cve-rating)
   - A GitHub Advisory Database entry flagged the NPM IP package as vulnerable to Server-Side Request Forgery (SSRF) attacks.
+  - Journalistic Media: [socket.dev/blog](https://Socket.dev/blog/node-ip-maintainer-restores-github-repo-after-archiving-due-to-overblown-cve-rating)
 
 ### iperov/DeepFaceLive
 
