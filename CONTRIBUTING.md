@@ -39,3 +39,9 @@ A new drama entry should follow the standardized formatting style used in the ma
 - If there are journalistic or media articles, add a `Journalistic Media:` section with links and archives at the bottom.
 - Write summaries in a neutral, factual style, avoiding personal opinions or advocacy.
 - Replace political or sensitive subjects with: ***⚠️ Sensitive Topic***
+
+- If there are non-github links that describe the drama, consider adding them. High priority external links to add are articles in popular journalistic media.
+
+ - Adding drama summary is not mandatory. In the simplest case the entry can just consist of the single link to the dramatic thread. Summary can be helpful when there are multiple links that need to be logically grouped to better understand the drama.
+
+ - When drama summary is added, it must be as neutral as possible. Describe facts and events, but **do not** assess drama participants' actions, advocate for any political/ideological views, or use a negative speech. When in doubt, leave out any details and make summary as short as possible.
