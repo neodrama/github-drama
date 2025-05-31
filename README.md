@@ -372,7 +372,7 @@ This is a curated collection of "dramatic" GitHub interactions.
 - [golang/go/issues/21956](https://github.com/golang/go/issues/21956)
   - A user advocated for moving Go's development workflow entirely to GitHub.
 - [golang/go/issues/33021](https://github.com/golang/go/issues/33021)
- -  A proposal suggested removing the Google logo from the Go website.
+  -  A proposal suggested removing the Google logo from the Go website.
 
 ### google/googletest
 
