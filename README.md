@@ -811,7 +811,7 @@ This is a curated collection of "dramatic" GitHub interactions.
 ### ptsteadman/notebook
 
 - [ptsteadman/notebook/pull/1](https://github.com/ptsteadman/notebook/pull/1) (archive: [1](https://web.archive.org/web/20230303201922/https://github.com/ptsteadman/notebook/pull/1), [2](https://archive.ph/H96PM))
-  - A minor typo fix PR led to off-topic comments and direct message drama, with the maintainer stepping in to request that discussions remain relevant and civil.
+  - A minor typo fix PR led to off-topic comments. 
 
 ### Pyca/Cryptography
 
