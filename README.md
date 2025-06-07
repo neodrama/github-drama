@@ -489,6 +489,8 @@ ldapjs/node-ldapjs
 * [/commit/8ffd0bc](https://github.com/ldapjs/node-ldapjs/commit/8ffd0bc9c149088a10ec4c1ec6a18450f76ad05d)
 * Discussion: [Hacker News](https://news.ycombinator.com/item?id=40370190), [4chan](https://desuarchive.org/g/thread/100523482/)
 
+[Legcord/Legcord/issues/745](https://github.com/Legcord/Legcord/issues/745)
+
 lerna/lerna
 * [/pull/1616](https://github.com/lerna/lerna/pull/1616)
 * [/pull/1619](https://github.com/lerna/lerna/pull/1619)
@@ -916,6 +918,8 @@ tj-actions/changed-files - Github action leaking secrets
 [ValveSoftware/steam-for-linux/issues/3671](https://github.com/ValveSoftware/steam-for-linux/issues/3671)
 
 [vcflib/vcflib/issues/206](https://github.com/vcflib/vcflib/issues/206)
+
+[ventoy/PXE/issues/106](https://github.com/ventoy/PXE/issues/106)
 
 [VHSgunzo/lutris-wine/issues/15](https://github.com/VHSgunzo/lutris-wine/issues/15)
 
