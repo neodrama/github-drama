@@ -1,9 +1,3 @@
-**Important:**
-
-- To edit, open a pull request. **We will merge it as soon as we see the notification.**
-
-- To receive notifications about the latest drama, subscribe to the [Community-Driven Happenings Feed](https://github.com/neodrama/github-drama/issues/2).
-
 # github-drama (community fork #2)
 
 This is a curated collection of "dramatic" GitHub interactions.
@@ -12,6 +6,8 @@ This is a curated collection of "dramatic" GitHub interactions.
 
 This repo is intended to point out controversial situations that come up in the world of software development, and not to harass anyone. Sometimes tensions build up in
 online interactions, and the intention of github-drama is to preserve links to such discussions so people can discover and read them.
+
+To receive notifications about the latest drama, subscribe to the [Community-Driven Happenings Feed](https://github.com/neodrama/github-drama/issues/2).
 
 For contributing guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
