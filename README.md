@@ -623,6 +623,11 @@ NanoAdblocker/NanoCore - Ownership transfer drama
 
 [NationalSecurityAgency/ghidra/issues/371](https://github.com/NationalSecurityAgency/ghidra/issues/371)
 
+nats-io/nats-server - License change
+* [issues/6832](https://github.com/nats-io/nats-server/issues/6832)
+* [cncf/toc/issues/1632](https://github.com/cncf/toc/issues/1632)
+* [CNCF tells main NATS contributor Synadia that it's free to fork off](https://www.theregister.com/2025/04/28/cncf_synadia_nats_dispute/)
+
 nextcloud/android - Unintentional synchronization of all files
 * [nextcloud/android/issues/13738](https://github.com/nextcloud/android/issues/13738)
 * [nextcloud/android/issues/13872](https://github.com/nextcloud/android/issues/13872)
