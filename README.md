@@ -926,6 +926,8 @@ tj-actions/changed-files - Github action leaking secrets
 
 [ventoy/PXE/issues/106](https://github.com/ventoy/PXE/issues/106)
 
+[VHSgunzo/lutris-wine/issues/15 (archive)](https://archive.ph/iPHIp)
+
 [vimeo/player.js/issues/28](https://github.com/vimeo/player.js/issues/28)
 
 voat/voat - Scalability drama
