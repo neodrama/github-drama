@@ -112,6 +112,9 @@ daeuniverse/dae
 [django/django/pull/2692](https://github.com/django/django/pull/2692)
 * Django replaced occurrences of master/slave terminology with leader/follower.
 
+[django/django/pull/19631](https://github.com/django/django/pull/19631)
+* Microoptimizations are the threat and CoC stands against them.
+
 [docker/docker/pull/31075](https://github.com/docker/docker/pull/31075)
 * Docker switched to a YY.MM versioning scheme, sparking debate over semantic versioning and release cadence.
 
