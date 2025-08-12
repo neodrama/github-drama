@@ -854,6 +854,10 @@ raivo-otp/ios-application
   * Google is prototyping a browser fingerprinting API that detects the browser's build, extensions, and overall environment around it.
   * This API allows for websites to collectively exclude all browsers and users that do not use any browser, extension, or OS approved (attested) by Google themselves, essentially forcing all browser developers to register their web browser to Google for testing, and disallowing most Chromium forks.
 
+rust-lang/team - Moderation team resignation
+* [/pull/671](https://github.com/rust-lang/team/pull/671)
+* [news.ycombinator.com/item?id=29306845](https://news.ycombinator.com/item?id=29306845)
+
 [robertdavidgraham/masscan/issues/482](https://github.com/robertdavidgraham/masscan/issues/482)
 
 [rollup/rollup/issues/2716](https://github.com/rollup/rollup/issues/2716)
