@@ -936,6 +936,8 @@ tj-actions/changed-files - Github action leaking secrets
 
 [vimeo/player.js/issues/28](https://github.com/vimeo/player.js/issues/28)
 
+[vlang/v/issues/35](https://github.com/vlang/v/issues/35)
+
 voat/voat - Scalability drama
 - [issues/445](https://github.com/voat/voat/issues/445)
 - [issues/446](https://github.com/voat/voat/issues/446)
