@@ -830,7 +830,7 @@ raivo-otp/ios-application
 
 [redis-rs/redis-rs/issues/1419](https://github.com/redis-rs/redis-rs/issues/1419)
 
-[github.com/Red-Killer/shit/issues/1](https://github.com/Red-Killer/shit/issues/1)
+[Red-Killer/shit/issues/1](https://github.com/Red-Killer/shit/issues/1)
 
 [resque/resque/issues/1406](https://github.com/resque/resque/issues/1406)
 
