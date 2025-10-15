@@ -755,6 +755,10 @@ palantir/tslint
 
 [pkgxdev/pantry/issues/5358](https://github.com/pkgxdev/pantry/issues/5358)
 
+Plan-Vert/open-letter
+* [/pull/32](https://github.com/Plan-Vert/open-letter/pull/32)
+* https://www.piratewires.com/p/david-heinemeier-hansson-ruby-petition-nazi-permission-slip-violence
+
 PolyMC/PolyMC
 * [/commit/ccf2825](https://github.com/PolyMC/PolyMC/commit/ccf282593dcdbe189c99b81b8bc90cb203aed3ee)
 * [/issues/656](https://github.com/PolyMC/PolyMC/issues/656)
