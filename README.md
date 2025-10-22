@@ -604,14 +604,14 @@ Microsoft/vscode - Santa hat drama
 
 [Microsoft/web-build-tools/issues/673](https://github.com/Microsoft/web-build-tools/issues/673)
 
-[mishoo/UglifyJS2/issues/2054](https://github.com/mishoo/UglifyJS2/issues/2054)
-
-[moment/moment/issues/1407](https://github.com/moment/moment/issues/1407)
-
 minio/minio - MinIO (apparently) becomes source-only (disabled docker release right before a severe CVE patching) + UI feature removal
 * [issues/21647](https://github.com/minio/minio/issues/21647)
 * [issues/3546](https://github.com/minio/object-browser/issues/3546)
 * [hackernews/45665452](https://news.ycombinator.com/item?id=45665452)
+
+[mishoo/UglifyJS2/issues/2054](https://github.com/mishoo/UglifyJS2/issues/2054)
+
+[moment/moment/issues/1407](https://github.com/moment/moment/issues/1407)
 
 moq/moq - Privacy issues with SponsorLink
 * [issues/1370](https://github.com/moq/moq/issues/1370)
