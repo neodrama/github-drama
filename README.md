@@ -608,6 +608,11 @@ Microsoft/vscode - Santa hat drama
 
 [moment/moment/issues/1407](https://github.com/moment/moment/issues/1407)
 
+minio/minio - MinIO (apparently) becomes source-only (disabled docker release right after a severe CVE patching) + UI feature removal
+* [issues/21647](https://github.com/minio/minio/issues/21647)
+* [issues/3546](https://github.com/minio/object-browser/issues/3546)
+* [hackernews/45665452](https://news.ycombinator.com/item?id=45665452)
+
 moq/moq - Privacy issues with SponsorLink
 * [issues/1370](https://github.com/moq/moq/issues/1370)
 * [issues/1372](https://github.com/moq/moq/issues/1372)
