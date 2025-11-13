@@ -316,6 +316,9 @@ dotnet-foundation/Home - .NET Foundation ReactiveUI PR drama
     [archive.ph](https://archive.ph/C1QU3),
     [archive.org](https://web.archive.org/web/20230305151246/https://github.com/Feodor2/Centaury/issues/40),
     [ghostarchive](https://ghostarchive.org/archive/ZlSuv)
+* Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software
+  * [homebrew/brew/20799](https://github.com/Homebrew/brew/issues/20755)
+  * [hackernews discussion](https://news.ycombinator.com/item?id=45907259)
 * Journalism on Kiwifarms:
   * [kiwifarms 99665](https://kiwifarms.net/threads/mypal-browser-is-dead.99665/),
     [archive.ph](https://archive.ph/UF9fp),
