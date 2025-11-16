@@ -316,9 +316,6 @@ dotnet-foundation/Home - .NET Foundation ReactiveUI PR drama
     [archive.ph](https://archive.ph/C1QU3),
     [archive.org](https://web.archive.org/web/20230305151246/https://github.com/Feodor2/Centaury/issues/40),
     [ghostarchive](https://ghostarchive.org/archive/ZlSuv)
-* Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software
-  * [homebrew/brew/20799](https://github.com/Homebrew/brew/issues/20755)
-  * [hackernews discussion](https://news.ycombinator.com/item?id=45907259)
 * Journalism on Kiwifarms:
   * [kiwifarms 99665](https://kiwifarms.net/threads/mypal-browser-is-dead.99665/),
     [archive.ph](https://archive.ph/UF9fp),
@@ -428,6 +425,10 @@ dotnet-foundation/Home - .NET Foundation ReactiveUI PR drama
 [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - Donations icon issue
 * [/issues/2274](https://github.com/home-sweet-gnome/dash-to-panel/issues/2274)
 * [Dash to Panel maintainer quits after donations drive becomes dash to disaster](https://www.theregister.com/2025/03/14/dashtopanel_maintainer_quits/)
+
+Homebrew/brew - Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software
+* [/issues/20755](https://github.com/Homebrew/brew/issues/20755)
+* [hackernews discussion](https://news.ycombinator.com/item?id=45907259)
 
 [Homebrew/homebrew-core/issues/24654](https://github.com/Homebrew/homebrew-core/issues/24654) (archive: [1](https://web.archive.org/web/20190117063442/https://github.com/Homebrew/homebrew-core/issues/24654), [2](https://archive.today/JiS6i))
 * Homebrew user questioned whether Apache httpd should be a dependency for PHP.
