@@ -428,6 +428,8 @@ dotnet-foundation/Home - .NET Foundation ReactiveUI PR drama
 
 Homebrew/brew - Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software
 * [/issues/20755](https://github.com/Homebrew/brew/issues/20755)
+* [/discussions/6482](https://github.com/orgs/Homebrew/discussions/6482)
+* [alacritty/alacritty/issues/8749](https://github.com/alacritty/alacritty/issues/8749)
 * [hackernews discussion](https://news.ycombinator.com/item?id=45907259)
 
 [Homebrew/homebrew-core/issues/24654](https://github.com/Homebrew/homebrew-core/issues/24654) (archive: [1](https://web.archive.org/web/20190117063442/https://github.com/Homebrew/homebrew-core/issues/24654), [2](https://archive.today/JiS6i))
