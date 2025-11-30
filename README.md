@@ -395,6 +395,9 @@ dotnet-foundation/Home - .NET Foundation ReactiveUI PR drama
 [ggerganov/llama.cpp/pull/711](https://github.com/ggerganov/llama.cpp/pull/711)
 * A pull request proposed reverting a breaking change to the model format and mmap support.
 
+[github/action/runner-images/13341](https://github.com/actions/runner-images/issues/13341) - GitHub rolls out a broken change in macos runner images that failed hashFiles().
+* more discussion: https://github.com/orgs/community/discussions/180160
+
 [github/dmca](https://github.com/github/dmca) - youtube-dl takedown
 * [pull/8122](https://github.com/github/dmca/pull/8122) ([archive.org](https://web.archive.org/web/20230129084646/https://github.com/github/dmca/pull/8122
 ), [archive.ph](https://archive.ph/l1oh6))
