@@ -17,6 +17,10 @@ This repository is [neodrama/github-drama](https://github.com/neodrama/github-dr
 
 ---
 
+actions/runner-images - GitHub rolls out a broken change in macos runner images that failed hashFiles()
+* [issues/13341](https://github.com/actions/runner-images/issues/13341) 
+* [github.com/orgs/community/discussions/180160](https://github.com/orgs/community/discussions/180160)
+
 [actix/actix-web](https://github.com/actix/actix-web)
 * [issues/1289](https://github.com/actix/actix-web/issues/1289)
 * [www.theregister.com/2020/01/21/rust_actix_web_framework_maintainer_quits/](https://www.theregister.com/2020/01/21/rust_actix_web_framework_maintainer_quits/)
@@ -395,8 +399,10 @@ dotnet-foundation/Home - .NET Foundation ReactiveUI PR drama
 [ggerganov/llama.cpp/pull/711](https://github.com/ggerganov/llama.cpp/pull/711)
 * A pull request proposed reverting a breaking change to the model format and mmap support.
 
-[github/action/runner-images/13341](https://github.com/actions/runner-images/issues/13341) - GitHub rolls out a broken change in macos runner images that failed hashFiles().
-* more discussion: https://github.com/orgs/community/discussions/180160
+github - Shai-Hulud npm worm
+* [Our plan for a more secure npm supply chain](https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/)
+* [scttcper/tinycolor/issues/257](https://github.com/scttcper/tinycolor/issues/257)
+* [The Shai-Hulud 2.0 npm worm: analysis, and what you need to know](https://securitylabs.datadoghq.com/articles/shai-hulud-2.0-npm-worm/)
 
 [github/dmca](https://github.com/github/dmca) - youtube-dl takedown
 * [pull/8122](https://github.com/github/dmca/pull/8122) ([archive.org](https://web.archive.org/web/20230129084646/https://github.com/github/dmca/pull/8122
