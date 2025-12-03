@@ -623,6 +623,7 @@ minio/minio - MinIO (apparently) becomes source-only (disabled docker release ri
 * [issues/21647](https://github.com/minio/minio/issues/21647)
 * [issues/3546](https://github.com/minio/object-browser/issues/3546)
 * [hackernews/45665452](https://news.ycombinator.com/item?id=45665452)
+* minio officially entered maintenance mode and stopped accepting new changes: https://news.ycombinator.com/item?id=46136023
 
 [mishoo/UglifyJS2/issues/2054](https://github.com/mishoo/UglifyJS2/issues/2054)
 
