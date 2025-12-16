@@ -413,6 +413,9 @@ github - Shai-Hulud npm worm
 * [github/dmca/blob/master/2021/02/2021-02-19-take-two.md](https://github.com/github/dmca/blob/master/2021/02/2021-02-19-take-two.md)
 * [pull/8839](https://web.archive.org/web/20210320220522/https://github.com/github/dmca/pull/8839) (archived)
 
+[github/runner/pricing](https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/) - GitHub will begin charging for self-hosted action runners on March 2026
+* hackernews discussion: https://news.ycombinator.com/item?id=46291414
+
 [golang/go/issues/21956](https://github.com/golang/go/issues/21956)
 * A user advocated for moving Go's development workflow entirely to GitHub.
 
