@@ -689,6 +689,9 @@ nodejs/node
 [obsproject/obs-studio/pull/10043](https://github.com/obsproject/obs-studio/pull/10043)
 * Single JSON change that adds another streaming service rejected by maintainer with zero commits in the last few days, citing not meeting unspecified requirements.
 
+[ocaml/ocaml/pull/14369](https://github.com/ocaml/ocaml/pull/14369)
+* AI-generated contribution fails to declare AI usage upfront, contains code credited to another author, maintainers interject about the amount of work required to review such pull request
+
 oerdnj/deb.sury.org
 * [archive.ph](https://archive.ph/ylh6j)
 * [archive.org](https://web.archive.org/web/20220928005729/https://github.com/oerdnj/deb.sury.org/issues/1768)
