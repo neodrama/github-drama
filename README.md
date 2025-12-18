@@ -415,6 +415,9 @@ github - Shai-Hulud npm worm
 
 [github/runner/pricing](https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/) - GitHub will begin charging for self-hosted action runners on March 2026 on private repositories
 * hackernews discussion: https://news.ycombinator.com/item?id=46291414
+* Github reversed above decision the next day:
+  * https://x.com/github/status/2001372894882918548
+  * Related news article: https://www.theregister.com/2025/12/17/github_charge_dev_own_hardware/
 
 [golang/go/issues/21956](https://github.com/golang/go/issues/21956)
 * A user advocated for moving Go's development workflow entirely to GitHub.
