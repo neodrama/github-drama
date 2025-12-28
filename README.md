@@ -874,6 +874,11 @@ raivo-otp/ios-application
 
 [rms-open-letter](https://rms-open-letter.github.io/)
 
+[rockchip-linux/mpp LGPL license violation of dirstributing ffmpeg source code for more than a year](https://web.archive.org/web/20251103193914/https://github.com/rockchip-linux/mpp/issues/530)
+* hackernews: https://news.ycombinator.com/item?id=46394327
+* ffmpeg twitter on initial callout to rockchip: https://x.com/FFmpeg/status/1761005762233413654
+* ffmpeg twitter on the dmca takedown: https://x.com/FFmpeg/status/2004599109559496984
+
 [RupertBenWiser/Web-Environment-Integrity](https://github.com/RupertBenWiser/Web-Environment-Integrity),
 [archive.ph](https://archive.ph/cNRgr),
 [archive.org](http://web.archive.org/web/20230722053542/https://github.com/RupertBenWiser/Web-Environment-Integrity),
