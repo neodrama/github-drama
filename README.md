@@ -404,6 +404,13 @@ github - Shai-Hulud npm worm
 * [scttcper/tinycolor/issues/257](https://github.com/scttcper/tinycolor/issues/257)
 * [The Shai-Hulud 2.0 npm worm: analysis, and what you need to know](https://securitylabs.datadoghq.com/articles/shai-hulud-2.0-npm-worm/)
 
+github - Actions self-hosted runners pricing changes
+* On March 2026, Github plans to begin charging for self-hosted runners on private repositories. They reversed this decision the next day.
+* https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/
+* hackernews discussion: https://news.ycombinator.com/item?id=46291414
+* https://x.com/github/status/2001372894882918548
+* https://www.theregister.com/2025/12/17/github_charge_dev_own_hardware/
+
 [github/dmca](https://github.com/github/dmca) - youtube-dl takedown
 * [pull/8122](https://github.com/github/dmca/pull/8122) ([archive.org](https://web.archive.org/web/20230129084646/https://github.com/github/dmca/pull/8122
 ), [archive.ph](https://archive.ph/l1oh6))
@@ -412,12 +419,6 @@ github - Shai-Hulud npm worm
 [github/dmca](https://github.com/github/dmca) - GTAmodding/re3 drama
 * [github/dmca/blob/master/2021/02/2021-02-19-take-two.md](https://github.com/github/dmca/blob/master/2021/02/2021-02-19-take-two.md)
 * [pull/8839](https://web.archive.org/web/20210320220522/https://github.com/github/dmca/pull/8839) (archived)
-
-[github/runner/pricing](https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/) - GitHub will begin charging for self-hosted action runners on March 2026 on private repositories
-* hackernews discussion: https://news.ycombinator.com/item?id=46291414
-* Github reversed above decision the next day:
-  * https://x.com/github/status/2001372894882918548
-  * Related news article: https://www.theregister.com/2025/12/17/github_charge_dev_own_hardware/
 
 [golang/go/issues/21956](https://github.com/golang/go/issues/21956)
 * A user advocated for moving Go's development workflow entirely to GitHub.
@@ -874,7 +875,8 @@ raivo-otp/ios-application
 
 [rms-open-letter](https://rms-open-letter.github.io/)
 
-[rockchip-linux/mpp LGPL license violation of dirstributing ffmpeg source code for more than a year](https://web.archive.org/web/20251103193914/https://github.com/rockchip-linux/mpp/issues/530)
+rockchip-linux/mpp - LGPL license violation of distributing ffmpeg source code for more than a year
+* [/issues/530](https://web.archive.org/web/20251103193914/https://github.com/rockchip-linux/mpp/issues/530)
 * hackernews: https://news.ycombinator.com/item?id=46394327
 * ffmpeg twitter on initial callout to rockchip: https://x.com/FFmpeg/status/1761005762233413654
 * ffmpeg twitter on the dmca takedown: https://x.com/FFmpeg/status/2004599109559496984
