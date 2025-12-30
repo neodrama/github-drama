@@ -636,6 +636,11 @@ minio/minio - MinIO (apparently) becomes source-only (disabled docker release ri
 
 [moment/moment/issues/1407](https://github.com/moment/moment/issues/1407)
 
+MongoBleed - A MongoDB High CVE (8.7) disclosed on 12/19/2025:
+* The tech lead of Elastic Security published a POC of the CVE right on Christmas day of 2025: https://github.com/joe-desimone/mongobleed/issues/4
+* People found out the PR that cause this CVE back in 2017: https://github.com/mongodb/mongo/pull/1152#issuecomment-3695333733
+* HackerNews: https://news.ycombinator.com/item?id=46414475
+
 moq/moq - Privacy issues with SponsorLink
 * [issues/1370](https://github.com/moq/moq/issues/1370)
 * [issues/1372](https://github.com/moq/moq/issues/1372)
