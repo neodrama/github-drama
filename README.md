@@ -696,6 +696,11 @@ nodejs/node
 
 [npm/npm/issues/19883](https://github.com/npm/npm/issues/19883)
 
+1Password - op chrome extension injects prism.js globally on every page, break codeblocks, despite issues raised by multiple community threads during beta stage:
+* Original Twitter Thread: https://x.com/ShengSlogar/status/2005897930436403632
+* Vue.js / Vite creator Yuxi You Tweet: https://x.com/youyuxi/status/2005904473332564339
+* OP forum thread: https://www.1password.community/discussions/developers/bug-beta-and-nightly-extension-degrade-pages-original-functionallity/165329
+
 [obsproject/obs-studio/pull/2868](https://github.com/obsproject/obs-studio/pull/2868#issuecomment-1134053984)
 
 [obsproject/obs-studio/pull/10043](https://github.com/obsproject/obs-studio/pull/10043)
