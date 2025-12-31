@@ -636,6 +636,11 @@ minio/minio - MinIO (apparently) becomes source-only (disabled docker release ri
 
 [moment/moment/issues/1407](https://github.com/moment/moment/issues/1407)
 
+MongoBleed - A MongoDB High CVE (8.7) disclosed on 12/19/2025:
+* The tech lead of Elastic Security published a POC of the CVE right on Christmas day of 2025: https://github.com/joe-desimone/mongobleed/issues/4
+* People found out the PR that cause this CVE back in 2017: https://github.com/mongodb/mongo/pull/1152#issuecomment-3695333733
+* HackerNews: https://news.ycombinator.com/item?id=46414475
+
 moq/moq - Privacy issues with SponsorLink
 * [issues/1370](https://github.com/moq/moq/issues/1370)
 * [issues/1372](https://github.com/moq/moq/issues/1372)
@@ -690,6 +695,11 @@ nodejs/node
 [nodejs/TSC/issues/8](https://github.com/nodejs/TSC/issues/8)
 
 [npm/npm/issues/19883](https://github.com/npm/npm/issues/19883)
+
+1Password - op chrome extension injects prism.js globally on every page, break codeblocks, despite issues raised by multiple community threads during beta stage:
+* Original Twitter Thread: https://x.com/ShengSlogar/status/2005897930436403632
+* Vue.js / Vite creator Yuxi You Tweet: https://x.com/youyuxi/status/2005904473332564339
+* OP forum thread: https://www.1password.community/discussions/developers/bug-beta-and-nightly-extension-degrade-pages-original-functionallity/165329
 
 [obsproject/obs-studio/pull/2868](https://github.com/obsproject/obs-studio/pull/2868#issuecomment-1134053984)
 
