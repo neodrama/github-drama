@@ -950,6 +950,11 @@ systemd/systemd
 * [/issues/6259](https://github.com/systemd/systemd/issues/6259)
 * [/issues/6369](https://github.com/systemd/systemd/issues/6369)
 
+tailwind css reject AI/LLM optimized docs PR, and reveal that they have laid off 75% of employee just yesterday:
+* https://github.com/tailwindlabs/tailwindcss.com/pull/2388
+* hackernews: https://news.ycombinator.com/item?id=46527950
+* tailwind css creator talk about they only have 6 months left: https://x.com/adamwathan/status/2008909129591443925
+
 [tc39/proposal-cancelable-promises/issues/70](https://github.com/tc39/proposal-cancelable-promises/issues/70)
 
 [telegramdesktop/tdesktop/issues/96](https://github.com/telegramdesktop/tdesktop/issues/96)
