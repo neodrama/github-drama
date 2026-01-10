@@ -93,6 +93,7 @@ chrisaljoudi/uBlock - Ownership transfer/donations drama
 * Anthropics blocked 3rd party tools using claude API and issue error messages,
 * More issues from opencode github repo: https://github.com/anomalyco/opencode/issues/7410
 * Claude issued statement on twitter later on and closed original issue: https://x.com/trq212/status/2009689809875591565
+* hackernews: https://news.ycombinator.com/item?id=46549823
 
 [CleverRaven/Cataclysm-DDA/pull/51079](https://github.com/CleverRaven/Cataclysm-DDA/pull/51079)
 
