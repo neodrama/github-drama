@@ -959,6 +959,7 @@ tailwind css reject AI/LLM optimized docs PR, and reveal that they have laid off
 * https://github.com/tailwindlabs/tailwindcss.com/pull/2388
 * hackernews: https://news.ycombinator.com/item?id=46527950
 * tailwind css creator talk about they only have 6 months left: https://x.com/adamwathan/status/2008909129591443925
+* Google AI Studio starts sponsoring tailwind css: https://news.ycombinator.com/item?id=46545077
 
 [tc39/proposal-cancelable-promises/issues/70](https://github.com/tc39/proposal-cancelable-promises/issues/70)
 
