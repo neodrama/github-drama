@@ -89,6 +89,11 @@ chrisaljoudi/uBlock - Ownership transfer/donations drama
 * [/issues/1153](https://github.com/uBlock-LLC/uBlock/issues/1153)
 * A contributor accused the maintainer of soliciting donations for work done by others.
 
+[claude-code](https://github.com/anthropics/claude-code/issues/17118)
+* Anthropics blocked 3rd party tools using claude API and issue error messages,
+* More issues from opencode github repo: https://github.com/anomalyco/opencode/issues/7410
+* Claude issued statement on twitter later on and closed original issue: https://x.com/trq212/status/2009689809875591565
+
 [CleverRaven/Cataclysm-DDA/pull/51079](https://github.com/CleverRaven/Cataclysm-DDA/pull/51079)
 
 [cloudflare/wildebeest/issues/303](https://github.com/cloudflare/wildebeest/issues/303),
