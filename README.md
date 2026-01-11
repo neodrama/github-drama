@@ -89,6 +89,12 @@ chrisaljoudi/uBlock - Ownership transfer/donations drama
 * [/issues/1153](https://github.com/uBlock-LLC/uBlock/issues/1153)
 * A contributor accused the maintainer of soliciting donations for work done by others.
 
+[claude-code](https://github.com/anthropics/claude-code/issues/17118)
+* Anthropics blocked 3rd party tools using claude API and issue error messages,
+* More issues from opencode github repo: https://github.com/anomalyco/opencode/issues/7410
+* Claude issued statement on twitter later on and closed original issue: https://x.com/trq212/status/2009689809875591565
+* hackernews: https://news.ycombinator.com/item?id=46549823
+
 [CleverRaven/Cataclysm-DDA/pull/51079](https://github.com/CleverRaven/Cataclysm-DDA/pull/51079)
 
 [cloudflare/wildebeest/issues/303](https://github.com/cloudflare/wildebeest/issues/303),
@@ -636,6 +642,11 @@ minio/minio - MinIO (apparently) becomes source-only (disabled docker release ri
 
 [moment/moment/issues/1407](https://github.com/moment/moment/issues/1407)
 
+MongoBleed - A MongoDB High CVE (8.7) disclosed on 12/19/2025:
+* The tech lead of Elastic Security published a POC of the CVE right on Christmas day of 2025: https://github.com/joe-desimone/mongobleed/issues/4
+* People found out the PR that cause this CVE back in 2017: https://github.com/mongodb/mongo/pull/1152#issuecomment-3695333733
+* HackerNews: https://news.ycombinator.com/item?id=46414475
+
 moq/moq - Privacy issues with SponsorLink
 * [issues/1370](https://github.com/moq/moq/issues/1370)
 * [issues/1372](https://github.com/moq/moq/issues/1372)
@@ -690,6 +701,11 @@ nodejs/node
 [nodejs/TSC/issues/8](https://github.com/nodejs/TSC/issues/8)
 
 [npm/npm/issues/19883](https://github.com/npm/npm/issues/19883)
+
+1Password - op chrome extension injects prism.js globally on every page, break codeblocks, despite issues raised by multiple community threads during beta stage:
+* Original Twitter Thread: https://x.com/ShengSlogar/status/2005897930436403632
+* Vue.js / Vite creator Yuxi You Tweet: https://x.com/youyuxi/status/2005904473332564339
+* OP forum thread: https://www.1password.community/discussions/developers/bug-beta-and-nightly-extension-degrade-pages-original-functionallity/165329
 
 [obsproject/obs-studio/pull/2868](https://github.com/obsproject/obs-studio/pull/2868#issuecomment-1134053984)
 
@@ -939,6 +955,12 @@ systemd/systemd
 * [/issues/6237](https://github.com/systemd/systemd/issues/6237)
 * [/issues/6259](https://github.com/systemd/systemd/issues/6259)
 * [/issues/6369](https://github.com/systemd/systemd/issues/6369)
+
+tailwind css reject AI/LLM optimized docs PR, and reveal that they have laid off 75% of employee just yesterday:
+* https://github.com/tailwindlabs/tailwindcss.com/pull/2388
+* hackernews: https://news.ycombinator.com/item?id=46527950
+* tailwind css creator talk about they only have 6 months left: https://x.com/adamwathan/status/2008909129591443925
+* Google AI Studio starts sponsoring tailwind css: https://news.ycombinator.com/item?id=46545077
 
 [tc39/proposal-cancelable-promises/issues/70](https://github.com/tc39/proposal-cancelable-promises/issues/70)
 
