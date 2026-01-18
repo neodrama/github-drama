@@ -432,6 +432,9 @@ github - Actions self-hosted runners pricing changes
 [golang/go/issues/33021](https://github.com/golang/go/issues/33021)
 * A proposal suggested removing the Google logo from the Go website
 
+[google-gemini/gemini-cli/issues/16750](https://github.com/google-gemini/gemini-cli/issues/16750)
+* `gemini-cli` run amok, a bot argues with itself.
+
 [google/googletest/issues/1660](https://github.com/google/googletest/issues/1660)
 * Google Test's documentation was criticized for being unclear
 
