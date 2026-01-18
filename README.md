@@ -954,8 +954,9 @@ systemd/systemd
 * [/issues/6259](https://github.com/systemd/systemd/issues/6259)
 * [/issues/6369](https://github.com/systemd/systemd/issues/6369)
 
-tailwind css reject AI/LLM optimized docs PR, and reveal that they have laid off 75% of employee just yesterday:
-* https://github.com/tailwindlabs/tailwindcss.com/pull/2388
+tailwindlabs/tailwindcss.com
+* tailwind css reject AI/LLM optimized docs PR, and reveal that they have laid off 75% of employee just yesterday
+* [/pull/2388](https://github.com/tailwindlabs/tailwindcss.com/pull/2388)
 * hackernews: https://news.ycombinator.com/item?id=46527950
 * tailwind css creator talk about they only have 6 months left: https://x.com/adamwathan/status/2008909129591443925
 * Google AI Studio starts sponsoring tailwind css: https://news.ycombinator.com/item?id=46545077
@@ -977,9 +978,10 @@ tj-actions/changed-files - Github action leaking secrets
 * [issues/2464](https://github.com/tj-actions/changed-files/issues/2464)
 * [GitHub supply chain attack spills secrets from 23000 projects](https://www.theregister.com/2025/03/17/supply_chain_attack_github/)
 
-tldraw pauses external contribution due to AI slop:
-* https://github.com/tldraw/tldraw/issues/7695
-* Hackernews:  https://news.ycombinator.com/item?id=46641042
+tldraw/tldraw
+* tldraw pauses external contribution due to AI slop
+* [/issues/7695](https://github.com/tldraw/tldraw/issues/7695)
+* Hackernews: https://news.ycombinator.com/item?id=46641042
 
 [todogroup/opencodeofconduct/pull/70](https://github.com/todogroup/opencodeofconduct/pull/70)
 
