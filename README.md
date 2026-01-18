@@ -977,6 +977,10 @@ tj-actions/changed-files - Github action leaking secrets
 * [issues/2464](https://github.com/tj-actions/changed-files/issues/2464)
 * [GitHub supply chain attack spills secrets from 23000 projects](https://www.theregister.com/2025/03/17/supply_chain_attack_github/)
 
+tldraw pauses external contribution due to AI slop:
+* https://github.com/tldraw/tldraw/issues/7695
+* Hackernews:  https://news.ycombinator.com/item?id=46641042
+
 [todogroup/opencodeofconduct/pull/70](https://github.com/todogroup/opencodeofconduct/pull/70)
 
 [tootsuite/mastodon/pull/9898](https://github.com/tootsuite/mastodon/pull/9898)
