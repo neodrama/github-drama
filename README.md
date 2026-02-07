@@ -45,6 +45,10 @@ actions/runner-images - GitHub rolls out a broken change in macos runner images 
 [ant-design/ant-design/issues/13098](https://github.com/ant-design/ant-design/issues/13098)
 * A Christmas-themed easter egg in the UI library triggers a request for a prop to disable it.
 
+[anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler/issues/1)
+* Anthropics' Claude Opus 4.6 wrote a dependency-free C compiler in Rust, but cannot compile a hello world example
+* Later discover shows a path issue as the compiler still function as expected: https://news.ycombinator.com/item?id=46920922
+
 [ariya/phantomjs/issues/15345](https://github.com/ariya/phantomjs/issues/15345)
 * A new maintainer announces his suspension of PhantomJS development.
 
