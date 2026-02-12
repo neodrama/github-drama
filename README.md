@@ -1055,6 +1055,13 @@ ultralytics/ultralytics - Github action vulnerability
   * [rDrama](https://rdrama.net/h/slackernews/post/250030/nintendo-yuzu-lolsuit-was-kicked-off)
   * [4chan /g/ 99245995](https://boards.4chan.org/g/thread/99245995) [(archive)](https://desuarchive.org/g/thread/99245995/)
 
+[ZDoom/gzdoom](https://github.com/ZDoom/gzdoom) - Pushing untested AI-generated code to `master`
+* Original creator and leader of the project pushes untested AI-generated code to `master`.
+* Fellow maintainers call him out and ask him to open pull requests instead of pushing directly to `master`.
+* He tells them to fork if they don’t like his behavior.
+* [issues/3395](https://github.com/ZDoom/gzdoom/issues/3395)
+* [Ars Technica article](https://arstechnica.com/gaming/2025/10/civil-war-gzdoom-fan-developers-split-off-over-use-of-chatgpt-generated-code)
+
 [zedeus/nitter/issues/983](https://github.com/zedeus/nitter/issues/983)
 
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
