@@ -545,6 +545,10 @@ Marak/colors.js
 * [colors.js/issues/290](https://github.com/Marak/colors.js/issues/290)
 * [faker.js/issues/1046](https://web.archive.org/web/20210704022108/https://github.com/Marak/faker.js/issues/1046)
 
+[matplotlab/matplotlab](https://github.com/matplotlib/matplotlib/pull/31132)
+* Matplotlab maintainer closes a PR opened by a AI agent, who later wrote a blogpost to shames the maintainer who closes it
+* Hackernews: https://news.ycombinator.com/item?id=46987559
+
 [mdn/yari](https://github.com/mdn/yari),
 [archive.ph](https://archive.ph/z2ooy),
 [archive.org](https://web.archive.org/web/20230724121235/https://github.com/mdn/yari),
