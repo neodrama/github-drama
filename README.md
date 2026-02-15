@@ -545,6 +545,10 @@ Marak/colors.js
 * [colors.js/issues/290](https://github.com/Marak/colors.js/issues/290)
 * [faker.js/issues/1046](https://web.archive.org/web/20210704022108/https://github.com/Marak/faker.js/issues/1046)
 
+[matplotlab/matplotlab](https://github.com/matplotlib/matplotlib/pull/31132)
+* Matplotlab maintainer closes a PR opened by a AI agent, who later wrote a blogpost to shames the maintainer who closes it
+* Hackernews: https://news.ycombinator.com/item?id=46987559
+
 [mdn/yari](https://github.com/mdn/yari),
 [archive.ph](https://archive.ph/z2ooy),
 [archive.org](https://web.archive.org/web/20230724121235/https://github.com/mdn/yari),
@@ -644,6 +648,8 @@ minio/minio - MinIO (apparently) becomes source-only (disabled docker release ri
 * [issues/3546](https://github.com/minio/object-browser/issues/3546)
 * [hackernews/45665452](https://news.ycombinator.com/item?id=45665452)
 * minio officially entered maintenance mode and stopped accepting new changes: https://news.ycombinator.com/item?id=46136023
+* minio no longer maintained on github and redirect to their website download page: https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f
+  * https://news.ycombinator.com/item?id=47000041
 
 [mishoo/UglifyJS2/issues/2054](https://github.com/mishoo/UglifyJS2/issues/2054)
 
