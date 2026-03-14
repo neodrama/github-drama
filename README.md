@@ -49,6 +49,13 @@ actions/runner-images - GitHub rolls out a broken change in macos runner images 
 * Anthropics' Claude Opus 4.6 wrote a dependency-free C compiler in Rust, but cannot compile a hello world example
 * Later discover shows a path issue as the compiler still function as expected: https://news.ycombinator.com/item?id=46920922
 
+[anddea/revanced-patches/issues/1424](https://github.com/anddea/revanced-patches/issues/1424)
+* Morphe team (original patch authors) demands that the ReVanced "Spoof Clients" patch maintainer add an in-app attribution notice for Morphe, claiming their GPL license requires this.
+* willing to credit Morphe but wants to acknowledge all upstream contributors (yt-dlp, NewPipe, J2V8, ReVanced, RVX, etc.), since the patch is derivative of multiple projects.
+* Morphe insists that their GPL license, via a "section 7" clause, requires UI-level attribution—even for merged GPL projects—and refers to a Stack Overflow post as justification.
+* anddea argues that forced UI elements aren’t actually mandated, repo/readme credit is sufficient, and attribution should be fair and consistent across all codebases.
+
+
 [ariya/phantomjs/issues/15345](https://github.com/ariya/phantomjs/issues/15345)
 * A new maintainer announces his suspension of PhantomJS development.
 
