@@ -970,6 +970,7 @@ systemd/systemd
 * [/issues/6237](https://github.com/systemd/systemd/issues/6237)
 * [/issues/6259](https://github.com/systemd/systemd/issues/6259)
 * [/issues/6369](https://github.com/systemd/systemd/issues/6369)
+* [/pull/40954](https://github.com/systemd/systemd/pull/40954)
 
 tailwindlabs/tailwindcss.com
 * tailwind css reject AI/LLM optimized docs PR, and reveal that they have laid off 75% of employee just yesterday
