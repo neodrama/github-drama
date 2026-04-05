@@ -722,6 +722,12 @@ nodejs/node
 
 [npm/npm/issues/19883](https://github.com/npm/npm/issues/19883)
 
+nvim-treesitter/nvim-treesitter - Maintainer stepped down from the project after been asked to
+* Discussion on why there is no releases from nvim-treesitter repo ended up quite intense, and eventually maintainer archived the whole repo.
+* It also invovled a commit on 1st of April when maintainer dropped support for nvim 0.11 after nvim 0.12 release.
+[nvim-treesitter/nvim-treesitter/discussions/8627](https://github.com/nvim-treesitter/nvim-treesitter/discussions/8627)
+[nvim-treesitter/nvim-treesitter/commit/c82bf96](https://github.com/nvim-treesitter/nvim-treesitter/commit/c82bf96f0a773d85304feeb695e1e23b2207ac35)
+
 [obsproject/obs-studio/pull/2868](https://github.com/obsproject/obs-studio/pull/2868#issuecomment-1134053984)
 
 [obsproject/obs-studio/pull/10043](https://github.com/obsproject/obs-studio/pull/10043)
