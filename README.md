@@ -49,6 +49,8 @@ actions/runner-images - GitHub rolls out a broken change in macos runner images 
 * Anthropics' Claude Opus 4.6 wrote a dependency-free C compiler in Rust, but cannot compile a hello world example
 * Later discover shows a path issue as the compiler still function as expected: https://news.ycombinator.com/item?id=46920922
 
+[anthropics/claude-code/issues/53262](https://github.com/anthropics/claude-code/issues/53262)
+
 [anddea/revanced-patches/issues/1424](https://github.com/anddea/revanced-patches/issues/1424)
 * Morphe team (original patch authors) demands that the ReVanced "Spoof Clients" patch maintainer add an in-app attribution notice for Morphe, claiming their GPL license requires this.
 * willing to credit Morphe but wants to acknowledge all upstream contributors (yt-dlp, NewPipe, J2V8, ReVanced, RVX, etc.), since the patch is derivative of multiple projects.
@@ -643,6 +645,10 @@ Microsoft/vscode
 Microsoft/vscode - Santa hat drama
 * [issues/87268](https://github.com/microsoft/vscode/issues/87268)
 * [issues/87440](https://github.com/microsoft/vscode/issues/87440)
+
+Microsoft/vscode - Enabling AI co-author by default
+* [pull/310226](https://github.com/microsoft/vscode/pull/310226)
+* [pull/313931](https://github.com/microsoft/vscode/pull/313931)
 
 [microsoft/vsmarketplace/issues/1114](https://github.com/microsoft/vsmarketplace/issues/1114)
 
