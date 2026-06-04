@@ -554,6 +554,10 @@ Marak/colors.js
 * [colors.js/issues/290](https://github.com/Marak/colors.js/issues/290)
 * [faker.js/issues/1046](https://web.archive.org/web/20210704022108/https://github.com/Marak/faker.js/issues/1046)
 
+mastodon/mastodon - Alt text limit for images
+* [/pull/37862](https://github.com/mastodon/mastodon/pull/37862)
+* https://txt.ltdk.xyz/giving-a-fuck-about-accessibility/
+
 [matplotlab/matplotlab](https://github.com/matplotlib/matplotlib/pull/31132)
 * Matplotlab maintainer closes a PR opened by a AI agent, who later wrote a blogpost to shames the maintainer who closes it
 * Hackernews: https://news.ycombinator.com/item?id=46987559
