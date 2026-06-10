@@ -164,6 +164,8 @@ daeuniverse/dae
 [dotnet/maui/issues/35](https://github.com/dotnet/maui/issues/35)
 * .NET MAUI's name clashed with existing projects Maui Linux and MauiKit
 
+[dotnet/Microsoft.Maui.Graphics/issues/47](https://github.com/dotnet/Microsoft.Maui.Graphics/issues/47)
+
 [dotnet/roslyn/pull/3507](https://github.com/dotnet/roslyn/pull/3507)
 * Roslyn removed occurrences of the term "whitelist" from its codebase, replacing it with alternative terminology.
 
