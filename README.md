@@ -839,6 +839,8 @@ Plan-Vert/open-letter
 * [/pull/32](https://github.com/Plan-Vert/open-letter/pull/32)
 * https://www.piratewires.com/p/david-heinemeier-hansson-ruby-petition-nazi-permission-slip-violence
 
+[plankanban/planka/issues/1754](https://github.com/plankanban/planka/issues/1754)
+
 PolyMC/PolyMC
 * [/commit/ccf2825](https://github.com/PolyMC/PolyMC/commit/ccf282593dcdbe189c99b81b8bc90cb203aed3ee)
 * [/issues/656](https://github.com/PolyMC/PolyMC/issues/656)
